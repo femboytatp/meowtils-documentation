@@ -27,6 +27,89 @@ theme:
 
 nav:
   - Home: index.md
+    - Meowtils:
+      - GUI: meowtils/gui.md
+      - Icons: meowtils/icons.md
+      - Notifications: meowtils/notifications.md
+      - Settings: meowtils/settings.md
+      - Teams: meowtils/teams.md
+    - Hypixel:
+      - AccountHider: hypixel/accounthider.md
+      - AutoChannel: hypixel/autochannel.md
+      - AutoGG: hypixel/autogg.md
+      - AutoTip: hypixel/autotip.md
+      - AutoWho: hypixel/autowho.md
+      - ChatCleaner: hypixel/chatcleaner.md
+      - Denicker: hypixel/denicker.md
+      - MurdererFinder: hypixel/murdererfinder.md
+      - NickBot: hypixel/nickbot.md
+      - PartyNotifier: hypixel/partynotifier.md
+      - Requeue: hypixel/requeue.md
+      - SessionStats: hypixel/sessionstats.md
+      - Stats: hypixel/stats.md
+    - Skywars:
+      - CooldownHUD: skywars/cooldownhud.md
+      - EquipAlerts: skywars/equipalerts.md
+      - ItemHighlight: skywars/itemhighlight.md
+      - MiningAlerts: skywars/miningalerts.md
+      - NoArmorDye: skywars/noarmordye.md
+      - PearlDetector: skywars/pearldetector.md
+      - SkywarsAlerts: skywars/skywarsalerts.md
+      - StrengthESP: skywars/strengthesp.md
+    - Bedwars:
+      - AntiMisplace: bedwars/antimisplace.md
+      - ArmorAlerts: bedwars/armoralerts.md
+      - BedESP: bedwars/bedesp.md
+      - BedTracker: bedwars/bedtracker.md
+      - ConsumeAlerts: bedwars/consumealerts.md
+      - EventTimers: bedwars/eventtimers.md
+      - HeightOverlay: bedwars/heightoverlay.md
+      - ItemAlerts: bedwars/itemalerts.md
+      - ResourceTracker: bedwars/resourcetracker.md
+      - ShopHelper: bedwars/shophelper.md
+      - TrapNotifier: bedwars/trapnotifier.md
+      - UpgradeAlerts: bedwars/upgradealerts.md
+      - UpgradeHUD: bedwars/upgradehud.md
+    - Render:
+      - Animations: render/animations.md
+      - Anti-Invis: render/antiinvis.md
+      - BlockCount: render/blockcount.md
+      - BreakProgress: render/breakprogress.md
+      - Cape: render/cape.md
+      - ChestESP: render/chestesp.md
+      - ConsumeTimer: render/consumetimer.md
+      - DamageTags: render/damagetags.md
+      - HealthDisplay: render/healthdisplay.md
+      - HealthESP: render/healthesp.md
+      - Indicators: render/indicators.md
+      - InstantHurt: render/instanthurt.md
+      - ItemESP: render/itemesp.md
+      - ItemScale: render/itemscale.md
+      - PotionHUD: render/potionhud.md
+      - ShinyPots: render/shinypots.md
+      - TimeChanger: render/timechanger.md
+    - Antisnipe:
+      - AntiCheat: antisnipe/anticheat.md
+      - AutoSafelist: antisnipe/autosafelist.md
+      - PartyDetector: antisnipe/partydetector.md
+      - PlayerWarning: antisnipe/playerwarning.md
+    - Utility:
+      - ActionSounds: utility/actionsounds.md
+      - AntiObfuscate: utility/antiobfuscate.md
+      - AutoText: utility/autotext.md
+      - Freelook: utility/freelook.md
+      - HotbarLock: utility/hotbarlock.md
+      - LatencyAlerts: utility/latencyalerts.md
+      - NoParticles: utility/noparticles.md
+      - NoTitles: utility/notitles.md
+      - NullMove: utility/nullmove.md
+      - Sprint: utility/sprint.md
+      - ViewClip: utility/viewclip.md
+    - Advanced:
+      - AutoChest: advanced/autochest.md
+      - AutoStairs: advanced/autostairs.md
+      - AutoSwap: advanced/autoswap.md
+      - DelayRemover: advanced/delayremover.md
 
 extra_css:
   - stylesheets/color.css
