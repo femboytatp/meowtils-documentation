@@ -27,6 +27,7 @@ theme:
 
 nav:
   - Home: index.md
+  - Modules:
     - Meowtils:
       - GUI: meowtils/gui.md
       - Icons: meowtils/icons.md
