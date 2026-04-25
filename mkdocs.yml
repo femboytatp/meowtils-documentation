@@ -7,18 +7,18 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
-    #- navigation.expand
+    - navigation.expand
     - content.code.copy
 
   palette:
-    - scheme: default
+    - scheme: slate
       primary: deep_purple
       accent: purple
       toggle:
         icon: material/weather-night
         name: Dark mode
 
-    - scheme: slate
+    - scheme: default
       primary: deep_purple
       accent: purple
       toggle:
@@ -27,3 +27,6 @@ theme:
 
 nav:
   - Home: index.md
+
+extra_css:
+  - stylesheets/color.css
