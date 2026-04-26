@@ -28,89 +28,89 @@ theme:
 nav:
   - Home: index.md
   - Modules:
-    - Meowtils:
-      - GUI: modules/meowtils/gui.md
-      - Icons: modules/meowtils/icons.md
-      - Notifications: modules/meowtils/notifications.md
-      - Settings: modules/meowtils/settings.md
-      - Teams: modules/meowtils/teams.md
-    - Hypixel:
-      - AccountHider: modules/hypixel/accounthider.md
-      - AutoChannel: modules/hypixel/autochannel.md
-      - AutoGG: modules/hypixel/autogg.md
-      - AutoTip: modules/hypixel/autotip.md
-      - AutoWho: modules/hypixel/autowho.md
-      - ChatCleaner: modules/hypixel/chatcleaner.md
-      - Denicker: modules/hypixel/denicker.md
-      - MurdererFinder: modules/hypixel/murdererfinder.md
-      - NickBot: modules/hypixel/nickbot.md
-      - PartyNotifier: modules/hypixel/partynotifier.md
-      - Requeue: modules/hypixel/requeue.md
-      - SessionStats: modules/hypixel/sessionstats.md
-      - Stats: modules/hypixel/stats.md
-    - Skywars:
-      - CooldownHUD: modules/skywars/cooldownhud.md
-      - EquipAlerts: modules/skywars/equipalerts.md
-      - ItemHighlight: modules/skywars/itemhighlight.md
-      - MiningAlerts: modules/skywars/miningalerts.md
-      - NoArmorDye: modules/skywars/noarmordye.md
-      - PearlDetector: modules/skywars/pearldetector.md
-      - SkywarsAlerts: modules/skywars/skywarsalerts.md
-      - StrengthESP: modules/skywars/strengthesp.md
-    - Bedwars:
-      - AntiMisplace: modules/bedwars/antimisplace.md
-      - ArmorAlerts: modules/bedwars/armoralerts.md
-      - BedESP: modules/bedwars/bedesp.md
-      - BedTracker: modules/bedwars/bedtracker.md
-      - ConsumeAlerts: modules/bedwars/consumealerts.md
-      - EventTimers: modules/bedwars/eventtimers.md
-      - HeightOverlay: modules/bedwars/heightoverlay.md
-      - ItemAlerts: modules/bedwars/itemalerts.md
-      - ResourceTracker: modules/bedwars/resourcetracker.md
-      - ShopHelper: modules/bedwars/shophelper.md
-      - TrapNotifier: modules/bedwars/trapnotifier.md
-      - UpgradeAlerts: modules/bedwars/upgradealerts.md
-      - UpgradeHUD: modules/bedwars/upgradehud.md
-    - Render:
-      - Animations: modules/render/animations.md
-      - Anti-Invis: modules/render/antiinvis.md
-      - BlockCount: modules/render/blockcount.md
-      - BreakProgress: modules/render/breakprogress.md
-      - Cape: modules/render/cape.md
-      - ChestESP: modules/render/chestesp.md
-      - ConsumeTimer: modules/render/consumetimer.md
-      - DamageTags: modules/render/damagetags.md
-      - HealthDisplay: modules/render/healthdisplay.md
-      - HealthESP: modules/render/healthesp.md
-      - Indicators: modules/render/indicators.md
-      - InstantHurt: modules/render/instanthurt.md
-      - ItemESP: modules/render/itemesp.md
-      - ItemScale: modules/render/itemscale.md
-      - PotionHUD: modules/render/potionhud.md
-      - ShinyPots: modules/render/shinypots.md
-      - TimeChanger: modules/render/timechanger.md
-    - Antisnipe:
-      - AntiCheat: modules/antisnipe/anticheat.md
-      - AutoSafelist: modules/antisnipe/autosafelist.md
-      - PartyDetector: modules/antisnipe/partydetector.md
-      - PlayerWarning: modules/antisnipe/playerwarning.md
-    - Utility:
-      - ActionSounds: modules/utility/actionsounds.md
-      - AntiObfuscate: modules/utility/antiobfuscate.md
-      - AutoText: modules/utility/autotext.md
-      - Freelook: modules/utility/freelook.md
-      - HotbarLock: modules/utility/hotbarlock.md
-      - LatencyAlerts: modules/utility/latencyalerts.md
-      - NoParticles: modules/utility/noparticles.md
-      - NoTitles: modules/utility/notitles.md
-      - NullMove: modules/utility/nullmove.md
-      - Sprint: modules/utility/sprint.md
-      - ViewClip: modules/utility/viewclip.md
-    - Advanced:
-      - AutoChest: modules/advanced/autochest.md
-      - AutoStairs: modules/advanced/autostairs.md
-      - AutoSwap: modules/advanced/autoswap.md
-      - DelayRemover: modules/advanced/delayremover.md
+      - Meowtils:
+          - GUI: modules/meowtils/gui.md
+          - Icons: modules/meowtils/icons.md
+          - Notifications: modules/meowtils/notifications.md
+          - Settings: modules/meowtils/settings.md
+          - Teams: modules/meowtils/teams.md
+      - Hypixel:
+          - AccountHider: modules/hypixel/accounthider.md
+          - AutoChannel: modules/hypixel/autochannel.md
+          - AutoGG: modules/hypixel/autogg.md
+          - AutoTip: modules/hypixel/autotip.md
+          - AutoWho: modules/hypixel/autowho.md
+          - ChatCleaner: modules/hypixel/chatcleaner.md
+          - Denicker: modules/hypixel/denicker.md
+          - MurdererFinder: modules/hypixel/murdererfinder.md
+          - NickBot: modules/hypixel/nickbot.md
+          - PartyNotifier: modules/hypixel/partynotifier.md
+          - Requeue: modules/hypixel/requeue.md
+          - SessionStats: modules/hypixel/sessionstats.md
+          - Stats: modules/hypixel/stats.md
+      - Skywars:
+          - CooldownHUD: modules/skywars/cooldownhud.md
+          - EquipAlerts: modules/skywars/equipalerts.md
+          - ItemHighlight: modules/skywars/itemhighlight.md
+          - MiningAlerts: modules/skywars/miningalerts.md
+          - NoArmorDye: modules/skywars/noarmordye.md
+          - PearlDetector: modules/skywars/pearldetector.md
+          - SkywarsAlerts: modules/skywars/skywarsalerts.md
+          - StrengthESP: modules/skywars/strengthesp.md
+      - Bedwars:
+          - AntiMisplace: modules/bedwars/antimisplace.md
+          - ArmorAlerts: modules/bedwars/armoralerts.md
+          - BedESP: modules/bedwars/bedesp.md
+          - BedTracker: modules/bedwars/bedtracker.md
+          - ConsumeAlerts: modules/bedwars/consumealerts.md
+          - EventTimers: modules/bedwars/eventtimers.md
+          - HeightOverlay: modules/bedwars/heightoverlay.md
+          - ItemAlerts: modules/bedwars/itemalerts.md
+          - ResourceTracker: modules/bedwars/resourcetracker.md
+          - ShopHelper: modules/bedwars/shophelper.md
+          - TrapNotifier: modules/bedwars/trapnotifier.md
+          - UpgradeAlerts: modules/bedwars/upgradealerts.md
+          - UpgradeHUD: modules/bedwars/upgradehud.md
+      - Render:
+          - Animations: modules/render/animations.md
+          - Anti-Invis: modules/render/antiinvis.md
+          - BlockCount: modules/render/blockcount.md
+          - BreakProgress: modules/render/breakprogress.md
+          - Cape: modules/render/cape.md
+          - ChestESP: modules/render/chestesp.md
+          - ConsumeTimer: modules/render/consumetimer.md
+          - DamageTags: modules/render/damagetags.md
+          - HealthDisplay: modules/render/healthdisplay.md
+          - HealthESP: modules/render/healthesp.md
+          - Indicators: modules/render/indicators.md
+          - InstantHurt: modules/render/instanthurt.md
+          - ItemESP: modules/render/itemesp.md
+          - ItemScale: modules/render/itemscale.md
+          - PotionHUD: modules/render/potionhud.md
+          - ShinyPots: modules/render/shinypots.md
+          - TimeChanger: modules/render/timechanger.md
+      - Antisnipe:
+          - AntiCheat: modules/antisnipe/anticheat.md
+          - AutoSafelist: modules/antisnipe/autosafelist.md
+          - PartyDetector: modules/antisnipe/partydetector.md
+          - PlayerWarning: modules/antisnipe/playerwarning.md
+      - Utility:
+          - ActionSounds: modules/utility/actionsounds.md
+          - AntiObfuscate: modules/utility/antiobfuscate.md
+          - AutoText: modules/utility/autotext.md
+          - Freelook: modules/utility/freelook.md
+          - HotbarLock: modules/utility/hotbarlock.md
+          - LatencyAlerts: modules/utility/latencyalerts.md
+          - NoParticles: modules/utility/noparticles.md
+          - NoTitles: modules/utility/notitles.md
+          - NullMove: modules/utility/nullmove.md
+          - Sprint: modules/utility/sprint.md
+          - ViewClip: modules/utility/viewclip.md
+      - Advanced:
+          - AutoChest: modules/advanced/autochest.md
+          - AutoStairs: modules/advanced/autostairs.md
+          - AutoSwap: modules/advanced/autoswap.md
+          - DelayRemover: modules/advanced/delayremover.md
 
 extra_css:
   - stylesheets/color.css
