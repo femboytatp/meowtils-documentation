@@ -8,7 +8,6 @@
 
 Adjust GUI theme colors.
 
-
 ## Show tooltips
 
 Shows a short tooltip for modules while hovering them.
