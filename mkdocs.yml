@@ -5,9 +5,9 @@ theme:
   name: material
 
   features:
-    - navigation.tabs
+    #- navigation.tabs
     - navigation.sections
-    #- navigation.expand
+    - navigation.expand
     - navigation.instant
     - content.code.copy
 
@@ -18,8 +18,6 @@ theme:
         name: Dark mode
 
     - scheme: default
-      primary: deep_purple
-      accent: purple
       toggle:
         icon: material/weather-sunny
         name: Light mode
