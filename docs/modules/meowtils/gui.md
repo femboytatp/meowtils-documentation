@@ -1,12 +1,12 @@
 # GUI
 
-### Lets you adjust GUI related settings.
+#### Lets you adjust GUI related settings.
 
 ---
 
 ## Color
 
-Adjust GUI theme colors.
+Adjusts the color that GUI uses when shown.
 
 ## Show tooltips
 
@@ -18,4 +18,4 @@ Applies a blur for background while GUI is open.
 
 ## Bind
 
-The bind for opening the GUI.
+The bind for opening the GUI. Can be re-bound by middle clicking GUI module.
