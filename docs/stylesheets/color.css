@@ -23,3 +23,8 @@
 .md-typeset a:hover {
   color: #f2a3f2;
 }
+
+.md-typeset h1,
+.md-typeset h2 {
+  border-bottom: none;
+}
