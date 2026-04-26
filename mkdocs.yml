@@ -7,7 +7,7 @@ theme:
   features:
     #- navigation.tabs
     - navigation.sections
-    - navigation.expand
+    #- navigation.expand
     - navigation.instant
     - content.code.copy
 
@@ -25,6 +25,7 @@ theme:
 nav:
   - Home: index.md
   - Modules:
+      - modules/index.md
       - Meowtils:
           - GUI: modules/meowtils/gui.md
           - Icons: modules/meowtils/icons.md
