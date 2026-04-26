@@ -4,7 +4,7 @@
 
 !!! Note
 
-    To stop the NickBot simply click ESC.
+    To stop the NickBot simply press ESC.
 
 ---
 
@@ -22,7 +22,7 @@ Starts the NickBot when clicked.
 
 ## Auto accept good
 
-Will automatically accept the nick if you get a good one, otherwise it will just leave the book open until for you to manually accept it.
+Will automatically accept the nick if you get a good one, otherwise it will just leave the book open for you to manually accept it.
 
 ## Ignore limbo kick
 

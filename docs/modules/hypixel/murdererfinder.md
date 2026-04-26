@@ -32,9 +32,9 @@ Renders no ESP at all for players.
 
 Adds an icon for relevant roles to player names.
 
-If they have a bow a golden arrow icon will be shown.
+<span style="color: #aa0000">!!</span> = Murderer
 
-If they are the murderer red exclamation marks will be shown.
+<span style="color: #ffaa00">➹</span> = Detective (has bow)
 
 ## Chat alerts
 
