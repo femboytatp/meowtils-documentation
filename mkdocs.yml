@@ -108,3 +108,10 @@ nav:
 
 extra_css:
   - stylesheets/color.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
