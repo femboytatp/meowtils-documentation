@@ -18,7 +18,7 @@ This does not apply to GUI, which will always use smooth font.
 
 Lets you copy chat messages by hovering over them and right clicking.
 
-!!! Note
+!!! Bug "Important"
 
     Certain chat mods as well as Lunar Client may break this, which in that case you should use the copy chat feature provided by those mods instead.
 
@@ -28,7 +28,7 @@ Lets you copy chat messages by hovering over them and right clicking.
 
 Lets you customize the prefix for chat messages.
 
-!!! Tip
+!!! Info
     
     Use the /theme command to pick colors for Custom & Short themes.
 
