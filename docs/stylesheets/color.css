@@ -15,3 +15,9 @@
 .md-nav .md-nav .md-nav .md-nav__link--active {
   color: #e079e0 !important;
 }
+
+/* Material removes lines for h2 so we add it back */
+.md-typeset h2 {
+  border-bottom: 0.05rem solid var(--md-default-fg-color--lightest);
+  padding-bottom: 0.3rem;
+}

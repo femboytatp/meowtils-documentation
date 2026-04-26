@@ -1,30 +1,35 @@
 # Icons
 
-#### Adjust settings for icons shown in tab/nametags for players.
-
----
+#### Adjust settings for various nametag icons that are shown for players.
 
 ## Display
 
 ### Always
-Always display, includes nametags & tablist,
+
+Display in both nametags and tablist.
 
 ### Tablist
+
 Display in tablist only.
 
 ### Nametags
+
 Display in nametags only.
 
 ## Icons
 
 ### Blacklist Icon
-Show icon for blacklisted players.
+
+Shows warning icons for players that are in your blacklist.
 
 ### Safelist Icon
-Show icon for safelisted players.
+
+Shows safelist checkmark icons for players that are in your safelist.
 
 ### Friend Icon
-Show icon for players that are friended on Meowtils.
+
+Shows friend star icons for players that are friended in Meowtils.
 
 ### Urchin Icon
-Show icon for players that are blacklisted on Urchin, if using Urchin API in Stats module.
+
+Shows Urchin icons for players that are blacklisted on Urchin, if using Urchin API in Stats module.
