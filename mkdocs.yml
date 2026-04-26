@@ -3,6 +3,9 @@ site_url: https://femboytatp.github.io/meowtils-documentation/
 
 theme:
   name: material
+  font:
+    text: Roboto
+    code: Roboto Mono
 
   features:
     - navigation.instant
@@ -18,6 +21,16 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Light mode
+
+extra_css:
+  - stylesheets/color.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
 
 nav:
   - Home: index.md
@@ -105,13 +118,3 @@ nav:
           - AutoStairs: modules/advanced/autostairs.md
           - AutoSwap: modules/advanced/autoswap.md
           - DelayRemover: modules/advanced/delayremover.md
-
-extra_css:
-  - stylesheets/color.css
-
-markdown_extensions:
-  - admonition
-  - pymdownx.superfences
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
