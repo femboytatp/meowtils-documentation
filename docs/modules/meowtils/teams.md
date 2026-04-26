@@ -1,6 +1,6 @@
 # Teams
 
-#### Lets you make modules ignore teammates.
+#### Makes modules ignore teammates and bots.
 
 ---
 
