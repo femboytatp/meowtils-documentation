@@ -1,4 +1,4 @@
-# GUI
+# **GUI**
 
 #### Lets you adjust GUI related settings.
 
