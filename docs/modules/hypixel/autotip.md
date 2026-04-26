@@ -1,4 +1,4 @@
-# AutoTip
+# **AutoTip**
 
 #### Automatically tips everyone on Hypixel for network experience.
 

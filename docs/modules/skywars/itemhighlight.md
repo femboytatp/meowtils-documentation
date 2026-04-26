@@ -1,4 +1,4 @@
-# ItemHighlight
+# **ItemHighlight**
 
 #### Highlights important in your inventory by drawing a colored slot background.
 

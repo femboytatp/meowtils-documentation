@@ -1,4 +1,4 @@
-# MiningAlerts
+# **MiningAlerts**
 
 #### Alerts when a player mines diamond ore.
 

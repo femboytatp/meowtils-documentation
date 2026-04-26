@@ -1,4 +1,4 @@
-# PearlDetector
+# **PearlDetector**
 
 #### Detects thrown pearls and positions.
 

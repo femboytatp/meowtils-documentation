@@ -1,4 +1,4 @@
-# Stats
+# **Stats**
 
 #### Display game stats for players.
 

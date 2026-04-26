@@ -1,4 +1,4 @@
-# Requeue
+# **Requeue**
 
 #### Easily requeue a game.
 

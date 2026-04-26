@@ -1,4 +1,4 @@
-# MurdererFinder
+# **MurdererFinder**
 
 #### Resolves relevant roles in Murder Mystery.
 

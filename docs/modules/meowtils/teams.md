@@ -1,4 +1,4 @@
-# Teams
+# **Teams**
 
 #### Makes modules ignore teammates and bots.
 

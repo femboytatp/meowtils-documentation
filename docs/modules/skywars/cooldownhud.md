@@ -1,4 +1,4 @@
-# CooldownHUD
+# **CooldownHUD**
 
 #### Displays item cooldowns on screen after a game starts.
 

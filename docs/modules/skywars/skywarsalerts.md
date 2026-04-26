@@ -1,4 +1,4 @@
-# SkywarsAlerts
+# **SkywarsAlerts**
 
 #### Alerts you when players hold important items.
 
@@ -28,6 +28,13 @@ Plays a sound for all alerts.
 
 Only players a sound for important alerts.
 
+**Applies to:**
+
+- Ender Pearl
+- Diamond Sword
+- Knockback Rod
+- Strength Potion
+
 ### None
 
 Plays no sound.
@@ -56,6 +63,6 @@ This will display an icon in player nametags if they ever held an important item
 
 <span style="color: #aa0000">⚒</span> = Strength Potion
 
-<span style="color: #ffaa00">⚡</span> = Knockback Rod
+<span style="color: #ffaa00">⚡ (gold)</span> = Knockback Rod
 
-<span style="color: #ffff55">⚡</span> = Knockback Sword
+<span style="color: #ffff55">⚡(yellow)</span> = Knockback Sword

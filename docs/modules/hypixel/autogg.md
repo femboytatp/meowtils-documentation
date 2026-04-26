@@ -1,4 +1,4 @@
-# AutoGG
+# **AutoGG**
 
 #### Sends a custom message when a game ends, or before one starts.
 

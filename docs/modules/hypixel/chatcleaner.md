@@ -1,3 +1,3 @@
-# ChatCleaner
+# **ChatCleaner**
 
 #### Hides useless chat messages.

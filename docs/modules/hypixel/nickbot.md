@@ -1,4 +1,4 @@
-# NickBot
+# **NickBot**
 
 #### Rerolls nicks for you until a good one is found.
 
