@@ -6,15 +6,20 @@
   --md-primary-fg-color--dark: #b85bb8;
   --md-accent-fg-color: #dda0dd;
   --md-accent-fg-color--transparent: #dda0dd1a;
-
   --md-typeset-a-color: #e079e0;
 }
 
 .md-nav__link--active,
-.md-nav__link:is(:focus, :hover) {
+.md-nav__link:is(:focus, :hover),
+.md-nav .md-nav .md-nav__link--active,
+.md-nav .md-nav .md-nav .md-nav__link--active {
   color: #e079e0 !important;
 }
 
-.md-nav__link--active {
-  color: #e079e0 !important;
+.md-typeset a {
+  color: #e079e0;
+}
+
+.md-typeset a:hover {
+  color: #f2a3f2;
 }
