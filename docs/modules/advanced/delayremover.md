@@ -16,7 +16,7 @@ This reduces the delay in-between block breaks. It does not directly make you br
 
 Sets the delay of NoBreakDelay, lower delay would be faster but more obvious.
 
-!!! Warning
+!!! Danger
 
     This is not a legit feature. It should be treated as a cheat and it can be detected by anticheats as well as by server staff.
 
