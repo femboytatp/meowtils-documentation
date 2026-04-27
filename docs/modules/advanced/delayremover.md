@@ -34,7 +34,7 @@ Sets an extra delay for NoUseDelay, which might be required when used on higher 
 
 !!! Info
 
-    All this does is cancel right click after set delayed, this is a vanilla feature and is not detectable by any anticheats
+    All this does is cancel right click after set delayed, this is a vanilla feature and is not detectable by any anticheats.
 
 ## NoHitDelay
 
@@ -46,8 +46,8 @@ Removes the delay that is applied if you miss a hit clientside. This makes pvp m
 
 ## NoJumpDelay
 
-Removes the delay between jumps, meaning you can hold down jump key and it would act as if you click it quickly.
+Removes the delay between jumps, meaning you can hold down jump key and it would act as if you keep pressing it quickly.
 
 !!! Warning
 
-    This is not a known to be detected on any known anticheats however it has no randomization or delay which means it can potentially be detected in the future.
+    This is not known to be detected on any anticheats however it has no randomization or delay which means it can potentially be detected in the future.
