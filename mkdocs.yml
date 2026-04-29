@@ -21,6 +21,8 @@ theme:
       bug: fontawesome/solid/robot
       example: fontawesome/solid/flask
       quote: fontawesome/solid/quote-left
+    tag:
+      blatant: fontawesome/solid/skull
 
   features:
     - navigation.instant
@@ -52,7 +54,7 @@ plugins:
 
 extra:
   tags:
-    blatant: fontawesome/solid/skull
+    Blatant: blatant
 
 nav:
   - Introduction: index.md
