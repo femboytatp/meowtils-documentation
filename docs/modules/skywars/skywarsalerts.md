@@ -63,6 +63,6 @@ This will display an icon in player nametags if they ever held an important item
 
 <span style="color: #aa0000">⚒</span> = Strength Potion
 
-<span style="color: #ffaa00">⚡ (gold)</span> = Knockback Rod
+<span style="color: #ffaa00">⚡</span> = Knockback Rod
 
-<span style="color: #ffff55">⚡(yellow)</span> = Knockback Sword
+<span style="color: #ffff55">⚡</span> = Knockback Sword

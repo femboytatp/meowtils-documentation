@@ -64,6 +64,16 @@ Will check if a player is in the Urchin blacklist. Does not require an API key.
 
 Ignore checking & rendering Urchin icon for yourself.
 
+### Show name icons
+
+Will show Urchin icons in nametag & tablist for players that are in the Urchin blacklist.
+
+### Show in chat
+
+Will print a message in chat if a player is blacklisted on Urchin, requires AutoWho or manually running /who, in games only.
+
+This only applies to games that support the /who command.
+
 ## Bedwars
 
 Customize Bedwars stats.

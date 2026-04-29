@@ -1,3 +1,8 @@
+---
+tags:
+  - Blatant
+---
+
 # **AutoChest**
 
 #### Automatically deposits resources into your Bedwars chest.

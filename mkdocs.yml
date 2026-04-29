@@ -47,6 +47,13 @@ markdown_extensions:
       anchor_linenums: true
   - pymdownx.inlinehilite
 
+plugins:
+  - tags
+
+extra:
+  tags:
+    blatant: fontawesome/solid/skull
+
 nav:
   - Introduction: index.md
   - Modules:
