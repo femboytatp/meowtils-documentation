@@ -1,0 +1,4 @@
+.md-tag[href*="blatant"] {
+    background-color: #ff1744;
+    color: #fff;
+}
