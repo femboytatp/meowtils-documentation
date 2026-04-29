@@ -20,7 +20,7 @@ This lets you restrict which modules you're able to use, in case you want to res
 
 !!! Note
 
-    We make no attempts at restricting features forcefully, this is fully up to you, and you're able to change mode at any time.
+    We make no attempts at forcefully restricting features, this is fully up to you, and you're able to change mode at any time.
 
 ### Unrestricted
 
