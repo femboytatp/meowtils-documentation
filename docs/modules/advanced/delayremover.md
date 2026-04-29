@@ -1,3 +1,8 @@
+---
+tags:
+  - Blatant
+---
+
 # **DelayRemover**
 
 #### Removes or reduces certain Minecraft delays.

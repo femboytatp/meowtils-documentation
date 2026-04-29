@@ -1,3 +1,8 @@
+---
+tags:
+  - Safe
+---
+
 # **AutoStairs**
 
 #### Automatically jumps when going up stairs to increase movement speeds.

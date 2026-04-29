@@ -1,3 +1,8 @@
+---
+tags:
+  - Blatant
+---
+
 # **AutoSwap**
 
 #### Automatically swaps items when about to run out.
