@@ -48,7 +48,7 @@ markdown_extensions:
   - pymdownx.inlinehilite
 
 nav:
-  - Introduction: introduction.md
+  - Introduction: index.md
   - Modules:
       - Meowtils:
           - GUI: modules/meowtils/gui.md
