@@ -23,6 +23,8 @@ theme:
       quote: fontawesome/solid/quote-left
     tag:
       blatant: fontawesome/solid/skull
+      legit: fontawesome/solid/check
+      safe: fontawesome/solid/book
 
   features:
     - navigation.instant
@@ -56,6 +58,8 @@ plugins:
 extra:
   tags:
     Blatant: blatant
+    Legit: legit
+    Safe: safe
 
 nav:
   - Introduction: index.md

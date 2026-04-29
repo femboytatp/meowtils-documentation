@@ -1,3 +1,8 @@
+---
+tags:
+  - Safe
+---
+
 # **Anti-Invis**
 
 #### Renders invisible players semi-transparent instead.

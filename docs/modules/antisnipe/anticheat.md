@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **AntiCheat**
 
 #### Attempts to detect if a player is cheating. Based on predicting, may not be 100% accurate.

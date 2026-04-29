@@ -1,4 +1,14 @@
-.md-tag[href*="blatant"] {
+.md-tag--blatant {
     background-color: #ff1744;
+    color: #fff;
+}
+
+.md-tag--legit {
+    background-color: #00c853;
+    color: #fff;
+}
+
+.md-tag--safe {
+    background-color: #00b0ff;
     color: #fff;
 }
