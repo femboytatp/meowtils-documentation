@@ -19,7 +19,7 @@ Changes size of the HUD.
 
 ## Short names
 
-Shortens names, e.g. Sharpness shows as Sharp.
+Shortens names, e.g. Sharpness becomes Sharp.
 
 ## Show
 

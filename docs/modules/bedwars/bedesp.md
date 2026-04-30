@@ -5,13 +5,13 @@ tags:
 
 # **BedESP**
 
-#### Renders an ESP for beds & obsidian around them.
+#### Renders an ESP for beds & obsidian.
 
 ---
 
 ## Color
 
-Changes the color of the bed ESP box.
+Changes the color of the bed ESP box. Only applies to beds.
 
 ## Opacity
 
@@ -21,7 +21,7 @@ Changes the opacity of the ESP.
 
 ### Full
 
-Renders a filled ESP boxes.
+Renders filled ESP boxes.
 
 ### Outline
 

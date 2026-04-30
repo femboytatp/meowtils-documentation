@@ -13,7 +13,7 @@ tags:
 
 ### Chat
 
-Prints a chat message.
+Sends a chat message.
 
 ### Notification
 
@@ -21,7 +21,7 @@ Sends alert as a toast notification.
 
 ### All
 
-Prints chat message & sends toast notification.
+Sends chat message & sends toast notification.
 
 ## Ping sound
 
@@ -31,7 +31,7 @@ Plays a sound for all alerts.
 
 ### Important
 
-Only players a sound for important alerts.
+Only plays a sound for important alerts.
 
 ### None
 

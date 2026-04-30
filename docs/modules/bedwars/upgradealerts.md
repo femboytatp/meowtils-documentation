@@ -7,13 +7,18 @@ tags:
 
 #### Alerts when a team buys a team upgrade.
 
+Applies to:
+
+- Sharpness
+- Protection
+
 ---
 
 ## Alert
 
 ### Chat
 
-Prints a chat message.
+Sends a chat message.
 
 ### Notification
 
@@ -21,7 +26,7 @@ Sends alert as a toast notification.
 
 ### All
 
-Prints chat message & sends toast notification.
+Sends chat message & sends toast notification.
 
 ## Ping sound
 

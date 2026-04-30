@@ -21,7 +21,7 @@ Only shows resource HUD element.
 
 ### Chat
 
-Only prints chat messages for inventory resource changes.
+Only sends chat messages for inventory resource changes.
 
 ## Ping sound
 
@@ -48,11 +48,15 @@ Changes the size of HUD element.
 
 ## Stack messages
 
-Stacks messages by removing old chat messages and printing a new one instead.
+Stacks messages by removing old chat messages and sending a new one instead.
 
 ## Hide default message
 
-Hides the default pickup messages for resources, for example "+3 Iron" after killing someone.
+Hides the default pickup messages for resources.
+
+!!! Example
+
+    Normally Hypixel shows a message such as "+3 Iron" after killing someone, this removes it as we already display all changes in chat.
 
 ## Include Enderchest
 

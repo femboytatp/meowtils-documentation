@@ -13,7 +13,7 @@ tags:
 
 ### Chat
 
-Prints a chat message.
+Sends a chat message.
 
 ### Notification
 
@@ -21,7 +21,7 @@ Sends alert as a toast notification.
 
 ### All
 
-Prints chat message & sends toast notification.
+Sends chat message & sends toast notification.
 
 ## Max distance
 

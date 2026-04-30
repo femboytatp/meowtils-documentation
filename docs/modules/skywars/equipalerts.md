@@ -21,7 +21,7 @@ Will alert in a toast notification.
 
 ### All
 
-Alerts sent in both chat & toast notification.
+Alerts are sent in both chat & toast notification.
 
 ## Ping sound
 

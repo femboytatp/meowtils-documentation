@@ -15,13 +15,15 @@ Opacity for slot background.
 
 ## Highlight affordable
 
-Highlights background of items that you can buy based on the resources you currently have in your inventory.
+Highlights background of items that you can buy based on the resources you currently have in your inventory. The color will be based on what resource it costs to purchase.
 
 ## Replace clicks
 
 Replaces your clicks with middle clicks. This prevents the clientside pick-up animation for items and allows you to purchase items faster since you no longer hold items, makes more of a difference when your latency is higher.
 
-This is legit client behaviour and is not disallowed on Hypixel. It is utilized by a lot of mainstream Skyblock mods.
+!!! Success "Legit"
+
+    This is legit client behaviour and is not disallowed on Hypixel. It is already used by a lot of mainstream Skyblock mods.
 
 ## Prevent duplicate
 

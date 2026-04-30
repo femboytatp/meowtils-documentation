@@ -25,11 +25,11 @@ Only shows the next 2 events rather than all.
 
 ### Roman numerals
 
-Replaces numbers with roman numerals. E.g. 3 becomes III
+Replaces numbers with roman numerals. E.g. 3 becomes III.
 
 ### Dynamic color
 
-Changes color for each event text.
+Changes color for each event title.
 
 ## Emeralds
 
