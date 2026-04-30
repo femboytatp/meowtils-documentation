@@ -1,8 +1,6 @@
 # **What is Meowtils?**
 
-Meowtils is a Minecraft utility mod with features that are mainly focused towards specific servers and gamemodes, but it also contains general quality of life enhancements that can be useful anywhere.
-
-This started out as a small private mod that would combine several different features into one mod, with one central GUI for convenience.
+Meowtils is a Minecraft utility mod with features that are focused towards specific servers and gamemodes, as well as general quality of life enhancements that can be useful anywhere.
 
 ## Supported Versions
 
