@@ -31,13 +31,13 @@ Sets the delay of NoBreakDelay, lower delay would be faster but more obvious.
 
 Enables usage of NoUseDelay.
 
-This removes the "lag" after consuming items by releasing right click right after you have consumed the item for the required time.
+This removes the "lag" after consuming items by releasing right click right after you have consumed the item for the required duration.
 
 ### Delay
 
 Sets an extra delay for NoUseDelay, which might be required when used on higher latency or if the server is laggy. This barely changes the speed of NoUseDelay clientside and does not matter for anticheats.
 
-!!! Info
+!!! Success "Legit"
 
     All this does is cancel right click after set delayed, this is a vanilla feature and is not detectable by any anticheats.
 
