@@ -33,7 +33,7 @@ If enabled it will automatically reset all of your stats after each game, rather
 
 ## Game recap message
 
-Prints a chat message with the stats you got last game.
+Sends a chat message with the stats you got last game.
 
 ## Bedwars
 

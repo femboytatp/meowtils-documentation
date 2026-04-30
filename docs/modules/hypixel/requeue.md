@@ -7,6 +7,10 @@ tags:
 
 #### Easily requeue a game.
 
+!!! Info
+
+    This automatically saves your last played game, which means it will work better than Hypixel's own /requeue command as it does not require you to be in a game for it to work.
+
 ---
 
 ## Feedback message

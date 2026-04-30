@@ -5,17 +5,17 @@ tags:
 
 # **NickBot**
 
-#### Rerolls nicks for you until a good one is found.
+#### Rerolls nicks for you until a good one is found. Stops when pressing ESC.
 
-!!! Note
+!!! Warning
 
-    To stop the NickBot simply press ESC.
+    This is a bot, and is not a legit feature. However all it does is send chat messages, so it should generally be safe.
 
 ---
 
 ## Delay
 
-Time to wait until rerolling a nick.
+Time to wait until rolling another nick.
 
 !!! Tip
 
@@ -23,9 +23,9 @@ Time to wait until rerolling a nick.
 
 ## Start
 
-Starts the NickBot when clicked.
+Starts the bot when clicked.
 
-## Auto accept good
+## Auto accept good nick
 
 Will automatically accept the nick if you get a good one, otherwise it will just leave the book open for you to manually accept it.
 

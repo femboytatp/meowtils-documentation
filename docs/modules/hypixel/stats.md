@@ -47,13 +47,13 @@ Will show limited stats in player nametags, similar to how levelhead would work 
 
 ### Chat
 
-Prints stats for all players in chat, this requires you to use AutoWho or run /who manually.
+Shows stats for all players in chat, this requires you to use AutoWho or run /who manually.
 
 ## Chat options
 
 ### Auto-check certain players
 
-This automatically fetches stats and prints them in chat for some players, for example if they mention you or if they were denicked.
+This automatically fetches stats and sends them in chat for some players, for example if they mention you or if they were denicked.
 
 ### Use team colors
 
@@ -75,7 +75,7 @@ Will show Urchin icons in nametag & tablist for players that are in the Urchin b
 
 ### Show in chat
 
-Will print a message in chat if a player is blacklisted on Urchin, requires AutoWho or manually running /who, in games only.
+Will print a message in chat if a player is blacklisted on Urchin, requires AutoWho or manually running /who.
 
 This only applies to games that support the /who command.
 

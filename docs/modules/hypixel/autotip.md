@@ -15,4 +15,4 @@ Will hide tip messages if enabled.
 
 ## Delay
 
-Delay between tipping everything, in minutes.
+Delay between tipping everyone, in minutes.

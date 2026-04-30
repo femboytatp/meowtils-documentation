@@ -5,7 +5,7 @@ tags:
 
 # **Denicker**
 
-#### Alerts you if someone is nicked and attempts to get their real username when possible.
+#### Alerts you if someone is nicked and attempts to get their real username if they are using their own skin.
 
 ---
 
