@@ -4,9 +4,9 @@
 
     Meowtils is NOT a cheat client, that is past our scope and we have no intentions of being associated as such.
 
-Unlike other mods we do not restrict our features by force, even if they may be disallowed. Whatever you want to use is completely up to you, however all features that could be disallowed are already disabled by default.
+Unlike other mods we do not forcefully restrict our features, even if they may be disallowed. Whatever you want to use is completely up to you, however all features that could be disallowed are already disabled by default.
 
-_While modules are specifically made to not cause any detection issues regardless by simulating vanilla game behaviour, certain modules do perform actions for you that, if used on strict anticheats may end up causing issues. An example of this would be **AutoChest** with a low delay or certain **DelayRemover** options._
+_While modules are specifically made to not cause any detection issues regardless by simulating vanilla game behaviour, certain modules do perform actions for you that if used on strict anticheats, may end up causing issues. An example of this would be **AutoChest** with a low delay or certain **DelayRemover** options._
 
 !!! Warning
 
@@ -17,7 +17,7 @@ _While modules are specifically made to not cause any detection issues regardles
 
 ## Restricting Features
 
-**You are able to restrict modules to comply with server rules, this can be changed in the [GUI Module](modules/gui.md).**
+**You are able to restrict modules to comply with server rules, this can be changed in the [GUI Module](modules/meowtils/gui.md).**
 
 Restricting modules is done by you, and can be changed at any time. While modules are restricted they will be disabled and hidden from the GUI.
 
@@ -31,7 +31,7 @@ Every module has a [Risk Label](server-safety.md#risk-labels) that determines ho
 
 !!! Abstract "Safe"
 
-    While not guaranteed, safe modules may provide an unfair advantage, but they are client-side only which means they are considered low risk modules as they are not possible to detect.
+    While not guaranteed, safe modules may provide an unfair advantage, but they are client-side only which means they are considered low risk modules as it is not possible to detect them.
 
 !!! Danger "Blatant"
 
@@ -47,11 +47,11 @@ There are many different commands, you may view all by doing /meow.
 
 !!! Info
 
-    Commands do not provide an unfair advantage.
+    Commands never provide an unfair advantage.
 
 ### Resource Exploit Fix
 
-This prevents servers from looking through your directories to find files that may indicate cheating or identity.
+This prevents servers from looking through your directories to find files that may indicate you are cheating or attempts at fingerprinting you.
 
 !!! Info
 

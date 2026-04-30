@@ -25,7 +25,7 @@ Changes the scale for GUI, which may be necessary depending on monitor resolutio
 
 ## Features
 
-This lets you restrict which modules you're able to use, in case you want to restrict potentially unfair or unsafe modules.
+This lets you restrict which modules you're able to use, in case you want to prevent usage of potentially unfair or unsafe modules.
 
 !!! Note
 
@@ -37,7 +37,7 @@ Lets you use all modules.
 
 ### Safe
 
-Hides modules that can be detected by anticheats, without restricting fully safe client-side modules such as visuals.
+Restricts modules that can be detected by anticheats, without restricting safe client-side modules such as visuals.
 
 ### Legit
 
@@ -49,7 +49,7 @@ Hides all modules that would be unfair, as this is based on what is generally co
 
 ## Show tooltips
 
-Shows a tooltip with a short description of what modules do when hovering them.
+Shows a tooltip with a short description of what modules do when you are hovering them.
 
 ## Blur background
 
@@ -57,7 +57,7 @@ Applies a background blur while GUI is open.
 
 ## Bind
 
-The bind for opening the GUI.
+The bind for opening the GUI. This can also be set by using the /bind command.
 
 ## Reset GUI color
 

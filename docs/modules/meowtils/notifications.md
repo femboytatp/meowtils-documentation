@@ -13,11 +13,11 @@ tags:
 
 ### Notification
 
-Prefers sending a toast notification in the bottom right corner, this may not include all notifications and certain things may still send chat messages instead.
+Prefers sending a toast notification in the bottom right corner, this may not include all notifications, certain things may still send chat messages instead.
 
 ### Chat
 
-Prints notifications as chat messages.
+Sends notifications as chat messages.
 
 ### Both
 
@@ -25,7 +25,7 @@ Sends both a toast notification and chat message for notifications.
 
 ## Module toggled
 
-If enabled, will send a notification when toggling modules.
+Will send a notification when toggling a module.
 
 ## Start notifications
 
@@ -33,7 +33,7 @@ Sends a chat message the first time you're in a world, each instance. Contains g
 
 ## Mod conflict warnings
 
-Similar to start notifications this sends a chat message the first time you join a world for each instance, alerting you of potential mod conflicts or redunant mods. 
+Similar to start notifications this sends a chat message the first time you join a world for each instance, alerting you of potential mod conflicts or redundant mods. 
 
 !!! Info
 
@@ -41,7 +41,7 @@ Similar to start notifications this sends a chat message the first time you join
 
 ## Failed to queue
 
-Will notify if you're unable to queue on Hypixel with some information, only notifies if ChatCleaner module is enabled.
+Will notify if you're unable to queue on Hypixel, only notifies if ChatCleaner module is enabled.
 
 ## Challenge warning
 
