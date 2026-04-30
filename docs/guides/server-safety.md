@@ -51,8 +51,8 @@ There are many different commands, you may view all by doing /meow.
 
 ### Resource Exploit Fix
 
-This prevents servers from looking through your directories to find files that may indicate you are cheating or attempts at fingerprinting you.
+This prevents servers from looking through your directories to find files that may indicate you are cheating, or to attempt fingerprinting.
 
 !!! Info
 
-    This is considered an exploit and is already fixed by most modifications, such as the [Patcher Mod](https://sk1er.club/mods/patcher) or Lunar Client.
+    This is considered an exploit and is already fixed by most modifications, such as the [Patcher Mod](https://sk1er.club/mods/patcher) and Lunar Client.

@@ -27,6 +27,8 @@ Changes the scale for GUI, which may be necessary depending on monitor resolutio
 
 This lets you restrict which modules you're able to use, in case you want to prevent usage of potentially unfair or unsafe modules.
 
+You can read about risk labels [Here](../../guides/server-safety/).
+
 !!! Note
 
     We make no attempts at forcefully restricting features, this is fully up to you, and you're able to change mode at any time.
@@ -49,7 +51,7 @@ Hides all modules that would be unfair, as this is based on what is generally co
 
 ## Show tooltips
 
-Shows a tooltip with a short description of what modules do when you are hovering them.
+Shows a tooltip with a short description of relevant information when you are hovering modules.
 
 ## Blur background
 

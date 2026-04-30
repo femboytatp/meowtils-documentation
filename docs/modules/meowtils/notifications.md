@@ -35,7 +35,7 @@ Sends a chat message the first time you're in a world, each instance. Contains g
 
 Similar to start notifications this sends a chat message the first time you join a world for each instance, alerting you of potential mod conflicts or redundant mods. 
 
-!!! Info
+!!! Tip
 
     If you want to ignore potential mod conflicts you can safely disable this.
 

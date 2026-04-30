@@ -1,6 +1,6 @@
 # **Basic Usage**
 
-This guide will briefly go over on how to use Meowtils ingame, such as navigating the GUI or knowing where files are stored.
+This guide will briefly go over on how to use Meowtils ingame.
 
 ## GUI
 
@@ -32,7 +32,7 @@ To toggle a setting itself, you just hover it and left-click.
 
 **Binding a module to a key**
 
-You are able to bind modules to a specified key, if so they will toggle when pressing that key. To bind a module simply middle-click your mouse while hovering over it. Now you are able to assign a bind, and you can hit backspace to remove a bind.
+You are able to bind modules to a specified key, if so they will toggle when pressing that key. To bind a module simply middle-click your mouse while hovering over it. Now you are able to assign a key, and you can hit backspace to clear it.
 
 ## Commands
 
@@ -40,7 +40,7 @@ You may view a list of all commands by doing /meow.
 
 !!! Tip
 
-    If a command overrides a server command, you can use /send <command> to send it directly to the server, skipping client commands.
+    If a command overrides a server command, you can use /send <command> to send it directly to the server, skipping client commands entirely.
 
 ## External files
 

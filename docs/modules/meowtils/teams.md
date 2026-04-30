@@ -35,7 +35,7 @@ Will attempt to ignore players that are on the same team as you.
 
 !!! Warning
 
-    This checks information provided by the server such as teams information, nametag colors, and armor colors. It may not be 100% accurate as the server may attempt to hide this and send incomplete data.
+    This checks information provided by the server such as teams information, nametag colors, and armor colors. It may not be 100% accurate as the server may attempt to hide this or send incomplete data.
 
 ## Ignore friends
 
