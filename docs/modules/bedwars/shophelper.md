@@ -23,7 +23,7 @@ Replaces your clicks with middle clicks. This prevents the clientside pick-up an
 
 !!! Success "Legit"
 
-    This is legit client behaviour and is not disallowed on Hypixel. It is already used by a lot of mainstream Skyblock mods.
+    This is normal client behaviour and is not disallowed on Hypixel. It is already used by a lot of mainstream Skyblock mods.
 
 ## Prevent duplicate
 

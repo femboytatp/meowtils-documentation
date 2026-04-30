@@ -5,7 +5,7 @@ tags:
 
 # **DamageTags**
 
-#### Displays the damage dealth after hitting someone.
+#### Displays the damage dealt after hitting someone.
 
 ---
 

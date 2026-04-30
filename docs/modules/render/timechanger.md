@@ -11,7 +11,7 @@ tags:
 
 ## Time
 
-The time to display, from 0-24 hours of the day.
+The time to display, from the 0-24th hour of the day.
 
 ## Use real time
 

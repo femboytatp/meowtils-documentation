@@ -5,7 +5,7 @@ tags:
 
 # **BlockCount**
 
-#### Displays currently held block count and alerts when running out of blocks.
+#### Displays currently held block count and alerts when running low on blocks.
 
 ---
 

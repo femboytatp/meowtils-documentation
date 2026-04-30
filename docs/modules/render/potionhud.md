@@ -21,7 +21,7 @@ Shows a short version of the potion name.
 
 ### None
 
-Shows no potion name and instead colors the timer text to a color related to the specific potion.
+Shows no potion name and instead colors the timer text to a color related to the specific potion it represents.
 
 ## Display
 

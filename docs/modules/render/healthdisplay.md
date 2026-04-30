@@ -23,7 +23,11 @@ The size of your own health text.
 
 ### Enabled
 
-If enabled shows the damage you dealth to another player after shooting them with a bow.
+If enabled shows the damage you dealt to another player after shooting them with a bow.
+
+!!! Bug
+
+    This is based on chat messages and therefore it likely won't work on other servers.
 
 ### Scale
 

@@ -7,7 +7,7 @@ tags:
 
 #### Alerts when a team buys a team upgrade.
 
-Applies to:
+**Applies to:**
 
 - Sharpness
 - Protection

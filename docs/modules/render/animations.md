@@ -49,4 +49,4 @@ Visually cancels the animation played while consuming an item such as food.
 
 ## Cancel bow animation
 
-Visually cancels the "zooming-in" animation played while currently charging a bow.
+Visually cancels the animation played while currently charging a bow.

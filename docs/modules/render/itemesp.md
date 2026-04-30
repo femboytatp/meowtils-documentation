@@ -75,11 +75,11 @@ Shows the current distance to the item from you.
 
 ## Compact text
 
-If enabled, only displays a number showing stack size with no more information.
+If enabled, only displays an outlined number showing stack size with no more information.
 
 ## Dynamic text color
 
-Colors the text to a similar color of the item it is representing, rather than always being white.
+Colors the text to a similar color of the item that it is representing, rather than always being white.
 
 ## Bedwars only
 
