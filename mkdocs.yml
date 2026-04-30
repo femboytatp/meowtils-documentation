@@ -66,9 +66,9 @@ extra:
 nav:
   - Introduction: index.md
   - Guides:
-      - Installation: installation.md
+      - Installation: guides/installation.md
       - Basic Usage: guides/basic-usage.md
-      - Server Safety: server-safety.md
+      - Server Safety: guides/server-safety.md
   - Modules:
       - Meowtils:
           - GUI: modules/meowtils/gui.md

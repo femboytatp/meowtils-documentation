@@ -35,11 +35,13 @@ Sends a chat message the first time you're in a world, each instance. Contains g
 
 Similar to start notifications this sends a chat message the first time you join a world for each instance, alerting you of potential mod conflicts or redunant mods. 
 
-If you want to ignore potential mod conflicts you can safely disable this.
+!!! Info
+
+    If you want to ignore potential mod conflicts you can safely disable this.
 
 ## Failed to queue
 
-Will notify if you're unable to queue on Hypixel with some information, only if ChatCleaner module is enabled.
+Will notify if you're unable to queue on Hypixel with some information, only notifies if ChatCleaner module is enabled.
 
 ## Challenge warning
 

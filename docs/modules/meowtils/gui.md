@@ -19,6 +19,10 @@ Adjusts the color theme that the Click GUI uses.
 
 Changes the scale for GUI, which may be necessary depending on monitor resolution.
 
+!!! Note
+
+    Depending on resolution and GUI scale, there could be visual artifacts.
+
 ## Features
 
 This lets you restrict which modules you're able to use, in case you want to restrict potentially unfair or unsafe modules.
