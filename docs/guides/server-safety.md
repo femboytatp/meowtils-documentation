@@ -17,9 +17,9 @@ _While modules are specifically made to not cause any detection issues regardles
 
 ## Restricting Features
 
-**You are able to restrict modules to comply with server rules, this can be changed in the [GUI Module](gui.md).**
+**You are able to restrict modules to comply with server rules, this can be changed in the [GUI Module](modules/gui.md).**
 
-Restricting features is done by you, and can be changed at any time. While features are restricted they will be disabled and hidden from the GUI.
+Restricting modules is done by you, and can be changed at any time. While modules are restricted they will be disabled and hidden from the GUI.
 
 Every module has a [Risk Label](server-safety.md#risk-labels) that determines how safe it is.
 
@@ -27,11 +27,11 @@ Every module has a [Risk Label](server-safety.md#risk-labels) that determines ho
 
 !!! Success "Legit"
 
-    Legit modules are not considered to be unfair as they provide no real advantage, or because similar features already exist in popular legit modifications such as Lunar Client, they are considered no risk modules.
+    Legit modules are not considered to be unfair as they provide no real advantage, or because similar features already exist in popular legit modifications such as Lunar Client, they are considered no-risk modules.
 
 !!! Abstract "Safe"
 
-    While not guaranteed, safe modules may provide an unfair advantage, but they are client-side only which means they are considered low risk modules.
+    While not guaranteed, safe modules may provide an unfair advantage, but they are client-side only which means they are considered low risk modules as they are not possible to detect.
 
 !!! Danger "Blatant"
 
