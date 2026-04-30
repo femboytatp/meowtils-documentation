@@ -8,7 +8,7 @@ Meowtils is a Minecraft utility mod with features that are focused towards speci
 
 - **Lunar Client 1.8.9**  
 
-  [Installation Guide](guides/installation.md)
+[Installation Guide](guides/installation.md)
 
 ## Features
 
@@ -17,6 +17,12 @@ For various gamemodes, servers, and just general QOL features.
 
 **Ingame Stats**  
 Like Hypixel stat overlays, but ingame.
+
+**Clientside Anticheat**  
+Detects if players around you use certain cheats.
+
+**Personal Blacklist**  
+Allows you to add players for any reason to your own blacklist, which will then alert you if you meet them ingame.
 
 **Commands**  
 A lot of commands for various things, such as quickly joining a game, checking player stats, or shortcuts for longer commands.
