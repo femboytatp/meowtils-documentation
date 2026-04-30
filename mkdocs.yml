@@ -30,6 +30,8 @@ theme:
 
   features:
     - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
     - content.code.copy
 
   palette:

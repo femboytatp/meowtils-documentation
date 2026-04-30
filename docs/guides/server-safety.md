@@ -17,11 +17,11 @@ _While modules are specifically made to not cause any detection issues regardles
 
 ## Restricting Features
 
-**You are able to restrict modules to comply with server rules, this can be changed in the [GUI Module](/modules/meowtils/gui).**
+**You are able to restrict modules to comply with server rules, this can be changed in the [GUI Module](modules/meowtils/gui.md).**
 
 Restricting modules is done by you, and can be changed at any time. While modules are restricted they will be disabled and hidden from the GUI.
 
-Every module has a [Risk Label](/server-safety.md#risk-labels) that determines how safe it is.
+Every module has a [Risk Label](server-safety.md#risk-labels) that determines how safe it is.
 
 ## Risk Labels
 
