@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **HeightOverlay**
 
 #### Displays max height for Bedwars maps.

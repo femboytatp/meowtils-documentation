@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **Denicker**
 
 #### Alerts you if someone is nicked and attempts to get their real username when possible.

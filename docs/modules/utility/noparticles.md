@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **NoParticles**
 
 #### Removes certain particles to improve visibility and performance.

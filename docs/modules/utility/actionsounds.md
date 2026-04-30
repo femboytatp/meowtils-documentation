@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **ActionSounds**
 
 #### Plays a sound when performing certain actions.

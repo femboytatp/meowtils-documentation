@@ -1,3 +1,8 @@
+---
+tags:
+  - Safe
+---
+
 # **StrengthESP**
 
 #### Shows an ESP on players that currently have the strength effect.

@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **ConsumeTimer**
 
 #### Displays a countdown of how much time left to consume an item.

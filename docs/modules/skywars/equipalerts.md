@@ -1,3 +1,8 @@
+---
+tags:
+  - Safe
+---
+
 # **EquipAlerts**
 
 #### Alerts if a player equips diamond armor.

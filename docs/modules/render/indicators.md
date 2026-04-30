@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **Indicators**
 
 ### Highlights dangerous projectiles.

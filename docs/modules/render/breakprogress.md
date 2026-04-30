@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **BreakProgress**
 
 #### Renders a text while breaking blocks displaying how much time left until broken, or how far into the break progress you are.

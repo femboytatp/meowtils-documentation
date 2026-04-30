@@ -1,3 +1,8 @@
+---
+tags:
+  - Safe
+---
+
 # **ItemAlerts**
 
 #### Alerts you when players hold important items.

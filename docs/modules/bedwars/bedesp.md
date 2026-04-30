@@ -1,3 +1,8 @@
+---
+tags:
+  - Safe
+---
+
 # **BedESP**
 
 #### Renders an ESP for beds & obsidian around them.

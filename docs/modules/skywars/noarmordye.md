@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **NoArmorDye**
 
 #### Removes color for leather armor for visibility.

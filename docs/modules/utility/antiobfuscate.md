@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **AntiObfuscate**
 
 #### Removes the obfuscation formatting code from all text.

@@ -1,3 +1,8 @@
+---
+tags:
+  - Safe
+---
+
 # **ConsumeAlerts**
 
 #### Alerts you when a player consumes a specific item.

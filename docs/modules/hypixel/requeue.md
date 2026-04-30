@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **Requeue**
 
 #### Easily requeue a game.

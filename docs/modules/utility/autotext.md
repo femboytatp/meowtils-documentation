@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **AutoText**
 
 #### Sends a chat message or command when bind is clicked.

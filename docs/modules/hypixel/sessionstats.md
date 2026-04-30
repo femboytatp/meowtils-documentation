@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **SessionStats**
 
 #### Display your own gamemode stats for the current instance or per game.

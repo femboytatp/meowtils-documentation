@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **Settings**
 
 #### General mod settings.

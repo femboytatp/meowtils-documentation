@@ -1,3 +1,8 @@
+---
+tags:
+  - Safe
+---
+
 # **ChestESP**
 
 #### Renders an ESP on chests.

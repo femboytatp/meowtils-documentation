@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **TimeChanger**
 
 #### Allows you to change time clientside.

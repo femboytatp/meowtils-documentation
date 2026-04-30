@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **HealthDisplay**
 
 #### Displays various health related information.

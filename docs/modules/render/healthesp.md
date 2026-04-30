@@ -1,3 +1,8 @@
+---
+tags:
+  - Safe
+---
+
 # **HealthESP**
 
 #### Renders a health bar ESP on players.

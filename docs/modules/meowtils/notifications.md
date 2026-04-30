@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **Notifications**
 
 #### Change what notifications should be sent, and how to display them.

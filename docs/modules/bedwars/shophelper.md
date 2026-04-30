@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **ShopHelper**
 
 #### Features for the Bedwars shop, such as highlighting affordable items, replacing clicks to make shopping faster on high ping, and preventing purchasing duplicate items.

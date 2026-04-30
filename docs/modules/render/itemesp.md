@@ -1,3 +1,8 @@
+---
+tags:
+  - Safe
+---
+
 # **ItemESP**
 
 #### Renders an ESP box and text for dropped items.

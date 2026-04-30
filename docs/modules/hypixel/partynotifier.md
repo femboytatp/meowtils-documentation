@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **PartyNotifier**
 
 #### This sends a message in party chat if you are in a party, for selected features. Keep in mind this requires you to also have those features enabled.

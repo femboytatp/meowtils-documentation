@@ -1,3 +1,8 @@
+---
+tags:
+  - Safe
+---
+
 # **PearlDetector**
 
 #### Detects thrown pearls and positions.

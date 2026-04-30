@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **UpgradeHUD**
 
 #### Displays team upgrades on screen.

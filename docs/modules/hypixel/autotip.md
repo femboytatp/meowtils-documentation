@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **AutoTip**
 
 #### Automatically tips everyone on Hypixel for network experience.

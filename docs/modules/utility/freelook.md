@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **Freelook**
 
 #### Allows you to look around in third person without changing your serverside view.

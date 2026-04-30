@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **Animations**
 
 #### Visually changes some animations.

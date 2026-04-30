@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **AutoSafelist**
 
 ### Automatically safelists players that take a final death.

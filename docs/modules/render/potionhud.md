@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **PotionHUD**
 
 #### Displays important active potion effects on HUD.

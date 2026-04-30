@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **HotbarLock**
 
 #### Allows you to lock slots in your hotbar which prevents you from dropping items in those slots.

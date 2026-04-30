@@ -1,3 +1,8 @@
+---
+tags:
+  - Safe
+---
+
 # **UpgradeAlerts**
 
 #### Alerts when a team buys a team upgrade.

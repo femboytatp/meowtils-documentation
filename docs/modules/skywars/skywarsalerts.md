@@ -1,3 +1,8 @@
+---
+tags:
+  - Safe
+---
+
 # **SkywarsAlerts**
 
 #### Alerts you when players hold important items.

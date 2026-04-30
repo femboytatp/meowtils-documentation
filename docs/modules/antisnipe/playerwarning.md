@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **PlayerWarning**
 
 #### Warns you of specific players.

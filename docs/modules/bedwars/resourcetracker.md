@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **ResourceTracker**
 
 #### Tracks resources stored in your enderchest and inventory.

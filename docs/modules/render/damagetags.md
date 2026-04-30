@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **DamageTags**
 
 #### Displays the damage dealth after hitting someone.

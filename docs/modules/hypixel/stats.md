@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **Stats**
 
 #### Display game stats for players.

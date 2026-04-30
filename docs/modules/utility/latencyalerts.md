@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **LatencyAlerts**
 
 #### Alerts you in chat for packet losses to the server. May not work properly on all servers.

@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **NullMove**
 
 #### Doesn't prevent movement if multiple keybinds are held at the same time, instead this just listens to the latest input. Also known as "snap tap".

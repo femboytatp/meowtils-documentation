@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **BlockCount**
 
 #### Displays currently held block count and alerts when running out of blocks.

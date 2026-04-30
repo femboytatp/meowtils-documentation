@@ -1,3 +1,8 @@
+---
+tags:
+  - Safe
+---
+
 # **ArmorAlerts**
 
 #### Alerts when a player buys an armor upgrade.

@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **Cape**
 
 #### Renders a custom cape for you or other players.

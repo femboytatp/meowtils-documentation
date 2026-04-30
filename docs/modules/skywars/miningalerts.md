@@ -1,3 +1,8 @@
+---
+tags:
+  - Safe
+---
+
 # **MiningAlerts**
 
 #### Alerts when a player mines diamond ore.

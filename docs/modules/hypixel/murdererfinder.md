@@ -1,3 +1,8 @@
+---
+tags:
+  - Safe
+---
+
 # **MurdererFinder**
 
 #### Resolves relevant roles in Murder Mystery.

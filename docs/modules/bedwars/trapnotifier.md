@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **TrapNotifier**
 
 #### Alerts if you trigger a trap or if you're currently missing one.

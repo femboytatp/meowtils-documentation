@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **ItemScale**
 
 #### Allows you to change the scale of dropped items.

@@ -1,3 +1,8 @@
+---
+tags:
+  - Legit
+---
+
 # **EventTimers**
 
 #### Displays timers for different events such as game events and emerald spawns.

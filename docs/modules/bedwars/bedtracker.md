@@ -1,3 +1,8 @@
+---
+tags:
+  - Safe
+---
+
 # **BedTracker**
 
 #### Tracks the location of your bed and alerts if an enemy approaches it.
