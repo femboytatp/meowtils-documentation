@@ -5,4 +5,4 @@ tags:
 
 # **NoTitles**
 
-#### Disables titles.
+#### Disables titles from showing, for visibility.

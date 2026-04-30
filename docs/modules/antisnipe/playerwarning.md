@@ -36,3 +36,7 @@ Checks gear for snipers.
 ### Check name
 
 Checks if a player has a blacklisted name, and if so warn them for being a potential sniper.
+
+!!! Bug
+
+    This may not be 100% accurate, it only checks if a name contains typical phrases that indicate a cheater or sniper.

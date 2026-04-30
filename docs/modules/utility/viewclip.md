@@ -1,6 +1,6 @@
 ---
 tags:
-  - Legit
+  - Safe
 ---
 
 # **ViewClip**

@@ -11,7 +11,7 @@ tags:
 
 ## Remove bedwars glyph
 
-Removes the particles above a generator etc, creating a glyph. This significantly improved performance.
+Removes the particles above a generator on Hypixel, which is called a glyph. This can improve performance.
 
 ## Remove bedwars sponge
 
