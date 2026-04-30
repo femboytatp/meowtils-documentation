@@ -8,7 +8,7 @@ Meowtils is a Minecraft utility mod with features that are focused towards speci
 
 - **Lunar Client 1.8.9**  
 
-  [Installation Guide](guides/installation.md)
+  [Installation Guide](/guides/installation)
 
 ## Features
 
