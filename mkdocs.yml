@@ -49,6 +49,9 @@ extra_css:
   - stylesheets/color.css
   - stylesheets/extra.css
 
+extra_files:
+  - CNAME
+
 markdown_extensions:
   - admonition
   - pymdownx.superfences
