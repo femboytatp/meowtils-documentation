@@ -6,7 +6,7 @@
   --md-primary-fg-color--dark: #9944ff;
   --md-accent-fg-color: #c49dff;
   --md-accent-fg-color--transparent: #c49dff1a;
-  --md-typeset-a-color: #d4b8ff;
+  --md-typeset-a-color: #b57cff;
 
   /*
   --md-primary-fg-color: #e079e0;
@@ -21,7 +21,7 @@
 .md-nav__link:is(:focus, :hover),
 .md-nav .md-nav .md-nav__link--active,
 .md-nav .md-nav .md-nav .md-nav__link--active {
-  color: #d4b8ff !important;
+  color: #b57cff !important;
 }
 
 /* Material removes lines for h2 so we add it back */
