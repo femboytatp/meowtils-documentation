@@ -8,17 +8,17 @@ It stores their UUID (fallback to username), timestamp of when they were blackli
 
 **Blacklisting a player:**
 
-/blacklist | /bl \<player> \<reasons>
+/blacklist | /bl <player> <reasons>
 
 _The reasons should be separated by a space, with the exception of "legit scaffold" which will be treated as one reason. If no reason is provided while blacklisting it will fall-back to "cheating" as a generic reason._
 
 **Removing from blacklist:**
 
-/unblacklist | /ubl \<player>
+/unblacklist | /ubl <player>
 
 **Blacklist info:**
 
-/blacklist info | /bl info \<player>
+/blacklist info | /bl info <player>
 
 _Will show if that player is in your blacklist, and if so when they got blacklist as well as the blacklist reasons._
 
