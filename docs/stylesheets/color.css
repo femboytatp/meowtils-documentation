@@ -1,12 +1,12 @@
 :root,
 [data-md-color-scheme="default"],
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #8f49de;
-  --md-primary-fg-color--light: #ae83de;
-  --md-primary-fg-color--dark: #6e3ea3;
-  --md-accent-fg-color: #aa71eb;
-  --md-accent-fg-color--transparent: #dda0dd1a;
-  --md-typeset-a-color: #9d74cc;
+  --md-primary-fg-color: #9f4fff;
+  --md-primary-fg-color--light: #b57cff;
+  --md-primary-fg-color--dark: #9944ff;
+  --md-accent-fg-color: #c49dff;
+  --md-accent-fg-color--transparent: #c49dff1a;
+  --md-typeset-a-color: #d4b8ff;
 
   /*
   --md-primary-fg-color: #e079e0;
@@ -21,7 +21,7 @@
 .md-nav__link:is(:focus, :hover),
 .md-nav .md-nav .md-nav__link--active,
 .md-nav .md-nav .md-nav .md-nav__link--active {
-  color: #e079e0 !important;
+  color: #d4b8ff !important;
 }
 
 /* Material removes lines for h2 so we add it back */
