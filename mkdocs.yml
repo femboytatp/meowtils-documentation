@@ -8,6 +8,8 @@ theme:
     code: Roboto Mono
   logo: assets/meowtils.png
   favicon: assets/meowtils.png
+  features:
+    - content.code.copy
   
   icon:
     admonition:
@@ -57,7 +59,11 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.highlight:
       anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
   - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
 
 plugins:
   - tags
@@ -158,3 +164,8 @@ nav:
           - AutoStairs: modules/advanced/autostairs.md
           - AutoSwap: modules/advanced/autoswap.md
           - DelayRemover: modules/advanced/delayremover.md
+  - Other Features:
+      - Lists:
+          - Blacklist: other/lists/blacklist.md
+          - Safelist: other/lists/safelist.md
+          - Friends: other/lists/friends.md

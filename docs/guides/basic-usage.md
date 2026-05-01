@@ -34,6 +34,10 @@ To toggle a setting itself, you just hover it and left-click.
 
 You are able to bind modules to a specified key, if so they will toggle when pressing that key. To bind a module simply middle-click your mouse while hovering over it. Now you are able to assign a key, and you can hit backspace to clear it.
 
+**Scrolling**
+
+In case a category is too long you can hover over it and use your scroll wheel to access settings or modules that are located lower down.
+
 ## Commands
 
 You may view a list of all commands by doing /meow.
