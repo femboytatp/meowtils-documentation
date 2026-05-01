@@ -28,7 +28,7 @@ _Will show if that player is in your blacklist, and if so when they got blacklis
 
 ## Icons
 
-Blacklisted players will have an icon in tablist and their nametag, depending on how you configure the [Icons Module](../../modules/meowtils/icons/).
+Blacklisted players will have an icon in tablist and their nametag, depending on how you configure the [Icons Module](../../../modules/meowtils/icons/).
 
 The blacklist icon color depends on what reasons they are blacklisted for, this is based on priority which means the color will represent the highest severity reason they are blacklisted for.
 
@@ -44,7 +44,7 @@ The blacklist icon color depends on what reasons they are blacklisted for, this 
 
 You can enable alerts so if a player that is blacklisted shows up in your world, it will send you a warning.
 
-This can be enabled while using the [PlayerWarning Module](../../modules/antisnipe/playerwarning/).
+This can be enabled while using the [PlayerWarning Module](../../../modules/antisnipe/playerwarning/).
 
 ## Reasons
 
