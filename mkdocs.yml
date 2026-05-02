@@ -1,5 +1,7 @@
 site_name: Meowtils Documentation
 site_url: https://docs.tatp.wtf/
+site_description: Official documentation for Meowtils.
+site_author: tatp
 
 theme:
   name: material
@@ -73,6 +75,7 @@ extra:
     Blatant: blatant
     Legit: legit
     Safe: safe
+  og_image: assets/meowtils.png
 
 nav:
   - Introduction: index.md
