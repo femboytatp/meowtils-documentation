@@ -8,17 +8,17 @@ It stores their UUID (fallback to username), timestamp of when they were blackli
 
 **Blacklisting a player:**
 
-/blacklist | /bl \<player\> \<reasons\>
+`/blacklist | /bl <player> <reasons>`
 
 _The reasons should be separated by a space, with the exception of "legit scaffold" which will be treated as one reason. If no reason is provided while blacklisting it will fall-back to "cheating" as a generic reason._
 
 **Removing from blacklist:**
 
-/unblacklist | /ubl <player>
+`/unblacklist | /ubl <player\>`
 
 **Blacklist info:**
 
-/blacklist info | /bl info <player>
+`/blacklist info | /bl info <player\>`
 
 _Will show if that player is in your blacklist, and if so when they got blacklist as well as the blacklist reasons._
 
@@ -28,7 +28,7 @@ _Will show if that player is in your blacklist, and if so when they got blacklis
 
 ## Icons
 
-Blacklisted players will have an icon in tablist and their nametag, depending on how you configure the [Icons Module](../modules/meowtils/icons/).
+Blacklisted players will have an icon in tablist and their nametag, depending on how you configure the [Icons Module](../../../modules/meowtils/icons/).
 
 The blacklist icon color depends on what reasons they are blacklisted for, this is based on priority which means the color will represent the highest severity reason they are blacklisted for.
 
@@ -53,11 +53,37 @@ These are the pre-defined reasons provided, and their color will follow the seve
 ### Blatant
 
 ``` title="Blatant reasons"
-bednuker, fly, keepsprint, killaura, nofall, noslow, bhop, antifireball, safewalk, blink, autoblock, blatant, strafe, snipe, sniper, sniping
+bednuker, 
+fly, 
+keepsprint, 
+killaura, 
+nofall, 
+noslow, 
+bhop, 
+antifireball, 
+safewalk, 
+blink, 
+autoblock, 
+blatant, 
+strafe, 
+snipe, 
+sniper, 
+sniping
 ```
 
 ### Closet
 
 ``` title="Closet reasons"
-cheating, aimassist, autoclicker, reach, velocity, esp, fakelag, legit scaffold, fastplace, closet, scaffold
+cheating, 
+aimassist, 
+autoclicker, 
+reach, 
+velocity, 
+esp, 
+fakelag, 
+legit 
+scaffold, 
+fastplace, 
+closet, 
+scaffold
 ```
