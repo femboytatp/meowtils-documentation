@@ -40,7 +40,7 @@ In case a category is too long you can hover over it and use your scroll wheel t
 
 ## Commands
 
-You may view a list of all commands by doing /meow.
+You may view a list of all commands by doing `/meow`.
 
 !!! Tip
 
@@ -50,4 +50,4 @@ You may view a list of all commands by doing /meow.
 
 All files that Meowtils create, such as config file or lists will be located in your game directory, in its own meowtils folder. You normally don't have to mess around with these unless you want to add custom skins/capes.
 
-Folders usually have a command to open them automatically, such as /capefolder or /extensions.
+Folders usually have a command to open them automatically, such as `/capefolder` or `/extensions`.

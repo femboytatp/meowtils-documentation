@@ -43,7 +43,7 @@ These features are always enabled, but they do not provide any unfair advantages
 
 ### Commands
 
-There are many different commands, you may view all by doing /meow.
+There are many different commands, you may view all by doing `/meow`.
 
 !!! Info
 

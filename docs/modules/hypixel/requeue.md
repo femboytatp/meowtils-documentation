@@ -31,4 +31,4 @@ Lets you bind a key that when pressed will requeue for you.
 
 ## Commands
 
-/rq - _Requeues last played game._
+`/rq` - _Requeues last played game._

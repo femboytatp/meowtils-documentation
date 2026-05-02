@@ -55,25 +55,25 @@ Uses your custom word list.
 
 ## Commands
 
-**/nickbot** - Shows all NickBot commands.
+`/nickbot` - Shows all NickBot commands.
 
-**/nickbot start** - Starts the NickBot.
+`/nickbot start` - Starts the NickBot.
 
-**/nickbot add** - Add word to the list.
+`/nickbot add` - Add word to the list.
 
-**/nickbot remove** - Remove word from the list.
+`/nickbot remove` - Remove word from the list.
 
-**/nickbot list** - Show all words currently in the list.
+`/nickbot list` - Show all words currently in the list.
 
 ### List syntax:
 
-?meow - _If the nick contains meow._
+`?meow` - _If the nick contains meow._
 
-=meow - _If the nick equals meow._
+`=meow` - _If the nick equals meow._
 
-<meow - _If the nick starts with meow._
+`<meow` - _If the nick starts with meow._
 
-\>meow - _If the nick ends with meow._
+`>meow` - _If the nick ends with meow._
 
 !!! Example
 

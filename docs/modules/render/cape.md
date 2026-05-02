@@ -31,4 +31,4 @@ Opens the cape folder.
 
 ## Commands
 
-**/capefolder** - _Opens the folder where custom capes should be located._
+`/capefolder` - _Opens the folder where custom capes should be located._
