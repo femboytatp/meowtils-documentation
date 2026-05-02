@@ -44,8 +44,6 @@ This can be enabled while using the [PlayerWarning Module](../../../modules/anti
 
 These are the pre-defined reasons provided, and their color will follow the severity as shown above. If you are blacklisting for a reason that is not pre-defined it will instead show up as green.
 
-### Blatant
-
 ``` title="Blatant reasons"
 bednuker, 
 fly, 
@@ -64,8 +62,6 @@ snipe,
 sniper, 
 sniping
 ```
-
-### Closet
 
 ``` title="Closet reasons"
 cheating, 
