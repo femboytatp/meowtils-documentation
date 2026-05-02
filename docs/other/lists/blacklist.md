@@ -2,25 +2,19 @@
 
 The blacklist allows you to add players for any reason to a list that keeps track of them. This is your own personal blacklist and is stored in your game directory with other mod files.
 
-It stores their UUID (fallback to username), timestamp of when they were blacklisted, and then what reasons they are blacklisted for.
+It stores their name, timestamp of when they were blacklisted, and then what reasons they are blacklisted for.
 
 ## Usage
 
 **Blacklisting a player:**
 
-`/blacklist | /bl <player> <reasons>`
+`/blacklist | /bl <player> <reasons>` - Add to blacklist.
 
-_The reasons should be separated by a space, with the exception of "legit scaffold" which will be treated as one reason. If no reason is provided while blacklisting it will fall-back to "cheating" as a generic reason._
+_The reasons should be separated by a space, with the exception of "legit scaffold" which will be treated as one reason. If no reason is provided while blacklisting it will fall back to "cheating" as a generic reason._
 
-**Removing from blacklist:**
+`/unblacklist | /ubl <player\>` - Remove from blacklist.
 
-`/unblacklist | /ubl <player\>`
-
-**Blacklist info:**
-
-`/blacklist info | /bl info <player\>`
-
-_Will show if that player is in your blacklist, and if so when they got blacklist as well as the blacklist reasons._
+`/blacklist info | /bl info <player\>` - Shows blacklist info.
 
 !!! Example
 
