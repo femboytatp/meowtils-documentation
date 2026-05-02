@@ -5,7 +5,7 @@ tags:
 
 # **NoArmorDye**
 
-#### Removes color for leather armor for visibility.
+#### Removes color from leather armor for visibility.
 
 ---
 

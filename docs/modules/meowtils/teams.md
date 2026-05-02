@@ -33,7 +33,7 @@ Will not ignore any players even if they are bots.
 
 Will attempt to ignore players that are on the same team as you.
 
-!!! Warning
+!!! Bug
 
     This checks information provided by the server such as teams information, nametag colors, and armor colors. It may not be 100% accurate as the server may attempt to hide this or send incomplete data.
 

@@ -5,7 +5,7 @@ tags:
 
 # **ItemHighlight**
 
-#### Highlights important in your inventory by drawing a colored slot background.
+#### Highlights important items in your inventory by drawing a colored slot background.
 
 ---
 

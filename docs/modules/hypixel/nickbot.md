@@ -49,6 +49,10 @@ Searches for nicks that have the maximum amount of allowed characters (16).
 
 Searches for nicks that only contain text, ignores underscores.
 
+## Special affixes
+
+Searches for nicks that end or starts with for example "xX".
+
 ## Custom words
 
 Uses your custom word list.

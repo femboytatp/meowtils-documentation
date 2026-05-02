@@ -15,7 +15,7 @@ tags:
 
 Uses the Hypixel API for fetching stats. Requires an API key.
 
-An API key can be obtained by going to their [Developer Dashboard](https://developer.hypixel.net/)
+An API key can be obtained by going to their [Developer Dashboard](https://developer.hypixel.net/).
 
 ## Clear cache
 
@@ -75,7 +75,7 @@ Will show Urchin icons in nametag & tablist for players that are in the Urchin b
 
 ### Show in chat
 
-Will print a message in chat if a player is blacklisted on Urchin, requires AutoWho or manually running /who.
+Will send a message in chat if a player is blacklisted on Urchin, requires AutoWho or manually running /who.
 
 This only applies to games that support the /who command.
 
