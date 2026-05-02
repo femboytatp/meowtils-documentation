@@ -18,4 +18,4 @@ If you are personally safelisted, your safelist checkmark icon will instead be b
 
 ## Automatically safelist
 
-You can use the [AutoSafelist Module](../../../modules/meowtils/autosafelist/) to automatically add players that take a final death in Bedwars to the safelist.
+You can use the [AutoSafelist Module](../../../modules/meowtils/antisnipe/autosafelist/) to automatically add players that take a final death in Bedwars to the safelist.
