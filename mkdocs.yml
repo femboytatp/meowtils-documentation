@@ -172,9 +172,9 @@ nav:
           - Blacklist: other/lists/blacklist.md
           - Safelist: other/lists/safelist.md
           - Friends: other/lists/friends.md
-  - Support:
-      - General Help: support/general-help.md
-      - Reporting Bugs: support/reporting-bugs.md
-      - Auto Updates: support/auto-updates.md
-      - Source Code: support/source-code.md
-      - Information Collected: support/information-collected.md
+  #- Support:
+      #- General Help: support/general-help.md
+      #- Reporting Bugs: support/reporting-bugs.md
+      #- Auto Updates: support/auto-updates.md
+      #- Source Code: support/source-code.md
+      #- Information Collected: support/information-collected.md
