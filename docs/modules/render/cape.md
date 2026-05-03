@@ -13,9 +13,15 @@ tags:
 
 **Modes:** _2011, 2012, 2013, 2015, 2016, Experience, Founder, Cobalt, Astolfo, Moon, Myau, Raven, Custom_
 
-To render a custom cape, open the cape folder and add your cape png. It has to match the dimensions of a vanilla cape or else it will not render properly.
+**Render custom cape:**
 
-Once that is done, simply type the file name of the cape.
+1. Open the cape folder and add your cape png.
+
+2. Type the file name of the custom cape in the text box, it does not need to include file extensions.
+
+!!! Note
+
+    The cape dimensions in the file has to match the vanilla dimensions, or else it will not render properly.
 
 ## Render for all
 
