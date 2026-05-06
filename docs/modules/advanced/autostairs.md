@@ -1,6 +1,6 @@
 ---
 tags:
-  - Safe
+  - Blatant
 ---
 
 # **AutoStairs**
