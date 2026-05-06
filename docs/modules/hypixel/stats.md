@@ -17,6 +17,18 @@ Uses the Hypixel API for fetching stats. Requires an API key.
 
 An API key can be obtained by going to their [Developer Dashboard](https://developer.hypixel.net/).
 
+### Abyss
+
+Uses the [Abyss Overlay](https://github.com/Chit132/abyss-overlay) API for fetching stats, does not require any API key.
+
+!!! Warning
+
+    We simply provide the alternative for you to use this, but they likely do not intend for their API to be used this way, and if abused they might IP ban you.
+
+    As long as it is used normally (loading stats ingame) you shouldn't run into any issues as this is what their overlay already does.
+
+
+
 ## Clear cache
 
 To prevent rate limits, stats are cached. This allows you to clear that cache but it is not recommended to do so unless you run into issues with old invalid stats.
