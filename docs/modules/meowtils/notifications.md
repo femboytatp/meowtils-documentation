@@ -54,3 +54,7 @@ Adds a sound to challenge warning.
 ## Shout cooldown
 
 Tells you when your /shout cooldown has ended in Bedwars.
+
+## Blacklisted warning
+
+Warns you if a player thats in the blacklist appears in your world.

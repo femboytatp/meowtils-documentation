@@ -149,7 +149,7 @@ nav:
           - AntiCheat: modules/antisnipe/anticheat.md
           - AutoSafelist: modules/antisnipe/autosafelist.md
           - PartyDetector: modules/antisnipe/partydetector.md
-          - PlayerWarning: modules/antisnipe/playerwarning.md
+          - SniperWarning: modules/antisnipe/sniperwarning.md
       - Utility:
           - ActionSounds: modules/utility/actionsounds.md
           - AntiObfuscate: modules/utility/antiobfuscate.md
