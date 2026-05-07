@@ -9,11 +9,11 @@ tags:
 
 ---
 
-### Ping sound
+## Ping sound
 
 Plays a sound for warnings.
 
-### Check gear
+## Check gear
 
 Checks gear for snipers.
 
@@ -21,7 +21,7 @@ Checks gear for snipers.
 
 - Chainmail Armor + Iron Sword
 
-### Check name
+## Check name
 
 Checks if a player has a blacklisted name, and if so warn them for being a potential sniper.
 
@@ -60,3 +60,13 @@ anticheat
 !!! Bug
 
     This may not be 100% accurate, it only checks if a name contains typical phrases that indicate a cheater or sniper.
+
+## Check stats
+
+This checks stats of players to detect potentially suspicious accounts. First it checks their clutch ratio, then it checks their balance between final kills and final-kill-death ratio.
+
+A low final kill count while also having a high FKDR may indicate a suspicious account.
+
+!!! Failure
+
+    This requires you to have the Stats module enabled.
