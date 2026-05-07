@@ -58,3 +58,11 @@ Tells you when your /shout cooldown has ended in Bedwars.
 ## Blacklisted warning
 
 Warns you if a player thats in the blacklist appears in your world.
+
+## Show banned player
+
+Attempts to track if any players in your current world were banned when ban messages appear on Hypixel.
+
+!!! Bug
+
+    Due to how this works, it may not be 100% accurate.
