@@ -93,8 +93,65 @@ This only applies to games that support the /who command.
 
 ## Bedwars
 
-Customize Bedwars stats.
+### Enabled
+
+If bedwars stats should show for players.
+
+### Level
+
+Their bedwars level (star).
+
+### Final kills
+
+The amount of final kills they have.
+
+### FKDR
+
+The final-kill-death ratio of a player.  
+_Calculation: final kills / final deaths._
+
+### WLR
+
+The win-loss ratio of a player.  
+_Calculation: wins / losses._
+
+### Winstreak
+
+The winstreak they have.
+
+!!! Info
+
+    This will only be displayed for players that actually have a winstreak visible, as players are able to hide winstreaks from the API. This might not show up for everyone.
+
+### Clutch ratio
+
+The clutch ratio of a player.  
+_Calculation: 1 - final deaths / beds lost._
 
 ## Skywars
 
-Customize Skywars stats.
+### Enabled
+
+If skywars stats should show for players.
+
+### Level
+
+Their skywars level (star).
+
+### Kills
+
+The amount of kills they have.
+
+### Wins
+
+The amount of wins they have.
+
+### KDR
+
+The kill-death ratio of a player.  
+_Calculation: kills / deaths._
+
+### WLR
+
+The win-loss ratio of a player.  
+_Calculation: wins / losses._
