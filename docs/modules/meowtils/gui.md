@@ -13,6 +13,10 @@ tags:
 
 Adjusts the color theme that the Click GUI uses.
 
+## Scroll speed
+
+Adjust how fast you can scroll in the GUI when a category is too long.
+
 ## GUI Scale
 
 **Modes:** _Tiny, Small, Normal, Large, Huge_

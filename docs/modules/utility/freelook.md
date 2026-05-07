@@ -7,7 +7,17 @@ tags:
 
 #### Allows you to look around in third person without changing your serverside view.
 
---- 
+---
+
+## Mode
+
+### Hold
+
+Only activates when you are currently holding down your bind.
+
+### Toggle
+
+Toggles activation when pressing your bind.
 
 ## Start position
 
