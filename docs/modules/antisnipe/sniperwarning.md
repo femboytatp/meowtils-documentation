@@ -27,7 +27,7 @@ Checks if a player has a blacklisted name, and if so warn them for being a poten
 
 **Applies to:**
 
-´´´ title="Sniper names"
+``` title="Sniper names"
 mcalt_,
 mcalts_,
 hassalt_,
