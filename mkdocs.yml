@@ -175,7 +175,17 @@ nav:
           - Components:
               - Bind: extensions/gui/components/bindcomponent.md
               - Brightness: extensions/gui/components/brightnesscomponent.md
-      - Events:
+              - Button: extensions/gui/components/buttoncomponent.md
+              - Check: extensions/gui/components/checkcomponent.md
+              - Color: extensions/gui/components/colorcomponent.md
+              - Expand: extensions/gui/components/expandcompoonent.md
+              - Mode: extensions/gui/components/modecomponent.md
+              - Opacity: extensions/gui/components/opacitycomponent.md
+              - Saturation: extensions/gui/components/saturationcomponent.md
+              - Slider: extensions/gui/components/slidercomponent.md
+              - Text: extensions/gui/components/textcomponent.md
+              - Toggle: extensions/gui/components/togglecomponent.md
+      - Events:5
           - AttackEntityEvent: extensions/events/attackentityevent.md
           - ChatReceivedEvent: extensions/events/chatreceivedevent.md
           - ClientTickEvent: extensions/events/clienttickevent.md
