@@ -167,6 +167,27 @@ nav:
           - AutoStairs: modules/advanced/autostairs.md
           - AutoSwap: modules/advanced/autoswap.md
           - DelayRemover: modules/advanced/delayremover.md
+  - Extensions:
+      - Introduction: extensions/introduction.md
+      - Usage: extensions/usage.md
+      - Events:
+          - Start: extensions/events/start.md
+          - AttackEntityEvent: extensions/events/attackentityevent.md
+          - ChatReceivedEvent: extensions/events/chatreceivedevent.md
+          - ClientTickEvent: extensions/events/clienttickevent.md
+          - EntityJoinWorldEvent: extensions/events/entityjoinworldevent.md
+          - GuiOpenEvent: extensions/events/guiopenevent.md
+          - KeyInputEvent: extensions/events/keyinputevent.md
+          - PlayerInteractEvent: extensions/events/playerinteractevent.md
+          - ReceivePacketEvent: extensions/events/receivepacketevent.md
+          - RenderGameOverlayEvent: extensions/events/rendergameoverlayevent.md
+          - RenderPlayerEvent: extensions/events/renderplayerevent.md
+          - RenderStringEvent: extensions/events/renderstringevent.md
+          - RenderTickEvent: extensions/events/rendertickevent.md
+          - RenderWorldLastEvent: extensions/events/renderworldlastevent.md
+          - SendPacketEvent: extensions/events/sendpacketevent.md
+          - SlotClickEvent: extensions/events/slotclickevent.md
+          - WorldEvent: extensions/events/worldevent.md
   - Other Features:
       - Lists:
           - Blacklist: other/lists/blacklist.md
