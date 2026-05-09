@@ -170,38 +170,48 @@ nav:
   - Extensions:
       - Introduction: extensions/introduction.md
       - Setup: extensions/setup.md
-      - GUI:
-          - Module: extensions/gui/module.md
-          - Components:
-              - Bind: extensions/gui/components/bindcomponent.md
-              - Brightness: extensions/gui/components/brightnesscomponent.md
-              - Button: extensions/gui/components/buttoncomponent.md
+      - Limitations: extensions/limitations.md
+      - Entrypoint: extensions/entrypoint.md
+      - Modules:
+        - Setup: extensions/gui/module.md
+        - Components:
+              - Toggle: extensions/gui/components/togglecomponent.md
               - Check: extensions/gui/components/checkcomponent.md
-              - Color: extensions/gui/components/colorcomponent.md
-              - Expand: extensions/gui/components/expandcompoonent.md
               - Mode: extensions/gui/components/modecomponent.md
-              - Opacity: extensions/gui/components/opacitycomponent.md
-              - Saturation: extensions/gui/components/saturationcomponent.md
               - Slider: extensions/gui/components/slidercomponent.md
               - Text: extensions/gui/components/textcomponent.md
-              - Toggle: extensions/gui/components/togglecomponent.md
+              - Color: extensions/gui/components/colorcomponent.md
+              - Saturation: extensions/gui/components/saturationcomponent.md
+              - Brightness: extensions/gui/components/brightnesscomponent.md
+              - Opacity: extensions/gui/components/opacitycomponent.md
+              - Bind: extensions/gui/components/bindcomponent.md
+              - Button: extensions/gui/components/buttoncomponent.md
+              - Expand: extensions/gui/components/expandcompoonent.md
+        - Overrides:
+            - On Enable: extensions/gui/overrides/on-enable.md
+            - On Disable: extensions/gui/overrides/on-disable.md
+            - On Reset: extensions/gui/overrides/on-reset.md
+      - Config:
+          - Saving a value: extensions/config/saving-values.md
+          - Modifying a value: extensions/config/modifying-values.md
+      - Commands: extensions/commands.md
       - Events:
-          - AttackEntityEvent: extensions/events/attackentityevent.md
-          - ChatReceivedEvent: extensions/events/chatreceivedevent.md
           - ClientTickEvent: extensions/events/clienttickevent.md
-          - EntityJoinWorldEvent: extensions/events/entityjoinworldevent.md
-          - GuiOpenEvent: extensions/events/guiopenevent.md
-          - KeyInputEvent: extensions/events/keyinputevent.md
-          - PlayerInteractEvent: extensions/events/playerinteractevent.md
-          - ReceivePacketEvent: extensions/events/receivepacketevent.md
-          - RenderGameOverlayEvent: extensions/events/rendergameoverlayevent.md
-          - RenderPlayerEvent: extensions/events/renderplayerevent.md
-          - RenderStringEvent: extensions/events/renderstringevent.md
           - RenderTickEvent: extensions/events/rendertickevent.md
-          - RenderWorldLastEvent: extensions/events/renderworldlastevent.md
-          - SendPacketEvent: extensions/events/sendpacketevent.md
+          - ChatReceivedEvent: extensions/events/chatreceivedevent.md
+          - KeyInputEvent: extensions/events/keyinputevent.md
+          - GuiOpenEvent: extensions/events/guiopenevent.md
           - SlotClickEvent: extensions/events/slotclickevent.md
           - WorldEvent: extensions/events/worldevent.md
+          - PlayerInteractEvent: extensions/events/playerinteractevent.md
+          - AttackEntityEvent: extensions/events/attackentityevent.md
+          - EntityJoinWorldEvent: extensions/events/entityjoinworldevent.md
+          - ReceivePacketEvent: extensions/events/receivepacketevent.md
+          - SendPacketEvent: extensions/events/sendpacketevent.md
+          - RenderGameOverlayEvent: extensions/events/rendergameoverlayevent.md
+          - RenderWorldLastEvent: extensions/events/renderworldlastevent.md
+          - RenderStringEvent: extensions/events/renderstringevent.md
+          - RenderPlayerEvent: extensions/events/renderplayerevent.md
   - Other Features:
       - Lists:
           - Blacklist: other/lists/blacklist.md
