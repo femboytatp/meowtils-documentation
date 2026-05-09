@@ -173,6 +173,8 @@ nav:
       - GUI:
           - Module: extensions/gui/module.md
           - Components:
+              - Bind: extensions/gui/components/bindcomponent.md
+              - Brightness: extensions/gui/components/brightnesscomponent.md
       - Events:
           - AttackEntityEvent: extensions/events/attackentityevent.md
           - ChatReceivedEvent: extensions/events/chatreceivedevent.md
