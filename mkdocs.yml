@@ -169,9 +169,11 @@ nav:
           - DelayRemover: modules/advanced/delayremover.md
   - Extensions:
       - Introduction: extensions/introduction.md
-      - Usage: extensions/usage.md
+      - Setup: extensions/setup.md
+      - GUI:
+          - Module: extensions/gui/module.md
+          - Components:
       - Events:
-          - Start: extensions/events/start.md
           - AttackEntityEvent: extensions/events/attackentityevent.md
           - ChatReceivedEvent: extensions/events/chatreceivedevent.md
           - ClientTickEvent: extensions/events/clienttickevent.md
