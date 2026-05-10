@@ -180,7 +180,7 @@ nav:
       - Basic:
           - Send Message: extensions/basic/send-message.md
           - Notification: extensions/basic/notification.md
-          - Commands: extensions/basic/commands.md
+          - Commands:
       - Modules:
         - Setup: extensions/gui/module.md
         - Components:
@@ -221,8 +221,8 @@ nav:
           - RenderWorldLastEvent: extensions/events/renderworldlastevent.md
           - RenderStringEvent: extensions/events/renderstringevent.md
           - RenderPlayerEvent: extensions/events/renderplayerevent.md
-      - Render:
-      - Gamemodes:
+      #- Render:
+      #- Gamemodes:
       - Utility:
           - Color: extensions/utility/color.md
   #- Support:
