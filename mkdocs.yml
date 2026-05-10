@@ -167,11 +167,20 @@ nav:
           - AutoStairs: modules/advanced/autostairs.md
           - AutoSwap: modules/advanced/autoswap.md
           - DelayRemover: modules/advanced/delayremover.md
+  - Other Features:
+      - Lists:
+          - Blacklist: other/lists/blacklist.md
+          - Safelist: other/lists/safelist.md
+          - Friends: other/lists/friends.md
   - Extensions:
       - Introduction: extensions/introduction.md
       - Setup: extensions/setup.md
       - Limitations: extensions/limitations.md
       - Entrypoint: extensions/entrypoint.md
+      - Basic:
+          - Send Message:
+          - Notification:
+          - Commands:
       - Modules:
         - Setup: extensions/gui/module.md
         - Components:
@@ -188,13 +197,13 @@ nav:
               - Button: extensions/gui/components/buttoncomponent.md
               - Expand: extensions/gui/components/expandcompoonent.md
         - Overrides:
-            - On Enable: extensions/gui/overrides/on-enable.md
-            - On Disable: extensions/gui/overrides/on-disable.md
-            - On Reset: extensions/gui/overrides/on-reset.md
+            - Enable: extensions/gui/overrides/on-enable.md
+            - Disable: extensions/gui/overrides/on-disable.md
+            - Reset: extensions/gui/overrides/on-reset.md
       - Config:
-          - Saving a value: extensions/config/saving-values.md
-          - Modifying a value: extensions/config/modifying-values.md
-      - Commands: extensions/commands.md
+          - Checking Value: extensions/config/checking-values.md
+          - Saving Value: extensions/config/saving-values.md
+          - Modifying Value: extensions/config/modifying-values.md
       - Events:
           - ClientTickEvent: extensions/events/clienttickevent.md
           - RenderTickEvent: extensions/events/rendertickevent.md
@@ -212,11 +221,10 @@ nav:
           - RenderWorldLastEvent: extensions/events/renderworldlastevent.md
           - RenderStringEvent: extensions/events/renderstringevent.md
           - RenderPlayerEvent: extensions/events/renderplayerevent.md
-  - Other Features:
-      - Lists:
-          - Blacklist: other/lists/blacklist.md
-          - Safelist: other/lists/safelist.md
-          - Friends: other/lists/friends.md
+      - Render:
+      - Gamemodes:
+      - Utility:
+          - Color: extensions/utility/color.md
   #- Support:
       #- General Help: support/general-help.md
       #- Reporting Bugs: support/reporting-bugs.md
