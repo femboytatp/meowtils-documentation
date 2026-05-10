@@ -178,9 +178,9 @@ nav:
       - Limitations: extensions/limitations.md
       - Entrypoint: extensions/entrypoint.md
       - Basic:
-          - Send Message:
-          - Notification:
-          - Commands:
+          - Send Message: extensions/basic/send-message.md
+          - Notification: extensions/basic/notification.md
+          - Commands: extensions/basic/commands.md
       - Modules:
         - Setup: extensions/gui/module.md
         - Components:
