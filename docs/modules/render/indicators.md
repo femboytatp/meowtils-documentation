@@ -5,7 +5,7 @@ tags:
 
 # **Indicators**
 
-### Highlights dangerous projectiles.
+#### Highlights dangerous projectiles.
 
 ---
 
