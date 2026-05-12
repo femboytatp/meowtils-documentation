@@ -5,6 +5,10 @@ tags:
 
 # **AccountHider**
 
+#### Allows you to visually hide certain information related to your account.
+
+---
+
 ## Custom name
 
 Replaces your account name with the text you set.
