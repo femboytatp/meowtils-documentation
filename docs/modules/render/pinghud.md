@@ -21,8 +21,10 @@ Shows `Ping:` in front of the value.
 
 Will wrap the text in brackets, for example `[Ping: 50ms]`.
 
+---
+
 !!! Note
 
-    Due to how this works it may not be 100% accurate, additionally it only pings the server once a minute which means temporary lag spikes may not be shown. 
+    Due to how this module works it may not be 100% accurate, additionally it only pings the server once a minute which means temporary lag-spikes may not be shown. 
     
-    It is recommended that you use the [LatencyAlerts](../modules/utility/latencyalerts/) module for this instead.
+    It is recommended that you use the [LatencyAlerts](../modules/utility/latencyalerts/) module to detect lag-spikes instead.
