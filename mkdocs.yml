@@ -142,6 +142,7 @@ nav:
           - InstantHurt: modules/render/instanthurt.md
           - ItemESP: modules/render/itemesp.md
           - ItemScale: modules/render/itemscale.md
+          - PingHUD: modules/render/pinghud.md
           - PotionHUD: modules/render/potionhud.md
           - ShinyPots: modules/render/shinypots.md
           - TimeChanger: modules/render/timechanger.md
