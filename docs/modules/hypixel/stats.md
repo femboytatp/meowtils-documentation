@@ -75,7 +75,7 @@ Colors the names for chat stats based on the team they're on, rather than their 
 
 !!! Info
 
-    In order to use the Urchin API you need your own API key.
+    In order to use the Urchin API you need your own key.
 
     **How to obtain an API key:**
 
@@ -96,6 +96,22 @@ Ignore checking & rendering Urchin icon for yourself.
 ### Show name icons
 
 Will show Urchin icons in nametag & tablist for players that are in the Urchin blacklist.
+
+**Icons:**
+
+<span style="color: #aa0000">✹</span> = Blatant Cheater
+
+<span style="color: #aa00aa">✹</span> = Confirmed Cheater
+
+<span style="color: #ffff55">✴</span> = Closet Cheater
+
+<span style="color: #ff5555">✹</span> = Sniper
+
+<span style="color: #aaaaaa">✹</span> = Info
+
+<span style="color: #555555">✹</span> = Account
+
+<span style="color: #ffff55">ⓘ</span> = Caution
 
 ### Show in chat
 
