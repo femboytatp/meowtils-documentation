@@ -19,7 +19,7 @@ Plays a sound when someone flags.
 
 ## Blacklist on flag
 
-Automatically adds players that flags the anticheat to the blacklist with the reason they flagged.
+Automatically adds players that flag the anticheat to the blacklist with the reason they flagged.
 
 ## WDR Button
 

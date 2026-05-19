@@ -73,6 +73,18 @@ Colors the names for chat stats based on the team they're on, rather than their 
 
 ## Urchin
 
+!!! Info
+
+    In order to use the Urchin API you need your own API key.
+
+    **How to obtain an API key:**
+
+    1. Join [Urchin Discord](https://discord.gg/urchin)
+
+    2. Verify with your username, this assumes you have linked your discord to your username on Hypixel.
+
+    3. Run /info then /dashboard to generate your API key with their discord bot.
+
 ### Check Urchin API
 
 Will check if a player is in the Urchin blacklist. Does not require an API key.
@@ -90,6 +102,10 @@ Will show Urchin icons in nametag & tablist for players that are in the Urchin b
 Will send a message in chat if a player is blacklisted on Urchin, requires AutoWho or manually running /who.
 
 This only applies to games that support the /who command.
+
+### API key
+
+Your Urchin API key.
 
 ## Bedwars
 

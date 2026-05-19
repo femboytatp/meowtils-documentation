@@ -7,6 +7,12 @@ tags:
 
 #### Displays your ping to the server.
 
+!!! Note
+
+    Due to how this module works, it may not be 100% accurate. It pings the server once per minute, which means temporary lag-spikes may not be detected. 
+    
+    It is recommended that you use the [LatencyAlerts](/modules/utility/latencyalerts/) module to detect lag-spikes instead.
+
 ---
 
 ## Dynamic color
@@ -36,11 +42,3 @@ Shows `Ping:` in front of the value.
 ## Brackets
 
 Will wrap the text in brackets, for example `[Ping: 50ms]`.
-
----
-
-!!! Note
-
-    Due to how this module works, it may not be 100% accurate. It pings the server once per minute, which means temporary lag-spikes may not be detected. 
-    
-    It is recommended that you use the [LatencyAlerts](/modules/utility/latencyalerts/) module to detect lag-spikes instead.

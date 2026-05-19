@@ -9,6 +9,10 @@ tags:
 
 ---
 
+## Ignore teammates
+
+Will skip sending alerts for nicked players that are on the same team as you.
+
 ## Nick message
 
 Sends a message in chat if someone is nicked, and their username if it was possible to denick them.
