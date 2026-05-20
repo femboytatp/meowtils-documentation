@@ -7,7 +7,15 @@ tags:
 
 #### Warns you of certain players that may be snipers.
 
+!!! Failure
+
+    Features related to stats require you to have a valid API mode selected in the Stats module.
+
 ---
+
+## Fetch stats
+
+Fetches and prints stats for warned players.
 
 ## Ping sound
 
@@ -66,7 +74,3 @@ anticheat
 This checks stats of players to detect potentially suspicious accounts. First it checks their clutch ratio, then it checks their balance between final kills and final-kill-death ratio.
 
 A low final kill count while also having a high FKDR may indicate a suspicious account.
-
-!!! Failure
-
-    This requires you to have the Stats module enabled.
