@@ -13,8 +13,6 @@ tags:
 
 ### Enabled
 
-Enables usage of NoBreakDelay. 
-
 This reduces the delay in-between block breaks. It does not directly make you break blocks faster but due to the reduced delay it will improve "block break speeds".
 
 ### Delay
@@ -29,8 +27,6 @@ Sets the delay of NoBreakDelay, lower delay would be faster but more obvious.
 
 ### Enabled
 
-Enables usage of NoUseDelay.
-
 This removes the "lag" after consuming items by releasing right click right after you have consumed the item for the required duration.
 
 ### Delay
@@ -43,16 +39,24 @@ Sets an extra delay for NoUseDelay, which might be required when used on higher 
 
 ## NoHitDelay
 
+### Enabled
+
 Removes the delay that is applied if you miss a hit clientside. This makes pvp more similar to 1.7.
 
 !!! Warning
 
-    This is technically detectable and should be used with caution. Most servers do not check for this however some might do.
+    This is technically detectable and should be used with caution. Most servers do not check for this, however some might do.
 
 ## NoJumpDelay
 
+### Enabled
+
 Removes the delay between jumps, meaning you can hold down jump key and it would act as if you keep pressing it quickly.
+
+### Delay
+
+The delay before another jump is allowed, in vanilla this delay would be 10 ticks.
 
 !!! Warning
 
-    This is not known to be detected on any anticheats however it has no randomization or delay which means it can potentially be detected in the future.
+    This is not known to be detected on any anticheats however it has no randomization which means it can potentially be detected in the future.
