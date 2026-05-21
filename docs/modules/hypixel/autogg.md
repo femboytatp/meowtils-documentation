@@ -17,6 +17,10 @@ Sends set messages after a game ends.
 
 Toggle sending message on game end.
 
+### Random message
+
+Sends a random message from your list instead, overrides first & second message.
+
 ### First message
 
 The first message to send, if enabled.
@@ -45,6 +49,38 @@ Sends a message before game starts.
 
 Toggle sending message on game start.
 
+### Random message
+
+Sends a random message from your list instead, overrides first & second message.
+
 ### Send at
 
 Will send the message when there is x seconds left until game start.
+
+## Commands
+
+### Auto GG
+
+`/autogg` - Shows all Auto GG commands.
+
+`/autogg add` - Add message to GG list.
+
+`/autogg remove` - Remove message from GG list.
+
+`/autogg list` - Shows your entire list.
+
+### Auto GL
+
+`/autogl` - Shows all Auto GL commands.
+
+`/autogl add` - Add message to GL list.
+
+`/autogl remove` - Remove message from GL list.
+
+`/autogl list` - Shows your entire list.
+
+!!! Tip
+
+    If the lists are too long to display, you can open the folder and edit these files directly instead.
+
+    `/meowtilsfolder`
