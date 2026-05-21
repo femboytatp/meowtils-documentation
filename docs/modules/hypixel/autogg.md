@@ -51,7 +51,7 @@ Toggle sending message on game start.
 
 ### Random message
 
-Sends a random message from your list instead, overrides first & second message.
+Sends a random message from your list instead, overrides message.
 
 ### Send at
 
