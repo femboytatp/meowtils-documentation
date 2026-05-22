@@ -19,9 +19,9 @@ This reduces the delay in-between block breaks. It does not directly make you br
 
 Sets the delay of NoBreakDelay, lower delay would be faster but more obvious.
 
-!!! Danger
+!!! Danger "Blatant"
 
-    This is not a legit feature. It should be treated as a cheat and it can be detected by anticheats as well as by server staff.
+    This is not a legit feature. It should be treated as a cheat and it can be detected by anticheats, while also looking obvious to other players.
 
 ## NoUseDelay
 
@@ -43,7 +43,7 @@ Sets an extra delay for NoUseDelay, which might be required when used on higher 
 
 Removes the delay that is applied if you miss a hit clientside. This makes pvp more similar to 1.7.
 
-!!! Warning
+!!! Warning "Risky"
 
     This is technically detectable and should be used with caution. Most servers do not check for this, however some might do.
 
@@ -57,6 +57,6 @@ Removes the delay between jumps, meaning you can hold down jump key and it would
 
 The delay before another jump is allowed, in vanilla this delay would be 10 ticks.
 
-!!! Warning
+!!! Warning "Risky"
 
     This is not known to be detected on any anticheats however it has no randomization which means it can potentially be detected in the future.
