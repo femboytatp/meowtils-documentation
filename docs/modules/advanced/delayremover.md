@@ -13,15 +13,15 @@ tags:
 
 ### Enabled
 
-This reduces the delay in-between block breaks. It does not directly make you break blocks faster but due to the reduced delay it will improve "block break speeds".
-
-### Delay
-
-Sets the delay of NoBreakDelay, lower delay would be faster but more obvious.
+This reduces the delay between block breaks. It does not directly make you break blocks faster but due to the reduced delay it will improve "block break speeds".
 
 !!! Danger "Blatant"
 
     This is not a legit feature. It should be treated as a cheat and it can be detected by anticheats, while also looking obvious to other players.
+
+### Delay
+
+Sets the delay of NoBreakDelay, lower delay would be faster but more obvious.
 
 ## NoUseDelay
 
