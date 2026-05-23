@@ -25,7 +25,7 @@ Play a sound when a pearl is thrown.
 
 Displays a timer for yourself if you throw a time warp pearl, counting down until you get warped back.
 
-!!!
+!!! Info
 
     This will display the timer even if the server puts it on a cooldown. In these cases you can ignore the timer.
 
