@@ -17,6 +17,10 @@ tags:
 
 Fetches and prints stats for warned players.
 
+!!! Note
+
+    This only works when you are in a Bedwars or Skywars game, and only applies to Hypixel stats.
+
 ## Ping sound
 
 Plays a sound for warnings.
