@@ -87,7 +87,7 @@ Colors the names for chat stats based on the team they're on, rather than their 
 
 ### Check Urchin API
 
-Will check if a player is in the Urchin blacklist. Does not require an API key.
+Will check if a player is in the Urchin blacklist.
 
 ### Ignore self
 

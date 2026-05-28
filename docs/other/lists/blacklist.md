@@ -38,7 +38,7 @@ The blacklist icon color depends on what reasons they are blacklisted for, this 
 
 You can enable alerts so if a player that is blacklisted shows up in your world, it will send you a warning.
 
-This can be enabled while using the [PlayerWarning Module](../../../modules/antisnipe/playerwarning/).
+This can be enabled in the [Notifications Module](../../../modules/meowtils/notifications/).
 
 ## Reasons
 
