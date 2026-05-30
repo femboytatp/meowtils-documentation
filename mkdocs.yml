@@ -203,9 +203,9 @@ nav:
             - Reset: extensions/gui/overrides/on-reset.md
             - Hud Editor: extensions/gui/overrides/hud-editor.md
       - Config:
-          - Checking Value: extensions/config/checking-values.md
-          - Saving Value: extensions/config/saving-values.md
-          - Modifying Value: extensions/config/modifying-values.md
+          - Reading Values: extensions/config/reading-values.md
+          - Saving Values: extensions/config/saving-values.md
+          - Modifying Values: extensions/config/modifying-values.md
       - Events:
           - Client Tick: extensions/events/clienttickevent.md
           - Render Tick: extensions/events/rendertickevent.md
@@ -213,7 +213,7 @@ nav:
           - Key Input: extensions/events/keyinputevent.md
           - Gui Open: extensions/events/guiopenevent.md
           - Slot Click: extensions/events/slotclickevent.md
-          - World: extensions/events/worldevent.md
+          - World Load: extensions/events/worldevent.md
           - Player Interact: extensions/events/playerinteractevent.md
           - Attack Entity: extensions/events/attackentityevent.md
           - Entity Join World: extensions/events/entityjoinworldevent.md
