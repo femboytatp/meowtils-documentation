@@ -39,6 +39,7 @@ theme:
     - content.code.copy
     - navigation.indexes
     - navigation.path
+    - navigation.top
 
   palette:
     - scheme: slate
@@ -185,7 +186,7 @@ nav:
           - Notification: extensions/basic/notification.md
           - Commands: extensions/basic/commands.md
       - Events:
-          - Events/index.md
+          - extensions/events/index.md
           - Client Tick: extensions/events/clienttickevent.md
           - Render Tick: extensions/events/rendertickevent.md
           - Chat Received: extensions/events/chatreceivedevent.md
