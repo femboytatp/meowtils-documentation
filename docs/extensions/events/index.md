@@ -12,6 +12,8 @@ Meowtils events are very similar to Forge events, however there are a few notabl
 
 # Usage
 
+---
+
 Like Forge, an event method has to be a public method that returns void, the actual method name can be anything but generally you would name it something relevant such as **onClientTick**.
 
 ## Annotation
@@ -72,7 +74,7 @@ Event phases determine when events are fired, usually this would have **PRE** & 
 
 #### Type
 
-Similarly to phases, this determines when a specific event should fire. Usually this would be used for selecting whether or not you should fire your event during world load/unload, or which chat message packets you should listen to.
+Similarly to phases, this determines when a specific event should fire. Usually this would be used for selecting whether or not you should fire your event during world load/unload, or which type of chat message you should listen to.
 
 !!! Tip
 
