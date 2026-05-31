@@ -65,6 +65,10 @@ The parameter name can be anything and it is just used for your event method to 
 
 This is an example of a ClientTickEvent that would print a message saying "Hello, player!" in your own chat, every Minecraft tick (20 times a second).
 
+!!! Info
+
+    In this case we also check if the local player or world is null, since there is no point in sending a message if there is no chat visible. In some cases this will also prevent crashes, for example if you try to access a player that currently doesn't even exist.
+
 ``` java
 @EventTarget
 public void onClientTick(ClientTickEvent event) {
@@ -74,10 +78,6 @@ public void onClientTick(ClientTickEvent event) {
 ```
 
 As you can see, this is very similar to how a typical Forge event would be structured.
-
-!!! Note
-
-    In this case we also check if the local player or world is null, since there is no point in sending a message if there is no chat visible. In some cases this will also prevent crashes, for example if you try to access a player that currently doesn't even exist.
 
 ## Properties
 

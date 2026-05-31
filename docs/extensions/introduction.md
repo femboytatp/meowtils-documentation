@@ -8,19 +8,19 @@ Modules from extensions will show up in a new category called **Extensions**.
 
 !!! Danger
 
-    Extensions have very few limitations, they have the same permissions as Minecraft does. This means they may contain unwanted or malicious code.
+    Extensions have very few limitations, they have the same permissions as Minecraft does. This means they may execute unwanted or malicious code.
     
-    Only download Extensions from trusted sources.
+    **ONLY DOWNLOAD EXTENSIONS FROM TRUSTED SOURCES**
 
 !!! Note
 
-    These docs make the assumption that you have at least **some** past experience with java and Minecraft modding in general.
+    These docs make the assumption that you have at least **some** past experience with java and Minecraft in general.
 
 ## Usage
 
 To use an Extension, simply put it in the **extensions** folder located in the **meowtils** folder in your game directory. You can also open this folder ingame by doing `/extensions`.
 
-!!! Note
+!!! Info
 
     Extensions end with .meowtils
 
