@@ -185,7 +185,7 @@ nav:
           - Notification: extensions/basic/notification.md
           - Commands: extensions/basic/commands.md
       - Events:
-          - events/index.md
+          - Events/index.md
           - Client Tick: extensions/events/clienttickevent.md
           - Render Tick: extensions/events/rendertickevent.md
           - Chat Received: extensions/events/chatreceivedevent.md
