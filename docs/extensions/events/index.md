@@ -20,9 +20,26 @@ Like Forge, an event method has to be a public method that returns void, the act
 
 Like Forge, an event method requires an annotation in order to be discovered. In this case that would be @EventTarget which tells the Meowtils event bus that this is a method that should be called when the relevant event fires.
 
-``` java
-@EventTarget
-```
+### Priority
+
+As shown in the example below you are able to set event priority, same as Forge. It defaults to `NORMAL` if none are set.
+
+- `HIGHEST`
+
+- `HIGH`
+
+- `NORMAL`
+
+- `LOW`
+
+- `LOWEST`
+
+!!! Example
+
+    ``` java
+    @EventTarget(priority = EventPriority.HIGHEST)
+    public void onClientTick(ClientTickEvent event)...
+    ```
 
 ## Parameter
 
@@ -32,7 +49,7 @@ Like Forge your event requires a parameter, the type would be the event you are 
 
 !!! Example
 
-    `(ClientTickEvent event)`
+    `ClientTickEvent`
 
 ### Name
 

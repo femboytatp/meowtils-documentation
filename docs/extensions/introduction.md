@@ -4,7 +4,7 @@
 
 An Extension is an external file that is loaded by Meowtils, it acts as a bridge that allows you to add features. They could be compared to scripts, except with less limitations.
 
-These will show up in a new category called **Extensions**.
+Modules from extensions will show up in a new category called **Extensions**.
 
 !!! Danger
 
@@ -12,9 +12,9 @@ These will show up in a new category called **Extensions**.
     
     Only download Extensions from trusted sources.
 
-!!! Tip
+!!! Note
 
-    It is not required to have previous Minecraft modding experience in order to develop Extensions; However it is heavily recommended as it is very similar to this, and these docs make the assumption that you have at least **some** knowledge.
+    These docs make the assumption that you have at least **some** past experience with java and Minecraft modding in general.
 
 ## Usage
 
@@ -29,3 +29,11 @@ To use an Extension, simply put it in the **extensions** folder located in the *
 Extensions that already exist in your folder are automatically loaded when launching your game. 
 
 You can also add, remove, or swap Extensions during runtime and then do `/reload` to load them.
+
+## Standards
+
+Generally you should only register one module per extension, and not combine several unrelated features into one extension.
+
+!!! Tip
+
+    It is recommended that you follow standards for clarity and for your own convenience.
