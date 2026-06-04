@@ -4,21 +4,19 @@ Meowtils is a Minecraft utility mod with features that are focused towards speci
 
 ## Supported Versions
 
-- [x] Forge 1.8.9
+- [x] **Forge 1.8.9**
 
-- [x] Lunar Client 1.8.9
-
-- [ ] Vanilla 1.8.9
+- [x] **Lunar Client 1.8.9**
 
 [Installation Guide](guides/installation.md)
 
 ## Supported Platforms
 
-- [x] Windows
+- [x] **Windows**
 
-- [x] Linux
+- [x] **Linux**
 
-- [x] Mac
+- [x] **Mac**
 
 _In rare cases certain features may only work on Windows, if so that will be disclosed on their docs page._
 
