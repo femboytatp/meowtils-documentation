@@ -65,7 +65,17 @@ Shows stats for all players in chat, this requires you to use AutoWho or run /wh
 
 ### Auto-check certain players
 
-This automatically fetches stats and sends them in chat for some players, for example if they mention you or if they were denicked.
+This automatically fetches stats and sends them in chat for some players.
+
+**Applies to:**
+
+- Players in party, when running /party list.
+
+- Players that mention your name in public chat.
+
+- Players that talk in Bedwars pre-game.
+
+- Denicked players.
 
 ### Use team colors
 

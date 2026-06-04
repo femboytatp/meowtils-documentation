@@ -33,10 +33,30 @@ Renders an outlined ESP box.
 
 Changes the opacity of the ESP.
 
-### Expand
+## Arrows
 
-Normally the ESP uses the hitboxes of the projectile, but expand lets you increase the size of it to be more visible. 
+Render for arrows.
+
+### Arrow expand
+
+Expands the visual ESP size for arrows.
+
+## Fireballs
+
+Render for fireballs.
+
+### Fireball expand
+
+Expands the visual ESP size for fireballs.
+
+## Ender Pearls
+
+Render for ender pearls.
+
+### Pearl expand
+
+Expands the visual ESP size for ender pearls.
 
 !!! Success "Legit"
 
-    This only changes the ESP size, not the actual hitbox of the projectile.
+    Expand options only changes the visual size of the ESP, not the actual item hitbox size.

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Safe
+  - Legit
 ---
 
 # **PearlDetector**

@@ -10,6 +10,16 @@ Meowtils is a Minecraft utility mod with features that are focused towards speci
 
 [Installation Guide](guides/installation.md)
 
+## Supported Platforms
+
+- [x] Windows
+
+- [x] Linux
+
+- [x] Mac
+
+_In rare cases certain features may only work on Windows, if so that will be disclosed on their docs page._
+
 ## Features
 
 **70+ Modules**  
