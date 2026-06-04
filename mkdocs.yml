@@ -173,6 +173,7 @@ nav:
           - AutoStairs: modules/advanced/autostairs.md
           - AutoSwap: modules/advanced/autoswap.md
           - DelayRemover: modules/advanced/delayremover.md
+          - GhostHand: modules/advanced/ghosthand.md
   - Other Features:
       - Lists:
           - Blacklist: other/lists/blacklist.md
