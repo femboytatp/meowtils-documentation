@@ -15,11 +15,11 @@ tags:
 
 ## Use item whitelist
 
-Uses the item whitelist which can changed below, which means **GhostHand** will only activate when you are holding whitelisted items.
+Uses the item whitelist that can be changed below, which means **GhostHand** will only activate when you are holding whitelisted items.
 
 ## Use block whitelist
 
-Uses the block whitelist which can be changed below, which means **GhostHand** will only activate when you are attempting to break a block that is whitelisted.
+Uses the block whitelist that can be changed below, which means **GhostHand** will only activate when you are attempting to break a block that is whitelisted.
 
 ## Through teammates
 
