@@ -29,6 +29,10 @@ Will allow you to interact through players that are considered teammates, which 
 
 Will allow you to interact through players that are also not on your team.
 
+!!! Info
+
+    This automatically excludes players that are bots, which is based on [Teams Module](../../../modules/meowtils/teams/).
+
 ## Through armorstands
 
 Will allow you to interact through armorstands.
