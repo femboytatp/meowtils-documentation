@@ -5,7 +5,7 @@ tags:
 
 # **GhostHand**
 
-#### Allows you to interact with blocks through entities.
+#### Allows you to interact through entities.
 
 !!! Danger "Blatant"
 
