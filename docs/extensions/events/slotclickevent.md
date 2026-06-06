@@ -84,12 +84,6 @@ setClickType(int clickType)
 
 Sets the current click type.
 
-!!! Example
-
-    ``` java
-    event.setClickType(SlotClickEvent.CLICK_MIDDLE);
-    ```
-
 !!! Warning
 
     When changing click type you should make sure the button type is also set in a way that would align with how a vanilla client behaves.
@@ -115,12 +109,6 @@ setClickedButton(int clickedButton)
 ```
 
 Sets the current clicked button.
-
-!!! Example
-
-    ``` java
-    event.setClickedButton(SlotClickEvent.BUTTON_MIDDLE);
-    ```
 
 !!! Warning
 
