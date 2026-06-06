@@ -37,3 +37,17 @@ Generally you should only register one module per extension, and not combine sev
 !!! Tip
 
     It is recommended that you follow standards for clarity and for your own convenience.
+
+## What is an Extension file?
+
+Like a jar, a Meowtils extension is an archive of compiled java class files. This is the same thing a regular Forge mod would be, except with a different file extension (.meowtils not .jar) and content requirements.
+
+### Decompiling
+
+You can use any java decompiler to decompile an Extension to verify what the code is, and exactly what it is doing.
+
+There are many programs that can be used for decompiling, but also some online websites. [This is an example of an online decompiler](https://www.javadecompilers.com/) which doesn't require any downloads at all.
+
+!!! Tip
+
+    Some decompilers may only allow files with the .jar file extension, in that case you can temporarily rename it from **Extension.meowtils** to **Extension.jar** and it should work. This will not corrupt the file.
