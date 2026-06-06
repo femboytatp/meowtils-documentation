@@ -147,6 +147,10 @@ Replaces all clicks with middle clicks.
 ## Example
 
 ``` java
+/*
+This replaces all clicks in a chest with a left + shift click, making it so
+you always directly shift-click items into your inventory.
+*/
 @EventTarget
 public void onSlotClick(SlotClickEvent event) {
     if (event.getGuiContainer() instanceof GuiChest) { // Limited to chests only

@@ -21,15 +21,10 @@ Gets current **GuiScreen**.
 ## Example
 
 ``` java
-/*
-This replaces all clicks in a chest with a left + shift click, making it so
-you always directly shift-click items into your inventory.
-*/
 @EventTarget
-public void onSlotClick(SlotClickEvent event) {
-    if (event.getGuiContainer() instanceof GuiChest) { // Limited to chests only
-        event.setClickedButton(SlotClickEvent.BUTTON_LEFT); // Left click
-        event.setClickType(SlotClickEvent.CLICK_SHIFT); // Shift click
+public void onGuiOpen(GuiOpenEvent event) {
+    if (event.getGui() instanceof GuiChest) {
+        Meowtils.addMessage("Player opened chest!");
     }
 }
 ```
