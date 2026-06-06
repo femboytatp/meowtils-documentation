@@ -64,7 +64,7 @@ Returns current slot.
 getSlotId()
 ```
 
-Returns current slot ID.
+Returns current slot ID int.
 
 ### Click type
 
@@ -74,7 +74,7 @@ Returns current slot ID.
 getClickType()
 ```
 
-Returns click type.
+Returns click type int.
 
 #### Set
 
@@ -94,6 +94,10 @@ Sets the current click type.
 
     When changing click type you should make sure the button type is also set in a way that would align with how a vanilla client behaves.
 
+!!! Tip
+
+    It is recommended that you use the click type enums shown above instead of a raw number.
+
 ### Clicked button
 
 #### Get
@@ -102,7 +106,7 @@ Sets the current click type.
 getClickedButton()
 ```
 
-Returns clicked button.
+Returns clicked button int.
 
 #### Set
 
@@ -122,6 +126,10 @@ Sets the current clicked button.
 
     When changing button type you should make sure the click type is also set in a way that would align with how a vanilla client behaves.
 
+!!! Tip
+
+    It is recommended that you use the button type enums shown above instead of a raw number.
+
 ### Replace click
 
 #### Get
@@ -130,7 +138,7 @@ Sets the current clicked button.
 getReplaceClick()
 ```
 
-Gets whether click should be replaced with middle click or not.
+Returns true if click is set to be replaced.
 
 #### Set
 
@@ -147,7 +155,7 @@ Replaces all clicks with middle clicks.
 ## Example
 
 ``` java
-/**
+/*
 This replaces all clicks in a chest with a left + shift click, making it so
 you always directly shift-click items into your inventory.
 */

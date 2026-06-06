@@ -33,7 +33,7 @@ Gets the current tick phase.
 ## Example
 
 ``` java
-/**
+/*
 We make sure to return if the player or world doesn't exist, while also enforcing post (end) phase of the tick.
 */
 @EventTarget

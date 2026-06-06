@@ -38,7 +38,11 @@ Gets the **IChatComponent** of the message.
 getType()
 ```
 
-Gets the current type of message.
+Returns byte corresponding to current message type.
+
+!!! Tip
+
+    It is recommended to use the type enums shown above instead of a raw number.
 
 ## Example
 

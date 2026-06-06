@@ -40,7 +40,7 @@ Gets the current render tick phase.
 getPartialTicks()
 ```
 
-Progress between last and current tick, usually used for interpolation.
+Progress float between last and current tick, usually used for interpolation.
 
 ## Example
 
