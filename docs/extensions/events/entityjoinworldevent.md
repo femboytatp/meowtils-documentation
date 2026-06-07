@@ -16,7 +16,7 @@ This event fires each time an entity joins your world.
 getEntity()
 ```
 
-Returns the Entity.
+Returns the **Entity**.
 
 ### World
 
@@ -24,7 +24,7 @@ Returns the Entity.
 getWorld()
 ```
 
-Returns the World.
+Returns the **World**.
 
 ## Example
 

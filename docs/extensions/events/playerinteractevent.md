@@ -32,7 +32,7 @@ Returns current action as shown above.
 getPlayer()
 ```
 
-Returns EntityPlayerSP.
+Returns **EntityPlayerSP**.
 
 ### World
 
@@ -40,7 +40,7 @@ Returns EntityPlayerSP.
 getWorld()
 ```
 
-Returns WorldClient.
+Returns **WorldClient**.
 
 ### Block position
 
@@ -48,7 +48,7 @@ Returns WorldClient.
 getPos()
 ```
 
-Returns BlockPos.
+Returns **BlockPos**.
 
 ### Facing
 
@@ -56,7 +56,7 @@ Returns BlockPos.
 getFacing()
 ```
 
-Returns EnumFacing.
+Returns **EnumFacing**.
 
 ## Example
 

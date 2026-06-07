@@ -32,7 +32,7 @@ Returns the type shown above.
 getWorld()
 ```
 
-Returns WorldClient.
+Returns **WorldClient**.
 
 ## Example
 

@@ -138,7 +138,7 @@ Replaces all clicks with middle clicks.
 
 !!! Tip
 
-    This is usually used to replace your clicks with middle clicks. This prevents the clientside pick-up animation for items and allows you to click items faster since you no longer hold items, makes more of a difference when your latency is higher.
+    This prevents the clientside pick-up animation for items and allows you to click items faster since you no longer hold items, makes more of a difference when your latency is higher.
 
 ## Example
 

@@ -16,7 +16,7 @@ This event fires each time the player opens a **GuiScreen**.
 getGui()
 ```
 
-Gets current **GuiScreen**.
+Returns current **GuiScreen**.
 
 ## Example
 
@@ -24,7 +24,7 @@ Gets current **GuiScreen**.
 @EventTarget
 public void onGuiOpen(GuiOpenEvent event) {
     if (event.getGui() instanceof GuiChest) {
-        Meowtils.addMessage("Player opened chest!");
+        Meowtils.addMessage("You opened a chest!");
     }
 }
 ```

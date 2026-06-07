@@ -6,7 +6,7 @@ This event fires each render tick, which is once per frame.
 
 !!! Note
 
-    You should always RenderGameOverlayEvent or RenderWorldLastEvent for render modules. It is recommended that you only use this event when you need to update something faster than what is possible with client tick.
+    You should always use RenderGameOverlayEvent or RenderWorldLastEvent for render modules. It is recommended that you only use this event when you need to update something faster than what is possible with client tick.
 
 ## Parameter
 
@@ -32,7 +32,7 @@ This event fires each render tick, which is once per frame.
 getPhase()
 ```
 
-Gets the current render tick phase.
+Returns the current render tick phase.
 
 ### Partial ticks
 
@@ -52,6 +52,6 @@ We make sure to return if the player or world doesn't exist, while also enforcin
 public void onRenderTick(RenderTickEvent event) {
     if (mc.thePlayer == null || mc.theWorld == null) return;
     if (event.getPhase() != RenderTickEvent.Phase.POST) return;
-    Meowtils.addMessage("Render tick called");
+    Meowtils.addMessage("Render tick!");
 }
 ```

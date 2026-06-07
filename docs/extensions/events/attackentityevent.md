@@ -16,7 +16,7 @@ This event fires each time you attempt to attack any entity.
 getPlayer()
 ```
 
-Returns EntityPlayer.
+Returns **EntityPlayer**.
 
 ### Target
 
@@ -24,7 +24,7 @@ Returns EntityPlayer.
 getTarget()
 ```
 
-Returns the target Entity.
+Returns the target **Entity**.
 
 ## Example
 

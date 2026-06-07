@@ -16,7 +16,7 @@ This event fires each time a message appears in your chat.
 
 - **SYSTEM** - System messages.
 
-- **ACTION_BAR** - Action bar messages above hotbar.
+- **ACTION_BAR** - Action bar messages (above hotbar).
 
 !!! Tip
 
@@ -30,7 +30,7 @@ This event fires each time a message appears in your chat.
 getComponent()
 ```
 
-Gets the **IChatComponent** of the message.
+Returns the **IChatComponent** of the message.
 
 ### Type
 

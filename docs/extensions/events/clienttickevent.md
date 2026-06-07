@@ -40,6 +40,6 @@ We make sure to return if the player or world doesn't exist, while also enforcin
 public void onClientTick(ClientTickEvent event) {
     if (mc.thePlayer == null || mc.theWorld == null) return;
     if (event.getPhase() != ClientTickEvent.Phase.POST) return;
-    Meowtils.addMessage("Tick event ran!");
+    Meowtils.addMessage("Client tick!");
 }
 ```
