@@ -2,7 +2,7 @@
 
 ---
 
-Fires each time the player interacts with a block in the world .
+Fires each time the player interacts with a block in the world.
 
 ## Parameter
 
@@ -42,7 +42,7 @@ getWorld()
 
 Returns WorldClient.
 
-### Pos
+### Block position
 
 ``` java
 getPos()
