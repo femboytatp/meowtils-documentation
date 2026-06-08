@@ -4,6 +4,10 @@
 
 This fires each time your client receives a packet from the server.
 
+!!! Warning
+
+    Cancelling packets is not safe and can lead to non-vanilla client behaviour that may flag anticheats. Only cancel packets when you know what you are doing.
+
 ## Parameter
 
 `ReceivePacketEvent`
