@@ -4,7 +4,7 @@
 
 ## Chat messages
 
-### Client
+### **Client**
 
 These messages only appear clientside, for yourself.
 
@@ -42,7 +42,9 @@ Prints a message if debug mode is enabled.
 
     Debug mode is toggled with the `/meowdebug` command.
 
-### Server
+---
+
+### **Server**
 
 These messages are sent to the server, same as if you were to type a message in chat and send it.
 

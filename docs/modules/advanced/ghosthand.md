@@ -11,6 +11,10 @@ tags:
 
     This is considered a cheat and may not bypass advanced anticheats.
 
+!!! Tip
+
+    AutoClicker modules in certain clients may break with this, if so you should whitelist swords/weapons in that specific client, and then ensure you don't have those items whitelisted in this module.
+
 ---
 
 ## Use item whitelist

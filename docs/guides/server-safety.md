@@ -12,7 +12,7 @@ _While modules are specifically made to not cause any detection issues regardles
 
     You are in complete control of what modules and settings you use, as well as which servers you play on. This is use at your own risk.
 
-    We are not responsible for your mistakes.
+    **We are not responsible for your mistakes.**
 
 
 ## Restricting Features
@@ -39,7 +39,7 @@ Every module has a [Risk Label](server-safety.md#risk-labels) that determines ho
 
 ## Default Features
 
-These features are always enabled, but they do not provide any unfair advantages.
+These features are always enabled, but they do **not** provide any unfair advantages.
 
 ### Commands
 
@@ -51,7 +51,7 @@ There are many different commands, you may view all by doing `/meow`.
 
 ### Resource Exploit Fix
 
-This prevents servers from looking through your directories to find files that may indicate you are cheating, or to attempt fingerprinting.
+This prevents servers from looking through your directories to find files that may indicate you are cheating, or to attempt fingerprinting you.
 
 !!! Info
 
