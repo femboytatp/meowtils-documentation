@@ -28,7 +28,7 @@ This event fires each client tick, which would normally be 20 times per second.
 getPhase()
 ```
 
-Gets the current tick phase.
+Returns the current tick phase.
 
 ## Example
 
