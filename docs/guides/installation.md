@@ -8,17 +8,17 @@ Any future updates will be handled by the **Auto-Updater**, which means you won'
 
 _The **Auto-Updater** can still be disabled if you want to update manually._
 
-# Forge
-
 ---
+
+# Forge
 
 ## 1: Install Forge
 
-!!! Info
+!!! Warning
 
-    If you already have **Forge** installed, or know how to install it you can skip this guide.
+    You can use third-party launchers for **Forge**, such as [Prism Launcher](https://prismlauncher.org/) or [Feather Client](https://feathermc.com/), however these will have different installation steps.
 
-    Simply [Download Meowtils](https://github.com/femboytatp/meowtils/releases/download/2.0.0-pre.4.1/Meowtils-2.0.0-pre.4.1.jar) and put the **Meowtils** jar in your `mods` folder.
+    **Certain launchers may not have full support.**
 
 1. Download [Forge Installer](https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar).
 
@@ -33,16 +33,16 @@ _The **Auto-Updater** can still be disabled if you want to update manually._
 4. After installation is complete, open your Minecraft Launcher and select **Forge** in your versions dropdown menu (where you select which Minecraft version to use). This menu is found when making/editing installations.   
 **Full name:** `release 1.8.9-forge1.8.9-11.15.1.2318-1.8.9`
 
-5. [Download Meowtils](https://github.com/femboytatp/meowtils/releases/download/2.0.0-pre.4.1/Meowtils-2.0.0-pre.4.1.jar).
+5. Launch your game once to create the necessary files, or manually navigate to your instance folder (by default, .minecraft), then create a folder called `mods`.
 
-6. Navigate to your instance folder (by default, .minecraft), create a folder called `mods` and drag the **Meowtils** jar into there.
+## 2: Add Meowtils
 
-7. Launch your game, **Meowtils** should now be loaded!
+1. [Download Meowtils](https://tatp.wtf/download/).
 
-8. Go to [Basic Usage](guides/basic-usage.md) for instructions on how to use **Meowtils**.
+2. Add the **Meowtils** jar to your `mods` folder.
 
-!!! Warning
+## 3: Launch Minecraft
 
-    You can use third-party launchers for **Forge**, such as [Prism Launcher](https://prismlauncher.org/) or [Feather Client](https://feathermc.com/), however these will have different installation steps.
+Now launch Minecraft, **Meowtils** should be loaded.
 
-    **Certain launchers may not have full support.**
+It is recommended that you check out [Basic Usage](../../guides/basic-usage.md) in order to learn how to use **Meowtils**.

@@ -2,9 +2,9 @@
 
 This guide will briefly go over on how to use Meowtils ingame.
 
-## GUI
+## **GUI**
 
-### **GUI Bind**
+### GUI Bind
 
 ---
 
@@ -14,7 +14,7 @@ By default the bind for opening the GUI is right shift. However this can be chan
 
     If you are unable to open the GUI this way, you can either use the /bind command to bind it to another key, or by using the /meowtilsgui command to open the GUI for you.
 
-### **Navigating the GUI**
+### Navigating the GUI
 
 ---
 
