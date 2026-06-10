@@ -4,7 +4,9 @@ This guide will briefly go over on how to use Meowtils ingame.
 
 ## GUI
 
-### GUI Bind
+### **GUI Bind**
+
+---
 
 By default the bind for opening the GUI is right shift. However this can be changed in the [GUI Module](../../modules/meowtils/gui/).
 
@@ -12,29 +14,31 @@ By default the bind for opening the GUI is right shift. However this can be chan
 
     If you are unable to open the GUI this way, you can either use the /bind command to bind it to another key, or by using the /meowtilsgui command to open the GUI for you.
 
-### Navigating the GUI
+### **Navigating the GUI**
+
+---
 
 There are several different categories that contain modules, the main category is called Meowtils and this is where you would find general mod settings, rather than actual modules. These are always shown as enabled.
 
-**Opening a category**
+### Opening a category
 
 In order to open or close a category, you can right-click while hovering over it. You can also drag these categories around to organize your GUI.
 
-**Enabling a module**
+### Enabling a module
 
 Hover over a module and left-click in order to toggle it.
 
-**Showing module settings**
+### Showing module settings
 
 If you hover over a module and right-click it, the module will expand to show its settings. If a module does not have any settings it will not expand.
 
 To toggle a setting itself, you just hover it and left-click.
 
-**Binding a module to a key**
+### Binding a module to a key
 
 You are able to bind modules to a specified key, if so they will toggle when pressing that key. To bind a module simply middle-click your mouse while hovering over it. Now you are able to assign a key, and you can hit backspace to clear it.
 
-**Scrolling**
+### Scrolling
 
 In case a category is too long you can hover over it and use your scroll wheel to access settings or modules that are located lower down.
 
