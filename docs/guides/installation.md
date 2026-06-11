@@ -45,4 +45,4 @@ _The **Auto-Updater** can still be disabled if you want to update manually._
 
 Now launch Minecraft, **Meowtils** should be loaded.
 
-It is recommended that you check out [Basic Usage](../../guides/basic-usage.md) in order to learn how to use **Meowtils**.
+It is recommended that you check out [Basic Usage](../../guides/basic-usage) in order to learn how to use **Meowtils**.

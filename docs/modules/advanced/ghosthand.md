@@ -25,6 +25,10 @@ Uses the item whitelist that can be changed below, which means **GhostHand** wil
 
 Uses the block whitelist that can be changed below, which means **GhostHand** will only activate when you are attempting to break a block that is whitelisted.
 
+## Bedwars only
+
+Only activates if you are currently in a Bedwars game.
+
 ## Through teammates
 
 Will allow you to interact through players that are considered teammates, which depends on the [Teams Module](../../../modules/meowtils/teams/).
@@ -65,13 +69,13 @@ If enabled, **GhostHand** is able to activate while holding any items considered
 
 If enabled, **GhostHand** is able to activate while you aren't holding any items.
 
-### Cobweb
+### Blocks
 
-If enabled, **GhostHand** is able to activate while you are holding cobwebs.
+If enabled, **GhostHand** is able to activate while you are holding any block.
 
 !!! Tip
 
-    This can be used to place cobwebs directly on players.
+    This can be used to place cobwebs directly on players, amongst other things.
 
 ### Buckets
 
