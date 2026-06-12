@@ -25,9 +25,9 @@ Uses the Hypixel API to fetch stats.
 
     2. Sign in with your Hypixel forums account.
 
-    3. Press `CREATE API KEY`
+    3. Click `CREATE API KEY`
 
-    4. In-game, add your key with /meowapi <key>
+    4. In-game, add your key with /meowapi \<key\>
 
     _Normal keys don't last forever and will have to be regenerated. You may also need a forums account that is older than a day._
 

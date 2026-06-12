@@ -48,10 +48,12 @@ You may view a list of all commands by doing `/meow`.
 
 !!! Tip
 
-    If a command overrides a server command, you can use /send <command> to send it directly to the server, skipping client commands entirely.
+    If a command overrides a server command, you can use `/send <command>` to send it directly to the server, skipping client commands entirely.
 
 ## External files
 
-All files that Meowtils create, such as config file or lists will be located in your game directory, in its own meowtils folder. You normally don't have to mess around with these unless you want to add custom skins/capes.
+All files that Meowtils create, such as config file or lists will be located in your game directory, in its own **Meowtils** folder. You normally don't have to mess around with these unless you want to add custom skins/capes.
 
-Folders usually have a command to open them automatically, such as `/capefolder` or `/extensions`.
+!!! Tip
+
+    You can open the **Meowtils** folder in-game by doing `/meowfolder`.
