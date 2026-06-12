@@ -6,7 +6,7 @@ This event fires each render tick, which is once per frame.
 
 !!! Note
 
-    You should always use RenderGameOverlayEvent or RenderWorldLastEvent for render modules. It is recommended that you only use this event when you need to update something faster than what is possible with client tick.
+    You should always use [RenderGameOverlayEvent](../rendergameoverlayevent) or RenderWorldLastEvent for render modules. It is recommended that you only use this event when you need to update something faster than what is possible with client tick.
 
 ## Parameter
 

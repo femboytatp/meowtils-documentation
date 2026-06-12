@@ -48,7 +48,7 @@ _This is the mouse button type when clicking a slot._
 getGuiContainer()
 ```
 
-Returns current guiContainer.
+Returns current **GuiContainer**.
 
 ### Slot
 
@@ -56,7 +56,7 @@ Returns current guiContainer.
 getSlot()
 ```
 
-Returns current slot.
+Returns current **Slot**.
 
 ### Slot id
 

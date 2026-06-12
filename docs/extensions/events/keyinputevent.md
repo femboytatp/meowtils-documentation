@@ -20,7 +20,7 @@ This event fires each time you press a key.
 getKey()
 ```
 
-Returns the pressed KeyBinding.
+Returns the pressed **KeyBinding**.
 
 ## Example
 
