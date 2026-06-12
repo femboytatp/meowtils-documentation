@@ -13,9 +13,24 @@ tags:
 
 ### Hypixel
 
-Uses the Hypixel API for fetching stats. Requires an API key.
+Uses the Hypixel API to fetch stats.
 
-An API key can be obtained by going to their [Developer Dashboard](https://developer.hypixel.net/).
+!!! abstract "Hypixel API"
+
+    In order to use the Hypixel API you need a key.
+
+    **How to obtain an API key:**
+
+    1. Go to [Hypixel Developer Dashboard](https://developer.hypixel.net/).
+
+    2. Sign in with your Hypixel forums account.
+
+    3. Press `CREATE API KEY`
+
+    4. In-game, add your key with /meowapi <key>
+
+    _Normal keys don't last forever and will have to be regenerated. You may also need a forums account that is older than a day._
+
 
 ### Abyss
 
@@ -59,7 +74,7 @@ Will show limited stats in player nametags, similar to how levelhead would work 
 
 ### Chat
 
-Shows stats for all players in chat, this requires you to use AutoWho or run /who manually.
+Shows stats for all players in chat, this requires you to use [AutoWho](../autowho) or run /who manually.
 
 ## Chat options
 
@@ -83,9 +98,9 @@ Colors the names for chat stats based on the team they're on, rather than their 
 
 ## Urchin
 
-!!! Info
+!!! abstract "Urchin API"
 
-    In order to use the Urchin API you need your own key.
+    In order to use Urchin you need an API key.
 
     **How to obtain an API key:**
 
@@ -125,7 +140,7 @@ Will show Urchin icons in nametag & tablist for players that are in the Urchin b
 
 ### Show in chat
 
-Will send a message in chat if a player is blacklisted on Urchin, requires AutoWho or manually running /who.
+Will send a message in chat if a player is blacklisted on Urchin, requires [AutoWho](../autowho) or manually running /who.
 
 This only applies to games that support the /who command.
 

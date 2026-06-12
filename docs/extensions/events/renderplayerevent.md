@@ -87,9 +87,16 @@ Returns yaw float.
 ## Example
 
 ``` java
+/*
+If a player is invisible this makes them visible again.
+*/
 @EventTarget
 public void onRenderPlayer(RenderPlayerEvent event) {
-    if (mc.thePlayer == null || mc.theWorld == null || event.getStage() != RenderPlayerEvent.Stage.POST) return;
-    Meowtils.addMessage("All players have been rendered!");
+    if (event.getStage() != RenderPlayerEvent.Stage.PRE) return;
+    final EntityPlayer player = event.getPlayer();
+        
+    if (player.isInvisible()) {
+        player.setInvisible(false);
+    }
 }
 ```

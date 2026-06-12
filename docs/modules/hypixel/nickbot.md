@@ -35,7 +35,11 @@ If you get kicked to limbo (usually due to spam) this will automatically go back
 
 ## Legacy nicks
 
-Searches for legacy nicks, these are extremely rare.
+Searches for legacy nicks.
+
+!!! Note
+
+    These are extremely rare, you should not expect to ever get one however just in-case you should always keep this enabled.
 
 ## Four char
 
@@ -51,7 +55,11 @@ Searches for nicks that only contain text, ignores underscores.
 
 ## Special affixes
 
-Searches for nicks that end or starts with for example "xX".
+Searches for nicks with a special prefix or suffix.
+
+!!! Example
+
+    xX_Melon_Xx
 
 ## Custom words
 
@@ -81,4 +89,4 @@ Uses your custom word list.
 
 !!! Example
 
-    /nickbot add ?Ninja will check if a nick contains the word ninja, and if so flag it as a good nick.
+    /nickbot add ?Meow will check if a nick contains the word ninja, and if so flag it as a good nick.
