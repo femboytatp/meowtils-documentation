@@ -55,6 +55,8 @@ Select which items to include when considering best items.
 
     The item lists use item ID's, not item names. You can toggle displaying item ID's by enabling it in Minecraft settings or by doing F3 + H at the same time.
 
+    Example: `diamond_sword`
+
 `/itemsl` - _Add an item to the item safelist._
 
 `/itemusl` - _Remove an item from the item safelist._

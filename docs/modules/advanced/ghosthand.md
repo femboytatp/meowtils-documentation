@@ -29,7 +29,7 @@ Players will not be semi-transparent even if you're able to interact through the
 
 !!! Note
 
-    This only applies to players.
+    This does not apply to any other entities.
 
 ## Use item whitelist
 
