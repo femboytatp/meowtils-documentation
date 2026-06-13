@@ -39,10 +39,6 @@ Similar to start notifications this sends a chat message the first time you join
 
     If you want to ignore potential mod conflicts you can safely disable this.
 
-## Failed to queue
-
-Will notify if you're unable to queue on Hypixel, only notifies if ChatCleaner module is enabled.
-
 ## Challenge warning
 
 Warns you if you have a challenge active while queuing in Bedwars.
