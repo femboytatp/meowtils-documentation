@@ -101,7 +101,6 @@ nav:
           - AutoGG: modules/hypixel/autogg.md
           - AutoTip: modules/hypixel/autotip.md
           - AutoWho: modules/hypixel/autowho.md
-          - ChatCleaner: modules/hypixel/chatcleaner.md
           - Denicker: modules/hypixel/denicker.md
           - MurdererFinder: modules/hypixel/murdererfinder.md
           - NickBot: modules/hypixel/nickbot.md
@@ -160,6 +159,7 @@ nav:
           - ActionSounds: modules/utility/actionsounds.md
           - AntiObfuscate: modules/utility/antiobfuscate.md
           - AutoText: modules/utility/autotext.md
+          - ChatFilter: modules/utility/chatfilter.md
           - Freelook: modules/utility/freelook.md
           - HotbarLock: modules/utility/hotbarlock.md
           - LatencyAlerts: modules/utility/latencyalerts.md
