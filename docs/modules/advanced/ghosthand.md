@@ -17,6 +17,20 @@ tags:
 
 ---
 
+## Transparent
+
+### Always
+
+If you're able to interact through a player, they will be semi-transparent.
+
+### None
+
+Players will not be semi-transparent even if you're able to interact through them.
+
+!!! Note
+
+    This only applies to players.
+
 ## Use item whitelist
 
 Uses the item whitelist that can be changed below, which means **GhostHand** will only activate when you are holding whitelisted items.

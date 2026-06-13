@@ -75,7 +75,7 @@ Any text after a comment will be ignored, a comment has to be at the start of a 
 
 You can limit your filter to only work on a specific server or gamemode, this is based on scoreboard. If the scoreboard contains your selected text, the filter will work, otherwise it won't do anything.
 
-If you want it to work everywhere, you can leave this out or put it as `-all`
+If you want it to work everywhere, you can leave this out or put it as `-all`.
 
 !!! Example
 
