@@ -89,4 +89,4 @@ Uses your custom word list.
 
 !!! Example
 
-    /nickbot add ?Meow will check if a nick contains the word ninja, and if so flag it as a good nick.
+    /nickbot add ?Meow will check if a nick contains the word "meow", and if so flag it as a good nick.
