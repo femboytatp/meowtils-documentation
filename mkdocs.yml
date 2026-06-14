@@ -74,7 +74,6 @@ markdown_extensions:
 
 plugins:
   - tags
-  - glightbox
 
 extra:
   tags:
