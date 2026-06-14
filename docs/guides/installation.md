@@ -63,9 +63,9 @@ It is recommended that you check out [Basic Usage](../basic-usage) in order to l
 
 2. Follow their installation steps.
 
-### 2: Add Meowtils
+### 2: Download Meowtils
 
-1. [Download Meowtils](https://tatp.wtf/download/).
+1. [Meowtils](https://tatp.wtf/download/).
 
 ### 3: Follow Meowtils installation steps
 
@@ -73,11 +73,11 @@ It is recommended that you check out [Basic Usage](../basic-usage) in order to l
 
 2. Click `Install` in the **Install on Lunar Client** section.
 
+    ![Meowtils Installer](../assets/installer.png)
+
 3. Wait for installation to complete, there should now be a **JVM Argument** copied to your clipboard.
 
-![Meowtils Installer](../assets/installer.png)
-
-![Meowtils Installer completed](../assets/installer-complete.png)
+    ![Meowtils Installer completed](../assets/installer-complete.png)
 
 !!! Note
 
@@ -89,7 +89,7 @@ It is recommended that you check out [Basic Usage](../basic-usage) in order to l
 
 2. Enable advanced mode, next to the search bar;
 
-![Lunar advanced mode](../assets/advanced-mode.png)
+    ![Lunar advanced mode](../assets/advanced-mode.png)
 
 3. Navigate to the **Game Settings** section, scroll down until you find the **JVM Arguments** box.
 
@@ -97,7 +97,7 @@ It is recommended that you check out [Basic Usage](../basic-usage) in order to l
 
 5. If visible, click the save icon;
 
-![Lunar save icon](../assets/save-icon.png)
+    ![Lunar save icon](../assets/save-icon.png)
 
 ### 5: Confirm it is installed correctly
 
