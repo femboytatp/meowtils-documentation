@@ -71,6 +71,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
+  - markdown_captions
 
 plugins:
   - tags

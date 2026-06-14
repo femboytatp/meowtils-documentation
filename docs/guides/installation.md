@@ -73,11 +73,11 @@ It is recommended that you check out [Basic Usage](../basic-usage) in order to l
 
 2. Click `Install` in the **Install on Lunar Client** section.
 
-![alt text](installer.png)
-
 3. Wait for installation to complete, there should now be a **JVM Argument** copied to your clipboard.
 
-![alt text](installer-complete.png)
+![Meowtils Installer](../assets/installer.png)
+
+![Meowtils Installer completed](../assets/installer-complete.png)
 
 !!! Note
 
@@ -89,7 +89,7 @@ It is recommended that you check out [Basic Usage](../basic-usage) in order to l
 
 2. Enable advanced mode, next to the search bar;
 
-![alt text](advanced-mode.png)
+![Lunar advanced mode](../assets/advanced-mode.png)
 
 3. Navigate to the **Game Settings** section, scroll down until you find the **JVM Arguments** box.
 
@@ -97,7 +97,7 @@ It is recommended that you check out [Basic Usage](../basic-usage) in order to l
 
 5. If visible, click the save icon;
 
-![alt text](save-icon.png)
+![Lunar save icon](../assets/save-icon.png)
 
 ### 5: Confirm it is installed correctly
 
@@ -105,7 +105,7 @@ There should be a folder called **Meowtils-Lunar** created in the same directory
 
 You should also have your **JVM Arguments** in settings;
 
-![alt text](jvm-arguments.png)
+![Lunar JVM arguments](../assets/jvm-arguments.png)
 
 !!! Note
 
