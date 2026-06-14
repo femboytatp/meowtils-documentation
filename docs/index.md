@@ -1,6 +1,6 @@
 # **What is Meowtils?**
 
-Meowtils is a Minecraft utility mod with features that are focused towards specific servers and gamemodes, as well as general quality of life enhancements that can be useful anywhere.
+**Meowtils** is a Minecraft utility mod with features that are focused towards specific servers and gamemodes, as well as general quality of life enhancements that can be useful anywhere.
 
 ![Meowtils GUI](assets/meowtils-gui.png)
 
@@ -40,4 +40,4 @@ Allows you to add players for any reason to your own blacklist, which will then 
 A lot of commands for various things, such as quickly joining a game, checking player stats, or shortcuts for longer commands.
 
 **Extensions**  
-Like a small mod loaded by Meowtils, which lets you add your own features. Could be viewed as a powerful scripting API.
+Like a small mod loaded by **Meowtils**, which lets you add your own features. Could be viewed as a powerful scripting API.

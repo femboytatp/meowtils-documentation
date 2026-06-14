@@ -235,9 +235,8 @@ nav:
       #- Gamemodes:
       - Utility:
           - Color: extensions/utility/color.md
-  #- Support:
-      #- General Help: support/general-help.md
-      #- Reporting Bugs: support/reporting-bugs.md
-      #- Auto Updates: support/auto-updates.md
-      #- Source Code: support/source-code.md
-      #- Information Collected: support/information-collected.md
+  - Support:
+      - Help: support/help.md
+      - Auto Updates: support/auto-updates.md
+      - Source Code: support/source-code.md
+      - Information Collected: support/information-collected.md
