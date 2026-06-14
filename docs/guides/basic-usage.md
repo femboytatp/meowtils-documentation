@@ -56,4 +56,4 @@ All files that Meowtils create, such as config file or lists will be located in 
 
 !!! Tip
 
-    You can open the **Meowtils** folder in-game by doing `/meowfolder`.
+    You can open the **Meowtils** folder in-game by doing `/meowfolder`. 
