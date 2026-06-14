@@ -107,6 +107,88 @@ You should also have your **JVM Arguments** in settings;
 
 ![Lunar JVM arguments](../assets/jvm-arguments.png)
 
+### 6: Launch Minecraft
+
+Now launch Minecraft, **Meowtils** should be loaded.
+
+It is recommended that you check out [Basic Usage](../basic-usage) in order to learn how to use **Meowtils**.
+
 !!! Note
 
     If installation didn't work for you, follow the manual installation guide below.
+
+### Manual Installation
+
+!!! Warning
+
+    These steps require you to edit multiple things that you may not be familiar with, and if anything is done incorrectly it will not work. It is recommended that you use the **Meowtils Installer* shown above which automates all of this for you.
+
+---
+
+### 1: Download Meowtils
+
+[Meowtils-Lunar.zip](https://github.com/femboytatp/meowtils/releases/latest/download/Meowtils-Lunar.zip).
+
+### 2: Extract the downloaded archive
+
+Your operating system likely has a tool to extract .zip files already, if not you will have to download one.
+
+[7-Zip](https://www.7-zip.org/)
+
+### 3: Open **agent-mods.json**
+
+Edit the file path so it points towards the **Meowtils** jar.
+
+!!! Example
+
+    ``` json
+    {
+      "mods": [
+        {
+          "jar": "C:\\Users\\tatp\\Desktop\\Meowtils-Lunar\\Meowtils.jar",
+          "mixin": "mixins.meowtils.json",
+          "property": "meowtils.agent.injected"
+        }
+      ]
+    }
+    ```
+
+!!! Info
+
+    The path will look different depending on operating system, but on Windows it uses `\`, in this case you need to insert an extra \ as an escape character. This is shown in the example above.
+
+### 4: Construct the **JVM Argument**
+
+The **JVM Argument** points to the agent jar, and the agent json.
+
+Agent jar: `-javaagent:C:\Users\tatp\Desktop\Meowtils-Lunar\lunar-agent.jar`
+
+Agent json: `=C:\Users\tatp\Desktop\Meowtils-Lunar\agent-mods.json`
+
+Insert the correct path to each file, and then combine them.
+
+!!! Example
+
+    `-javaagent:C:\Users\tatp\Desktop\Meowtils-Lunar\lunar-agent.jar=C:\Users\tatp\Desktop\Meowtils-Lunar\agent-mods.json`
+
+### 5: Add Meowtils to Lunar
+
+1. Open settings in **Lunar Launcher** (bottom left corner).
+
+2. Enable advanced mode, next to the search bar;
+
+    ![Lunar advanced mode](../assets/advanced-mode.png)
+
+3. Navigate to the **Game Settings** section, scroll down until you find the **JVM Arguments** box.
+
+4. Paste the **JVM Arguments** that you constructed from previous step.
+
+5. If visible, click the save icon;
+
+    ![Lunar save icon](../assets/save-icon.png)
+
+### 6: Launch Minecraft
+
+Now launch Minecraft, **Meowtils** should be loaded.
+
+It is recommended that you check out [Basic Usage](../basic-usage) in order to learn how to use **Meowtils**.
