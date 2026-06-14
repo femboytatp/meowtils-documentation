@@ -26,8 +26,7 @@ jobs:
           cache: pip
 
       - name: Install dependencies
-        run: pip install mkdocs mkdocs-material
-        run: pip install mkdocs-glightbox
+        run: pip install mkdocs mkdocs-material mkdocs-glightbox
 
       - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy --force
