@@ -65,7 +65,7 @@ It is recommended that you check out [Basic Usage](../basic-usage) in order to l
 
 ### 2: Download Meowtils
 
-1. [Meowtils](https://tatp.wtf/download/).
+[Meowtils](https://tatp.wtf/download/).
 
 ### 3: Follow Meowtils installation steps
 
@@ -121,7 +121,7 @@ It is recommended that you check out [Basic Usage](../basic-usage) in order to l
 
 !!! Warning
 
-    These steps require you to edit multiple things that you may not be familiar with, and if anything is done incorrectly it will not work. It is recommended that you use the **Meowtils Installer* shown above which automates all of this for you.
+    These steps require you to edit multiple things that you may not be familiar with, and if anything is done incorrectly it will not work. It is recommended that you use the **Meowtils Installer** shown above which automates all of this for you.
 
 ---
 
