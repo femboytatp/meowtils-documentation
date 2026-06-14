@@ -33,6 +33,10 @@ Will automatically accept the nick if you get a good one, otherwise it will just
 
 If you get kicked to limbo (usually due to spam) this will automatically go back to lobby, and continue rolling nicks.
 
+## List skipped nicks
+
+Sends a chat message for each nick that is skipped.
+
 ## Legacy nicks
 
 Searches for legacy nicks.

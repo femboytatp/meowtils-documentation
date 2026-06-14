@@ -10,9 +10,9 @@ _The **Auto-Updater** can still be disabled if you want to update manually._
 
 ---
 
-# Forge
+## **Forge**
 
-## 1: Install Forge
+### 1: Install Forge
 
 **If you already have Forge installed you can skip this step.**
 
@@ -37,14 +37,76 @@ _The **Auto-Updater** can still be disabled if you want to update manually._
 
     If you are unable to run the .jar, you will need to install [Java](https://www.java.com/en/download/).
 
-## 2: Add Meowtils
+### 2: Add Meowtils
 
 1. [Download Meowtils](https://tatp.wtf/download/).
 
 2. Add the **Meowtils** jar to your `mods` folder.
 
-## 3: Launch Minecraft
+### 3: Launch Minecraft
 
 Now launch Minecraft, **Meowtils** should be loaded.
 
 It is recommended that you check out [Basic Usage](../basic-usage) in order to learn how to use **Meowtils**.
+
+---
+
+## **Lunar Client**
+
+!!! failure "Outdated version"
+
+    The currently public pre-release (4.1) does not support **Lunar Client**.
+
+### 1: Install Lunar Client
+
+1. [Download Lunar Client](https://www.lunarclient.com/download).
+
+2. Follow their installation steps.
+
+### 2: Add Meowtils
+
+1. [Download Meowtils](https://tatp.wtf/download/).
+
+### 3: Follow Meowtils installation steps
+
+1. Execute the **Meowtils** jar by clicking/opening it.
+
+2. Click `Install` in the **Install on Lunar Client** section.
+
+![alt text](installer.png)
+
+3. Wait for installation to complete, there should now be a **JVM Argument** copied to your clipboard.
+
+![alt text](installer-complete.png)
+
+!!! Note
+
+    If you are unable to run the .jar, you will need to install [Java](https://www.java.com/en/download/).
+
+### 4: Add Meowtils to Lunar
+
+1. Open settings in **Lunar Launcher** (bottom left corner).
+
+2. Enable advanced mode, next to the search bar;
+
+![alt text](advanced-mode.png)
+
+3. Navigate to the **Game Settings** section, scroll down until you find the **JVM Arguments** box.
+
+4. Paste the **JVM Arguments** that were copied from previous step into this box.
+
+5. If visible, click the save icon;
+
+![alt text](save-icon.png)
+
+### 5: Confirm it is installed correctly
+
+There should be a folder called **Meowtils-Lunar** created in the same directory as the jar you used for installation. This contains all necessary files.
+
+You should also have your **JVM Arguments** in settings;
+
+![alt text](jvm-arguments.png)
+
+!!! Note
+
+    If installation didn't work for you, follow the manual installation guide below.
