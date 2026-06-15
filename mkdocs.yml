@@ -176,6 +176,8 @@ nav:
           - DelayRemover: modules/advanced/delayremover.md
           - GhostHand: modules/advanced/ghosthand.md
   - Other Features:
+      - Auto Updates: other/auto-updates.md
+      - Commands: other/commands.md
       - Lists:
           - Blacklist: other/lists/blacklist.md
           - Safelist: other/lists/safelist.md
@@ -237,6 +239,5 @@ nav:
           - Color: extensions/utility/color.md
   - Support:
       - Help: support/help.md
-      - Auto Updates: support/auto-updates.md
       - Source Code: support/source-code.md
       - Information Collected: support/information-collected.md
