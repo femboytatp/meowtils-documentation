@@ -236,7 +236,7 @@ nav:
       #- Render:
       #- Gamemodes:
       - Utility:
-          - Gamemodes: extensions/utility/gamemodes.md
+          - Session: extensions/utility/session.md
           - Teams: extensions/utility/teams.md
           - Color: extensions/utility/color.md
   - Support:

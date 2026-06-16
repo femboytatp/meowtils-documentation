@@ -10,7 +10,7 @@
 
 - Remove all your mods except for **Meowtils**.
 
-    !!! Info
+    !!! abstract "Mod Conflicts"
 
         In some cases issues appear due to a mod conflict, if so you should still report this as a bug so we can investigate, as can sometimes fix this conflict on our end. 
         
@@ -18,7 +18,7 @@
 
 - Try a new instance of Minecraft.
 
-    !!! Info
+    !!! abstract "New Instance"
 
         Sometimes a fresh instance can solve issues with launching.
 
@@ -34,7 +34,7 @@
 
 - Use the [official Minecraft launcher](https://www.minecraft.net/download).
 
-    !!! Info
+    !!! abstract "Different Launcher"
 
         While most launchers that support Forge should generally work, some may not. Alternatively you could try using a different launcher from the one you are currently experiencing an issue with.
 
