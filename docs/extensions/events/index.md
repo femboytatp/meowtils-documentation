@@ -95,7 +95,7 @@ You can cancel events, which would prevent actions from being performed.
 event.setCancelled(true);
 ```
 
-!!! Note
+!!! bug "Important"
 
     You should only cancel events when you know what you are doing and what it would lead to.
 

@@ -1,4 +1,4 @@
-# **Color Utilty**
+# **Color Utility**
 
 ---
 
@@ -124,10 +124,10 @@ Returns the string with converted Minecraft formatting codes, converts `&<code>`
 
 !!! Example
 
-    Converts to gold text: 
+    **Converts to gold text:**   
     &6Meow → §6Meow
 
-    Converts while preserving:
+    **Converts while preserving:**   
     &6Meow & &cMeow → §6Meow & §cMeow
 
 ## Convert opacity

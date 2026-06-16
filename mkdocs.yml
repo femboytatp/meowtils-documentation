@@ -191,6 +191,12 @@ nav:
           - Send Message: extensions/basic/send-message.md
           - Notification: extensions/basic/notification.md
           - Commands: extensions/basic/commands.md
+      - Render:
+          - HUD Text: extensions/render/hud-text.md
+          - Entity ESP: extensions/render/entity-esp.md
+          - Block ESP: extensions/render/block-esp.md
+          - Name Icons: extensions/render/name-icons.md
+          - Slot Background: extensions/render/slot-background.md
       - Events:
           - extensions/events/index.md
           - Client Tick: extensions/events/clienttickevent.md
