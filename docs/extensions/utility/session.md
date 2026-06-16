@@ -108,6 +108,8 @@ Server.MINEPLEX.isNotActive();
 
 Limited to Mineplex server.
 
+---
+
 # Bedwars
 
 Checks if you are currently in Bedwars and which mode.
@@ -132,7 +134,7 @@ Limited to all types of Bedwars modes, both lobby and in-game.
 
 !!! Tip
 
-    It is recommended that you use this one if you want multi-server support, as it only requires the scoreboard title to contains `bedwars` or `bed wars`.
+    It is recommended that you use this one if you want multi-server support, as it only requires the scoreboard title to contain `bedwars` or `bed wars`.
 
 ## _Lobby_
 
@@ -254,6 +256,8 @@ Bedwars.ONE_BLOCK.isNotActive();
 
 Limited to Bedwars one-block.
 
+---
+
 # Skywars
 
 Checks if you are currently in Skywars and which mode.
@@ -278,7 +282,7 @@ Limited to all types of Skywars modes, both lobby and in-game.
 
 !!! Tip
 
-    It is recommended that you use this one if you want multi-server support, as it only requires the scoreboard title to contains `skywars` or `sky wars`.
+    It is recommended that you use this one if you want multi-server support, as it only requires the scoreboard title to contain `skywars` or `sky wars`.
 
 ## _Lobby_
 
@@ -315,6 +319,8 @@ Skywars.MINI.isNotActive();
 ```
 
 Limited to Skywars mini mode.
+
+---
 
 # Duels
 
@@ -366,6 +372,8 @@ Duels.BEDWARS.isNotActive();
 
 Limited to Duels bedwars mode.
 
+---
+
 # Mega Walls
 
 Checks if you are currently in Mega Walls and which mode.
@@ -415,6 +423,8 @@ MegaWalls.GAME.isNotActive();
 ```
 
 Limited to Mega Walls in-game only, any mode.
+
+---
 
 # Murder Mystery
 
