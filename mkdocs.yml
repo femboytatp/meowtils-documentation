@@ -236,8 +236,10 @@ nav:
       #- Render:
       #- Gamemodes:
       - Utility:
+          - Gamemodes: extensions/utility/gamemodes.md
+          - Teams: extensions/utility/teams.md
           - Color: extensions/utility/color.md
   - Support:
-      - Help: support/help.md
-      - Source Code: support/source-code.md
-      - Information Collected: support/information-collected.md
+      - Request Help: support/request-help.md
+      - Report Bug: support/report-bug.md
+      - Suggest Feature: support/suggest-feature.md
