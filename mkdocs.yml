@@ -187,16 +187,6 @@ nav:
       - How To Setup: extensions/setup.md
       - Limitations: extensions/limitations.md
       - Entrypoint: extensions/entrypoint.md
-      - Basic:
-          - Send Message: extensions/basic/send-message.md
-          - Notification: extensions/basic/notification.md
-          - Commands: extensions/basic/commands.md
-      - Render:
-          - HUD Text: extensions/render/hud-text.md
-          - Entity ESP: extensions/render/entity-esp.md
-          - Block ESP: extensions/render/block-esp.md
-          - Name Icons: extensions/render/name-icons.md
-          - Slot Background: extensions/render/slot-background.md
       - Events:
           - extensions/events/index.md
           - Client Tick: extensions/events/clienttickevent.md
@@ -215,21 +205,32 @@ nav:
           - Render World Last: extensions/events/renderworldlastevent.md
           - Render String: extensions/events/renderstringevent.md
           - Render Player: extensions/events/renderplayerevent.md
+      - Basic:
+          - Send Message: extensions/basic/send-message.md
+          - Notification: extensions/basic/notification.md
+          - Commands: extensions/basic/commands.md
+      - Render:
+          - HUD Text: extensions/render/hud-text.md
+          - Entity ESP: extensions/render/entity-esp.md
+          #- Block ESP: extensions/render/block-esp.md
+          - Slot Background: extensions/render/slot-background.md
+          - Name Icons: extensions/render/name-icons.md
+          - Item Icons: extensions/render/item-icons.md
       - Modules:
         - Setup: extensions/gui/module.md
         - Components:
-              - Toggle: extensions/gui/components/togglecomponent.md
-              - Check: extensions/gui/components/checkcomponent.md
-              - Mode: extensions/gui/components/modecomponent.md
-              - Slider: extensions/gui/components/slidercomponent.md
-              - Text: extensions/gui/components/textcomponent.md
-              - Color: extensions/gui/components/colorcomponent.md
-              - Saturation: extensions/gui/components/saturationcomponent.md
-              - Brightness: extensions/gui/components/brightnesscomponent.md
-              - Opacity: extensions/gui/components/opacitycomponent.md
-              - Bind: extensions/gui/components/bindcomponent.md
-              - Button: extensions/gui/components/buttoncomponent.md
-              - Expand: extensions/gui/components/expandcompoonent.md
+            - Toggle: extensions/gui/components/togglecomponent.md
+            - Check: extensions/gui/components/checkcomponent.md
+            - Mode: extensions/gui/components/modecomponent.md
+            - Slider: extensions/gui/components/slidercomponent.md
+            - Text: extensions/gui/components/textcomponent.md
+            - Color: extensions/gui/components/colorcomponent.md
+            - Saturation: extensions/gui/components/saturationcomponent.md
+            - Brightness: extensions/gui/components/brightnesscomponent.md
+            - Opacity: extensions/gui/components/opacitycomponent.md
+            - Bind: extensions/gui/components/bindcomponent.md
+            - Button: extensions/gui/components/buttoncomponent.md
+            - Expand: extensions/gui/components/expandcompoonent.md
         - Overrides:
             - Enable: extensions/gui/overrides/on-enable.md
             - Disable: extensions/gui/overrides/on-disable.md

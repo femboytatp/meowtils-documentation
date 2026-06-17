@@ -2,7 +2,7 @@
 
 !!! Note
 
-    When drawing text on screen use [RenderGameOverlayEvent](../events/rendergameoverlayevent.md).
+    When drawing text on screen you should use [RenderGameOverlayEvent](../events/rendergameoverlayevent.md).
 
 ``` java
 Meowtils.drawString(String text, int x, int y, float scale, int color)
@@ -28,7 +28,7 @@ Meowtils.offsetString(float scale)
 
 This will automatically calculate the required offset depending on font type and text scale.
 
-## Full example
+## Example
 
 !!! Tip
 
