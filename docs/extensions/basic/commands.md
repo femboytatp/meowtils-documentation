@@ -34,17 +34,19 @@ If not overriden it will be left empty.
 tabCompleteNames()
 ```
 
-Boolean, lets you tab-complete player names in your world if return true.
+Boolean, lets you tab-complete player names in your world if it returns true.
 
 If not overriden it will be false.
 
 ## Registering
 
-You will need to register your commands at init.
+You will need to register your commands on init.
 
 !!! Example
 
+    ``` java
      CommandHandler.register(new ExampleCommand());
+    ```
 
 ## Example
 
