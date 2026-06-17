@@ -1,4 +1,4 @@
-# **Saving config values**
+# **Saving Values**
 
 This saves a value to the **Meowtils** config file, commonly used for sub-components but you can save any value if wanted.
 

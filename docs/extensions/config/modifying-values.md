@@ -1,4 +1,4 @@
-# **Modifying config values**
+# **Modifying Values**
 
 You can modify `@Config` values from anywhere, as long as they are `public`. This includes modules that exist in **Meowtils** or other loaded extensions.
 

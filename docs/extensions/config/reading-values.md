@@ -1,4 +1,4 @@
-# **Reading config values**
+# **Reading Values**
 
 You can read `@Config` values from anywhere, as long as they are `public`. This includes modules that exist in **Meowtils** or other loaded extensions.
 
