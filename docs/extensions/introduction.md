@@ -16,6 +16,26 @@ Modules from extensions will show up in a new category called **Extensions**.
 
     These docs make the assumption that you have at least **some** past experience with java and Minecraft in general.
 
+## Why use **Extensions**?
+
+**Extensions** provide a way to modify Minecraft in many ways without having to load a traditional Forge mod. Additionally they are supported on **Lunar Client**.
+
+- Runtime loading.
+
+    _**Extensions** can be loaded during runtime, and swapped whenever. You can update your code while actively playing without ever having to disconnect or restart._
+
+- No GUI code needed.
+    
+    _This is all handled by **Meowtils**, you can add modules easily to use the existing GUI._
+
+- No Mod ID.
+
+    _Fully hidden from servers, unlike a regular Forge mod._
+
+- Multi-Client Events.
+
+    _**Meowtils** events are both supported on **Lunar Client** and **Forge**, simultaneously. Your features will work on both._
+
 ## Usage
 
 To use an Extension, simply put it in the **extensions** folder located in the **meowtils** folder in your game directory. You can also open this folder ingame by doing `/extensions`.
