@@ -47,7 +47,7 @@ You will need to register your implementation at init.
 ``` java
 /*
 This displays a prefix and suffix for yourself that says if it is currently being rendered in tablist or nametag.
- */
+*/
 public class ExampleIcon implements IconProvider {
 
     @Override
