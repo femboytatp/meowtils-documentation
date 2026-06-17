@@ -10,7 +10,7 @@
 
 ### 1: Download project
 
-[Download the **ExampleExtension**](http://github.com/femboytatp/meowtils-documentation/releases/tag/ExampleExtension).
+[Download the **ExampleExtension**](https://github.com/femboytatp/meowtils-documentation/releases/download/ExampleExtension/ExampleExtension.zip).
 
 ### 2: Extract the project
 
@@ -20,7 +20,7 @@ Your operating system likely has a tool to extract .zip files already, if not yo
 
 ### 3: Open the project
 
-[IntelliJ IDEA](https://www.jetbrains.com/idea/) is the recommended program to use. You can follow another Forge modding guide if you want to use something else.
+[IntelliJ IDEA](https://www.jetbrains.com/idea/) is the recommended program to use. You can follow any Forge modding guide if you want to use something else.
 
 ### 4: Add Meowtils as a library
 
