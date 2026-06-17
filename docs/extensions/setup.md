@@ -28,7 +28,7 @@ Your operating system likely has a tool to extract .zip files already, if not yo
 
 2. Add the Meowtils.jar to the **libs** folder at root in your project.
 
-3. Rename the jar to match what you have defined in the **build.gradle**.
+3. Rename the jar to match what you have defined in the **build.gradle**, by default this will be `meowtils.jar`.
 
 !!! Tip
 
