@@ -237,8 +237,8 @@ nav:
             - Reset: extensions/gui/overrides/on-reset.md
             - Hud Editor: extensions/gui/overrides/hud-editor.md
       - Config:
-          - Reading Values: extensions/config/reading-values.md
           - Saving Values: extensions/config/saving-values.md
+          - Reading Values: extensions/config/reading-values.md
           - Modifying Values: extensions/config/modifying-values.md
       #- Render:
       #- Gamemodes:
@@ -247,6 +247,7 @@ nav:
           - Teams: extensions/utility/teams.md
           - Color: extensions/utility/color.md
   - Support:
+      - support/index.md
       - Request Help: support/request-help.md
       - Report Bug: support/report-bug.md
       - Suggest Feature: support/suggest-feature.md
