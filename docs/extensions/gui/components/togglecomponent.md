@@ -1,5 +1,7 @@
 # **Toggle Component**
 
+---
+
 **For:** `boolean values`
 
 This component will display a button and text, it allows you to set settings to either be true or false.

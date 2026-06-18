@@ -1,5 +1,7 @@
 # **Check Component**
 
+---
+
 **For:** `boolean values`
 
 This component will display a box and text, it allows you to set settings to either be true or false. This is functionally identical to the [Toggle Component](../components/togglecomponent.md).

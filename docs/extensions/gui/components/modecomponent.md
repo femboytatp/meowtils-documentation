@@ -1,5 +1,7 @@
 # **Mode Component**
 
+---
+
 **For:** `string values`
 
 This component will display a dropdown where you can set specified modes.
