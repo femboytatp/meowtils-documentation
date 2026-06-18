@@ -18,12 +18,11 @@ This is your main point of entry, it is called once when your **Extension** is l
 
     ``` java
     public class Main {
-
-    // Called once when your Extension is loaded
-    public static void init() {
-        // Register modules etc here
+    
+        public static void init() {
+            // Register here
+        }
     }
-}
     ```
 
 ## What do you need to register?

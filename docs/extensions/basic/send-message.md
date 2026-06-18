@@ -13,7 +13,7 @@ These messages only appear clientside, for yourself.
 #### Message with prefix
 
 ``` java
-addMessage(String message)
+Meowtils.addMessage(String message)
 ```
 
 Prints a message with the Meowtils prefix.
@@ -23,7 +23,7 @@ Prints a message with the Meowtils prefix.
 #### Message without prefix
 
 ``` java
-addCleanMessage(String message)
+Meowtils.addCleanMessage(String message)
 ```
 
 Prints a message without the Meowtils prefix.
@@ -33,7 +33,7 @@ Prints a message without the Meowtils prefix.
 #### Debug message
 
 ``` java
-debugMessage(String message)
+Meowtils.debugMessage(String message)
 ```
 
 Prints a message if debug mode is enabled.
@@ -53,7 +53,7 @@ These messages are sent to the server, same as if you were to type a message in 
 #### Message with prefix
 
 ``` java
-sendMessage(String message)
+Meowtils.sendMessage(String message)
 ```
 
 This sends a message to the server with the prefix `Meow »`.
@@ -67,7 +67,7 @@ This sends a message to the server with the prefix `Meow »`.
 #### Message without prefix
 
 ``` java
-sendCleanMessage(String message)
+Meowtils.sendCleanMessage(String message)
 ```
 
 Sends specified message to the server.
@@ -87,7 +87,7 @@ These are log messages that will not appear in chat, but in your log.
 #### Info
 
 ``` java
-info(String msg)
+Meowtils.info(String msg)
 ```
 
 !!! Info
@@ -99,7 +99,7 @@ info(String msg)
 #### Warn
 
 ``` java
-warn(String msg)
+Meowtils.warn(String msg)
 ```
 
 !!! Info
@@ -111,7 +111,7 @@ warn(String msg)
 #### Error
 
 ``` java
-error(String msg)
+Meowtils.error(String msg)
 ```
 
 !!! Info
@@ -123,7 +123,7 @@ error(String msg)
 #### Fatal
 
 ``` java
-fatal(String msg)
+Meowtils.fatal(String msg)
 ```
 
 !!! Info

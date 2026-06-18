@@ -32,7 +32,7 @@ You will need to register classes that contain events.
 
 ## Annotation
 
-Like Forge, an event method requires an annotation in order to be discovered. In this case that would be @EventTarget which tells the Meowtils event bus that this is a method that should be called when the relevant event fires.
+Like Forge, an event method requires an annotation in order to be discovered. In this case that would be `@EventTarget` which tells the **Meowtils** event bus that this is a method that should be called when the relevant event fires.
 
 ### Priority
 
