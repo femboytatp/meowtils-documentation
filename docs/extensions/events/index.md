@@ -16,6 +16,20 @@ Meowtils events are very similar to Forge events, however there are a few notabl
 
 Like Forge, an event method has to be a public method that returns void, the actual method name can be anything but generally you would name it something relevant such as **onClientTick**.
 
+## Registering
+
+You will need to register classes that contain events.
+
+!!! Info
+
+    You do not need to register module classes to the event bus, as this will be done automatically. This only applies to additional classes where you use events.
+
+!!! Example
+
+    ``` java
+    Extension.registerEvent(new ExampleHandler());
+    ```
+
 ## Annotation
 
 Like Forge, an event method requires an annotation in order to be discovered. In this case that would be @EventTarget which tells the Meowtils event bus that this is a method that should be called when the relevant event fires.
