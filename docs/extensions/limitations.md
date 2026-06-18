@@ -4,7 +4,7 @@
 
     **Extensions** are seen as additions loaded by **Meowtils** that provide a bridge between your code and **Meowtils**. They are treated as scripts with less limitations. They will have certain limitations due to how they are loaded.
 
-## Mixins
+## **Mixins**
 
 ??? failure "Not Supported"
 
@@ -16,7 +16,7 @@ Since **Extensions** load at runtime by **Meowtils** you are unable to use certa
 
     In many cases you won't need Mixins at all, however if you do and are unable to find a way around this limitation, it is recommended that you load your own mod instead.
 
-## Reflection
+## **Reflection**
 
 ??? success "Supported"
 
