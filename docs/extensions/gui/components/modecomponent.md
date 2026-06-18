@@ -17,6 +17,9 @@ This component will display a dropdown where you can set specified modes.
 ---
 
 ``` java
+mode(String name, List<String> modes, String config)
+
+// Example
 mode("Mode", Arrays.asList("Mode 1", "Mode 2", "Mode 3"), "exampleMode");
 ```
 

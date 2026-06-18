@@ -17,6 +17,9 @@ This component will display a box and text, it allows you to set settings to eit
 ---
 
 ``` java
+check(String name, String config)
+
+// Example
 check("Example setting", "exampleSetting");
 ```
 

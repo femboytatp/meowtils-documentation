@@ -17,6 +17,9 @@ This component will display a button and text, it allows you to set settings to 
 ---
 
 ``` java
+toggle(String name, String config)
+
+// Example
 toggle("Example setting", "exampleSetting");
 ```
 

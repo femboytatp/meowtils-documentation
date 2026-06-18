@@ -15,6 +15,9 @@ This component will display a slider for changing a number.
 ---
 
 ``` java
+slider(String name, double min, double max, double increment, @Nullable String valueType, String config, Class<?> targetType)
+
+// Example
 slider("Example delay", 0, 1000, 50, "ms", "delay", int.class);
 ```
 
