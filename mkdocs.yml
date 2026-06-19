@@ -231,7 +231,7 @@ nav:
             - Opacity: extensions/gui/components/opacitycomponent.md
             - Bind: extensions/gui/components/bindcomponent.md
             - Button: extensions/gui/components/buttoncomponent.md
-            - Expand: extensions/gui/components/expandcompoonent.md
+            - Expand: extensions/gui/components/expandcomponent.md
         - Overrides:
             - Enable: extensions/gui/overrides/on-enable.md
             - Disable: extensions/gui/overrides/on-disable.md
