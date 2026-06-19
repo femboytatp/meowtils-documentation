@@ -6,6 +6,8 @@
 
 This component will display a slider for setting color.
 
+![Color-Slider](../../../assets/color-slider.png)
+
 !!! tip "Recommended Usage"
 
     This should be used when you want to adjust an `RGB` value.

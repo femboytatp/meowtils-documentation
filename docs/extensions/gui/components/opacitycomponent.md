@@ -6,6 +6,8 @@
 
 This component will display opacity from `0-100%`.
 
+![Opacity-Slider](../../../assets/opacity-slider.png)
+
 !!! tip "Recommended Usage"
 
     This should be used for modules where you can adjust opacity.
