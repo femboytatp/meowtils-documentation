@@ -42,6 +42,16 @@ You are able to bind modules to a specified key, if so they will toggle when pre
 
 In case a category is too long you can hover over it and use your scroll wheel to access settings or modules that are located lower down.
 
+## HUD Editor
+
+The HUD Editor allows you to change the position of HUD Elements from modules. To open it, you can find a button in the bottom left corner while the **GUI** is opened, if you click it then the HUD Editor will open.
+
+It will display a preview for elements, you can hover over them to see a description of what module it comes from, and you can drag & drop them anywhere.
+
+!!! Info
+
+    Only HUD Elements in currently enabled modules will have a preview displayed.
+
 ## Commands
 
 You may view a list of all commands by doing `/meow`.

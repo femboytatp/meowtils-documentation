@@ -217,7 +217,7 @@ nav:
           - Slot Background: extensions/render/slot-background.md
           - Name Icons: extensions/render/name-icons.md
           - Item Icons: extensions/render/item-icons.md
-      - Modules:
+      - Module:
         - Setup: extensions/gui/module.md
         - Components:
             - Toggle: extensions/gui/components/togglecomponent.md
@@ -241,6 +241,7 @@ nav:
           - Saving Values: extensions/config/saving-values.md
           - Reading Values: extensions/config/reading-values.md
           - Modifying Values: extensions/config/modifying-values.md
+      - Extras: extensions/gui/extras.md
       #- Render:
       #- Gamemodes:
       - Utility:
