@@ -237,7 +237,7 @@ nav:
             - Disable: extensions/gui/overrides/on-disable.md
             - Reset: extensions/gui/overrides/on-reset.md
             - Hud Editor: extensions/gui/overrides/hud-editor.md
-        - Extras: extensions/gui/components/extras.md
+        - Extras: extensions/gui/extras.md
       - Config:
           - Saving Values: extensions/config/saving-values.md
           - Reading Values: extensions/config/reading-values.md
