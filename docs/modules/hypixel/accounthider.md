@@ -7,7 +7,7 @@ tags:
 
 #### Allows you to visually hide certain information related to your account.
 
-!!! Note
+!!! Bug
 
     Custom name might not work for nametags when using Lunar Client, in this case it is recommended that you use Lunar Client's own nick hider feature instead.
 

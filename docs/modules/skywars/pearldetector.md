@@ -17,17 +17,17 @@ Change the color of HUD element, for your own timer.
 
 This controls when your own timer starts counting down if you threw a time-warp pearl.
 
+!!! Tip
+
+    Try **On message** mode first, and if that doesn't work change to **On click** mode.
+
 ### On message
 
-Relies on message sent by the server, the timer will be more accurate but if the server changes the message this won't work.
+Relies on message sent by the server, the timer will be more accurate but if the server changes the message, this won't work.
 
 ### On click
 
 This starts the timer if you hold a time-warp pearl and right-click it, this does not rely on any messages however the timer will be less accurate.
-
-!!! Tip
-
-    Try **On message** mode first, and if that doesn't work change to **On click** mode.
 
 ## Text scale
 

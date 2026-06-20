@@ -13,4 +13,6 @@ tags:
 
 Change how transparent invisible players are. 
 
-100% will treat them as not invisible.
+!!! Note
+
+    100% will treat them as not invisible.

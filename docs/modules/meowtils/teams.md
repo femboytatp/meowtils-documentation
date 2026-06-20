@@ -15,7 +15,7 @@ Attempts to ignore players that might be bots, also known as AntiBot.
 
 ### Hypixel
 
-Made for Hypixel, which ignores players based on UUID version. Will not work reliably on other servers.
+Made for Hypixel, which ignores players based on UUID version. May not work reliably on other servers.
 
 ### Universal
 
@@ -39,4 +39,4 @@ Will attempt to ignore players that are on the same team as you.
 
 ## Ignore friends
 
-Ignores players that are in your Meowtils friends list.
+Ignores players that are in your **Meowtils** friends list.

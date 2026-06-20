@@ -5,11 +5,11 @@ tags:
 
 # **NickBot**
 
-#### Rerolls nicks for you until a good one is found. Stops when pressing ESC.
+#### Rolls nicks for you until a good one is found.
 
 !!! Warning
 
-    This is a bot, and is not a legit feature. However all it does is send chat messages, so it should generally be safe.
+    This is a bot, it is not a legit feature. However all it does is send chat messages, so it should generally be safe.
 
 ---
 
@@ -36,6 +36,10 @@ If you get kicked to limbo (usually due to spam) this will automatically go back
 ## List skipped nicks
 
 Sends a chat message for each nick that is skipped.
+
+!!! Tip
+
+    You can do `/meowlog` to open the log if you want to see the full list of skipped nicks.
 
 ## Legacy nicks
 

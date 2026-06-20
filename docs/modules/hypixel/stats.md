@@ -15,7 +15,7 @@ tags:
 
 Uses the Hypixel API to fetch stats.
 
-!!! abstract "Hypixel API"
+!!! info "Hypixel API"
 
     In order to use the Hypixel API you need a key.
 
@@ -38,7 +38,7 @@ Uses the [Abyss Overlay](https://github.com/Chit132/abyss-overlay) API for fetch
 
 !!! Warning
 
-    We simply provide the alternative for you to use this, but they likely do not intend for their API to be used this way, and if abused they might IP ban you.
+    We simply provide the alternative for you to use this, but they likely do not intend for their API to be used this way, and if abused they might ban you.
 
     As long as it is used normally (loading stats ingame) you shouldn't run into any issues as this is what their overlay already does.
 
@@ -46,7 +46,11 @@ Uses the [Abyss Overlay](https://github.com/Chit132/abyss-overlay) API for fetch
 
 ## Clear cache
 
-To prevent rate limits, stats are cached. This allows you to clear that cache but it is not recommended to do so unless you run into issues with old invalid stats.
+To prevent rate limits, stats are cached. This allows you to clear that cache.
+
+!!! Note
+
+    Only do this when you know what it leads to, as clearing cache could lead to further rate limits.
 
 ## Cache duration
 
@@ -74,7 +78,7 @@ Will show limited stats in player nametags, similar to how levelhead would work 
 
 ### Chat
 
-Shows stats for all players in chat, this requires you to use [AutoWho](../autowho) or run /who manually.
+Shows stats for all players in chat, this requires you to use [AutoWho](../autowho) or run `/who` manually.
 
 ## Chat options
 
@@ -84,7 +88,7 @@ This automatically fetches stats and sends them in chat for some players.
 
 **Applies to:**
 
-- Players in party, when running /party list.
+- Players in party, when running `/party list`.
 
 - Players that mention your name in public chat.
 
@@ -97,6 +101,10 @@ This automatically fetches stats and sends them in chat for some players.
 Colors the names for chat stats based on the team they're on, rather than their rank.
 
 ## Urchin
+
+!!! Warning
+
+    **Urchin** is deprecated and will be replaced in the future.
 
 !!! abstract "Urchin API"
 
@@ -140,9 +148,9 @@ Will show Urchin icons in nametag & tablist for players that are in the Urchin b
 
 ### Show in chat
 
-Will send a message in chat if a player is blacklisted on Urchin, requires [AutoWho](../autowho) or manually running /who.
+Will send a message in chat if a player is blacklisted on Urchin, requires [AutoWho](../autowho) or manually running `/who`.
 
-This only applies to games that support the /who command.
+This only applies to games that support the `/who` command.
 
 ### API key
 
@@ -176,9 +184,9 @@ _Calculation: wins / losses._
 
 The winstreak they have.
 
-!!! Info
+!!! Note
 
-    This will only be displayed for players that actually have a winstreak visible, as players are able to hide winstreaks from the API. This might not show up for everyone.
+    This will only be displayed for players that actually have a winstreak visible, as players are able to hide winstreaks from the API.
 
 ### Clutch ratio
 

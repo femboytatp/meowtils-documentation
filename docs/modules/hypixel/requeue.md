@@ -27,7 +27,7 @@ Delay to wait until automatically requeuing, in seconds.
 
 ## Requeue bind
 
-Lets you bind a key that when pressed will requeue for you.
+Lets you bind a key that, when pressed, will requeue for you.
 
 ## Commands
 

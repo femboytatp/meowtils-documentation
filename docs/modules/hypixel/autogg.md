@@ -21,6 +21,10 @@ Toggle sending message on game end.
 
 Sends a random message from your list instead, overrides first & second message.
 
+!!! Info
+
+    Random messages exclude the last sent message, meaning it wont send the same message twice in a row.
+
 ### First message
 
 The first message to send, if enabled.
@@ -39,7 +43,7 @@ Sends after set delay, which uses the same start time as first message.
 
 !!! Example
 
-    If both delays are set to 100ms, they will send at the same time.
+    If both delays are set to 100ms, messages will be sent at the same time.
 
 ## Auto GL
 
@@ -51,7 +55,11 @@ Toggle sending message on game start.
 
 ### Random message
 
-Sends a random message from your list instead, overrides message.
+Sends a random message from your list instead of the set message.
+
+!!! Info
+
+    Random messages exclude the last sent message, meaning it wont send the same message twice in a row. 
 
 ### Send at
 

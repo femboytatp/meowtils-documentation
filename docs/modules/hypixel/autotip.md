@@ -11,7 +11,7 @@ tags:
 
 ## Hide messages
 
-Will hide tip messages if enabled.
+Will hide the messages that show up when tipping.
 
 ## Delay
 

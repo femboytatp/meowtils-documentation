@@ -13,6 +13,8 @@ tags:
 
 If enabled, new updates will automatically be installed. This is opt-out and if disabled it will only provide a link to the update page for you to manually install it.
 
+More about **Auto-Updater** [**HERE**](../../other/auto-updates.md).
+
 ## Smooth font
 
 Use smooth font for HUD elements and modules that render text in your world. If disabled the normal Minecraft font will be used instead.
@@ -37,7 +39,7 @@ Lets you customize the prefix for chat messages.
 
 !!! Tip
     
-    Use the /theme command to pick colors for Custom & Short themes.
+    Use the `/theme` command to pick colors for Custom & Short themes.
 
 ### Lowercase
 

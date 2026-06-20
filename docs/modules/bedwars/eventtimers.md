@@ -25,7 +25,11 @@ Only shows the next 2 events rather than all.
 
 ### Roman numerals
 
-Replaces numbers with roman numerals. E.g. 3 becomes III.
+Replaces numbers with roman numerals.
+
+!!! Example
+
+    `3 → III`
 
 ### Dynamic color
 

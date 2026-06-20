@@ -49,7 +49,7 @@ Adds a sound to challenge warning.
 
 ## Shout cooldown
 
-Tells you when your /shout cooldown has ended in Bedwars.
+Tells you when your `/shout` cooldown has ended in Bedwars.
 
 ## Blacklisted warning
 

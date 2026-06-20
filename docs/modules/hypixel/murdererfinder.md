@@ -31,7 +31,7 @@ Renders outlined ESP box for relevant roles.
 
 ### None
 
-Renders no ESP at all for players.
+Renders no ESP at all.
 
 ## Name icons
 
@@ -55,4 +55,8 @@ Toggles checking for murderers.
 
 ## Find detectives
 
-Toggles checking for detectives, which just checks if someone is holding a bow as it is not possible to differentiate between detectives and survivors that have a bow.
+Toggles checking for detectives.
+
+!!! Note
+
+    This just checks if a player is holding a bow, as it is not possible to differentiate between detectives and survivors that acquired a bow.

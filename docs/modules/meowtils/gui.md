@@ -11,7 +11,7 @@ tags:
 
 ## Color
 
-Adjusts the color theme that the Click GUI uses.
+Adjusts the color theme that the GUI uses.
 
 ## Scroll speed
 
@@ -23,7 +23,7 @@ Adjust how fast you can scroll in the GUI when a category is too long.
 
 Changes the scale for GUI, which may be necessary depending on monitor resolution.
 
-!!! Note
+!!! Bug
 
     Depending on resolution and GUI scale, there could be visual artifacts.
 
@@ -31,9 +31,9 @@ Changes the scale for GUI, which may be necessary depending on monitor resolutio
 
 This lets you restrict which modules you're able to use, in case you want to prevent usage of potentially unfair or unsafe modules.
 
-You can read about risk labels [Here](../../guides/server-safety/).
+You can read about risk labels [**HERE**](../../guides/server-safety/).
 
-!!! Note
+!!! Info
 
     We make no attempts at forcefully restricting features, this is fully up to you, and you're able to change mode at any time.
 
@@ -47,11 +47,11 @@ Restricts modules that can be detected by anticheats, without restricting safe c
 
 ### Legit
 
-Hides all modules that would be unfair, as this is based on what is generally considered allowed it cannot be 100% accurate as every server has their own set of rules.
+Hides all modules that would be unfair, as this is based on what is generally considered allowed it cannot be 100% accurate since every server has their own set of rules.
 
 !!! Example
 
-    Hypixel specifically disallows usage of Freelook, whilst most other servers generally allow it. That is why Freelook is not restricted even when using Legit mode.
+    **Hypixel** specifically disallows usage of **Freelook**, whilst most other servers generally allow it. That is why **Freelook** is not restricted even when using the **Legit** mode.
 
 ## Show tooltips
 
@@ -63,8 +63,8 @@ Applies a background blur while GUI is open.
 
 ## Bind
 
-The bind for opening the GUI. This can also be set by using the /bind command.
+The bind for opening the GUI. This can also be set by using the `/bind` command.
 
 ## Reset GUI color
 
-Resets the GUI color back to default theme color.
+Resets the GUI color back to the default theme color.

@@ -10,3 +10,5 @@ tags:
 !!! Success "Legit"
 
     This is a feature that is integrated into several keyboards by default. It does not do anything that is detectable.
+
+---

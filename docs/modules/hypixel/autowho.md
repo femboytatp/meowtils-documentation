@@ -11,4 +11,4 @@ tags:
 
 ## Hide message
 
-Hides the feedback messages that are shown in chat after running /who.
+Hides the feedback message that is shown in chat after running /who.

@@ -4,7 +4,7 @@
 
     **Meowtils** is a one-time installation, after following these steps it will always inject into your game at startup. 
 
-Any future updates will be handled by the **Auto-Updater**, which means you won't have to manually replace any files or install it again.
+Any future updates will be handled by the [Auto-Updater](../other/auto-updates.md), which means you won't have to manually replace any files or install it again.
 
 _The **Auto-Updater** can still be disabled if you want to update manually._
 
@@ -20,7 +20,7 @@ _The **Auto-Updater** can still be disabled if you want to update manually._
 
     You can use third-party launchers for **Forge**, such as [Prism Launcher](https://prismlauncher.org/) or [Feather Client](https://feathermc.com/), however these will have different installation steps.
 
-    **Certain launchers may not have full support.**
+    **Certain launchers may not be supported.**
 
 1. Download [Forge Installer](https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-installer.jar).
 
@@ -121,7 +121,7 @@ It is recommended that you check out [Basic Usage](../basic-usage) in order to l
 
 !!! Warning
 
-    These steps require you to edit multiple things that you may not be familiar with, and if anything is done incorrectly it will not work. It is recommended that you use the **Meowtils Installer** shown above which automates all of this for you.
+    These steps require you to edit multiple things that you may not be familiar with, and if anything is done incorrectly it will fail. It is recommended that you use the **Meowtils Installer** shown above which automates all of this for you, if possible.
 
 ---
 
@@ -155,7 +155,7 @@ Edit the file path so it points towards the **Meowtils** jar.
 
 !!! Info
 
-    The path will look different depending on operating system, but on Windows it uses `\`, in this case you need to insert an extra \ as an escape character. This is shown in the example above.
+    The path will look different depending on operating system, but on Windows it uses `\`, in this case you need to insert an extra `\` as an escape character. This is shown in the example above.
 
 ### 4: Construct the **JVM Argument**
 
@@ -169,7 +169,9 @@ Insert the correct path to each file, and then combine them.
 
 !!! Example
 
-    `-javaagent:C:\Users\tatp\Desktop\Meowtils-Lunar\lunar-agent.jar=C:\Users\tatp\Desktop\Meowtils-Lunar\agent-mods.json`
+    ``` txt title="Combined Arguments"
+    -javaagent:C:\Users\tatp\Desktop\Meowtils-Lunar\lunar-agent.jar=C:\Users\tatp\Desktop\Meowtils-Lunar\agent-mods.json
+    ```
 
 ### 5: Add Meowtils to Lunar
 

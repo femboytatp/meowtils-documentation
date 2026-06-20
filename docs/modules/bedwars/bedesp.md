@@ -11,7 +11,11 @@ tags:
 
 ## Color
 
-Changes the color of the bed ESP box. Only applies to beds.
+Changes the color of the ESP box.
+
+!!! Note
+
+    This only applies to beds, obsidian will always have a dark purple color.
 
 ## Opacity
 

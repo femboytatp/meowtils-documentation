@@ -7,6 +7,8 @@ tags:
 
 #### Adjust settings for various nametag icons that are shown for players.
 
+---
+
 ## Display
 
 ### Always
@@ -27,10 +29,16 @@ Display in nametags only.
 
 Shows warning icons for players that are in your blacklist.
 
+[**Blacklist**](../../other/lists/blacklist.md)
+
 ### Safelist Icon
 
-Shows safelist checkmark icons for players that are in your safelist.
+Shows safelist icons for players that are in your safelist.
+
+[**Safelist**](../../other/lists/safelist.md)
 
 ### Friend Icon
 
-Shows friend star icons for players that are friended in Meowtils.
+Shows friend icons for players that are friended in **Meowtils**.
+
+[**Friends**](../../other/lists/friends.md)

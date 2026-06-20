@@ -20,24 +20,24 @@
 
 - [x] **Mac**
 
-_In rare cases certain features may only work on Windows, if so that will be disclosed on their docs page._
+_In rare cases certain features may only work on Windows, if so that will be disclosed on their respective docs page._
 
 ## Features
 
-**70+ Modules**  
-For various gamemodes, servers, and just general QOL features.
+- **70+ Modules**  
+    For various gamemodes, servers, and just general QOL features.
 
-**Ingame Stats**  
-Like Hypixel stat overlays, but ingame.
+- **Ingame Stats**  
+    Like Hypixel stat overlays, but ingame.
 
-**Clientside Anticheat**  
-Detects if players around you use certain cheats.
+- **Clientside Anticheat**  
+    Detects if players around you use certain cheats.
 
-**Personal Blacklist**  
-Allows you to add players for any reason to your own blacklist, which will then alert you if you meet them ingame.
+- **Personal Blacklist**  
+    Allows you to add players for any reason to your own blacklist, which will then alert you if you meet them ingame.
 
-**Commands**  
-A lot of commands for various things, such as quickly joining a game, checking player stats, or shortcuts for longer commands.
+- **Commands**  
+    A lot of commands for various things, such as quickly joining a game, checking player stats, or shortcuts for longer commands.
 
-**Extensions**  
-Like a small mod loaded by **Meowtils**, which lets you add your own features. Could be viewed as a powerful scripting API.
+- **Extensions**  
+    Like a small mod loaded by **Meowtils**, which lets you add your own features. Could be viewed as a powerful scripting API.

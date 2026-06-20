@@ -50,7 +50,7 @@ The cooldown in-between alerts for the same item, per player.
 
 ## Show distance
 
-Also shows the distance to that player in the alert message.
+Shows the distance to the player in the alert message.
 
 ## Items
 

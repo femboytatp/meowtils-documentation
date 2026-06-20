@@ -1,6 +1,6 @@
 # **Basic Usage**
 
-This guide will briefly go over on how to use Meowtils ingame.
+This guide will briefly go over on how to use **Meowtils** ingame.
 
 ## **GUI**
 
@@ -12,13 +12,13 @@ By default the bind for opening the GUI is right shift. However this can be chan
 
 !!! Note
 
-    If you are unable to open the GUI this way, you can either use the /bind command to bind it to another key, or by using the /meowtilsgui command to open the GUI for you.
+    If you are unable to open the GUI this way, you can either use the `/bind` command to bind it to another key, or by using the `/meowtilsgui` command to open the GUI for you.
 
 ### Navigating the GUI
 
 ---
 
-There are several different categories that contain modules, the main category is called Meowtils and this is where you would find general mod settings, rather than actual modules. These are always shown as enabled.
+There are several different categories that contain modules, the main category is called **Meowtils** and this is where you would find general mod settings, rather than actual modules. These are always shown as enabled.
 
 ### Opening a category
 
@@ -32,11 +32,11 @@ Hover over a module and left-click in order to toggle it.
 
 If you hover over a module and right-click it, the module will expand to show its settings. If a module does not have any settings it will not expand.
 
-To toggle a setting itself, you just hover it and left-click.
+To interact with a setting itself, hover over it and left-click.
 
-### Binding a module to a key
+### Binding a module
 
-You are able to bind modules to a specified key, if so they will toggle when pressing that key. To bind a module simply middle-click your mouse while hovering over it. Now you are able to assign a key, and you can hit backspace to clear it.
+You are able to bind modules to a specified key, if so they will toggle when pressing that key. To bind a module **middle-click** your mouse while hovering over it. Now you are able to assign a key, and you can hit backspace to clear it.
 
 ### Scrolling
 
@@ -62,7 +62,7 @@ You may view a list of all commands by doing `/meow`.
 
 ## External files
 
-All files that Meowtils create, such as config file or lists will be located in your game directory, in its own **Meowtils** folder. You normally don't have to mess around with these unless you want to add custom skins/capes.
+All files that **Meowtils** create, such as config file or lists will be located in your game directory, in its own **Meowtils** folder. You normally don't have to interact with these unless you want to add custom skins or capes.
 
 !!! Tip
 
