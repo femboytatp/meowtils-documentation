@@ -80,7 +80,7 @@ If you want it to work everywhere, you can leave this out or put it as `-all`.
 !!! Example
 
     ``` txt
-    -hypixel.net
+    -hypixel
     ```
   
 ### Chain conditions
