@@ -20,6 +20,8 @@
 
 - [x] **Mac**
 
+**Lunar Injection is supported on all platforms.**
+
 _In rare cases certain features may only work on Windows, if so that will be disclosed on their respective docs page._
 
 ## Features
