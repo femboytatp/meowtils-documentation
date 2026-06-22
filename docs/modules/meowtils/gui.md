@@ -31,7 +31,7 @@ Changes the scale for GUI, which may be necessary depending on monitor resolutio
 
 This lets you restrict which modules you're able to use, in case you want to prevent usage of potentially unfair or unsafe modules.
 
-You can read about risk labels [**HERE**](../../guides/server-safety/).
+You can read about risk labels [**HERE**](../../guides/server-safety.md).
 
 !!! Info
 

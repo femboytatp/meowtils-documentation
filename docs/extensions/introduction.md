@@ -2,9 +2,9 @@
 
 ---
 
-An Extension is an external file that is loaded by Meowtils, it acts as a bridge that allows you to add features. They could be compared to scripts, except with less limitations.
+An **Extension** is an external file that is loaded by **Meowtils**, it acts as a bridge that allows you to add features. They could be compared to scripts, except with less limitations.
 
-Modules from extensions will show up in a new category called **Extensions**.
+Modules from extensions will show up in a new category called `Extensions`.
 
 !!! Danger
 
@@ -24,9 +24,9 @@ Modules from extensions will show up in a new category called **Extensions**.
 
     _**Extensions** can be loaded during runtime, and swapped whenever. You can update your code while actively playing without ever having to disconnect or restart._
 
-- No GUI code needed.
+- No GUI or config code needed.
     
-    _This is all handled by **Meowtils**, you can add modules easily to use the existing GUI._
+    _This is all handled by **Meowtils**, you can add modules easily to the existing GUI._
 
 - No Mod ID.
 

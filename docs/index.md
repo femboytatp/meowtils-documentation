@@ -10,7 +10,7 @@
 
 - [x] **Lunar Client 1.8.9**
 
-[Installation Guide](guides/installation.md)
+[**Installation Guide**](guides/installation.md)
 
 ## Supported Platforms
 
