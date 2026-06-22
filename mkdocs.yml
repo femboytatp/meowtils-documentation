@@ -154,6 +154,7 @@ nav:
           - TimeChanger: modules/render/timechanger.md
       - Antisnipe:
           - AntiCheat: modules/antisnipe/anticheat.md
+          - AutoBlacklist: modules/antisnipe/autoblacklist.md
           - AutoSafelist: modules/antisnipe/autosafelist.md
           - PartyDetector: modules/antisnipe/partydetector.md
           - SniperWarning: modules/antisnipe/sniperwarning.md
