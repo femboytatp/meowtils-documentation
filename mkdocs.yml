@@ -243,8 +243,6 @@ nav:
           - Saving Values: extensions/config/saving-values.md
           - Reading Values: extensions/config/reading-values.md
           - Modifying Values: extensions/config/modifying-values.md
-      #- Render:
-      #- Gamemodes:
       - Utility:
           - Session: extensions/utility/session.md
           - Teams: extensions/utility/teams.md
@@ -254,3 +252,6 @@ nav:
       - Request Help: support/request-help.md
       - Report Bug: support/report-bug.md
       - Suggest Feature: support/suggest-feature.md
+      - Extra:
+          #- Credits: support/extra/credits.md
+          - License: support/extra/license.md
