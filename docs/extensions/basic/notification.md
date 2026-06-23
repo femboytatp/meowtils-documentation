@@ -1,14 +1,24 @@
 # **Notifications**
 
-These display a small toast notification in bottom-right corner. 
+These display a small toast notification in bottom-right corner.
+
+``` java
+// Normal notification, with default text scale
+NotificationManager.show(String title, String message, Type type, long time)
+
+// Custom text scale
+NotificationManager.show(String title, float titleScale, String message, float messageScale, Type type, long time)
+```
 
 !!! Note
 
-    You should generally keep the notification message & title as short as you can.
+    This will not automatically adjust text for you, you will have to make sure your text isn't too long so it goes off-screen, etc.
 
-``` java
-Meowtils.notify(String title, String message, NotificationManager.Type type, long time)
-```
+    If setting custom scale; keep it within reasonable scale or else it will also not look correct.
+
+    **Default title scale:** `7`
+
+    **Default message scale:** `5`
 
 ## Types
 
@@ -38,8 +48,12 @@ NotificationManager.Type.WARNING
 
 ![Warning-notification](../../assets/warning-notification.png)
 
+## Time
+
+The time is in milliseconds and determine how long the notification will be visible for.
+
 ## Example
 
 ``` java
-Meowtils.notify("Player Warning", "Player is invisible!", NotificationManager.Type.ALERT, 1500);
+NotificationManager.show("Player Warning", "Player is invisible!", NotificationManager.Type.ALERT, 1500);
 ```
