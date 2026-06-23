@@ -104,7 +104,7 @@ Colors the names for chat stats based on the team they're on, rather than their 
 
 !!! Warning
 
-    **Urchin** is deprecated and will be replaced in the future.
+    **Urchin** is deprecated and will be replaced in the future. You may still be able to use this feature if you instead add the updated key from their new API.
 
 !!! abstract "Urchin API"
 
