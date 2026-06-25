@@ -102,7 +102,7 @@ Colors the names for chat stats based on the team they're on, rather than their 
 
 ## Urchin
 
-!!! Indo "Urchin API"
+!!! Info "Urchin API"
 
     In order to use Urchin you need an API key.
 

@@ -51,10 +51,6 @@ This sends a message each time someone is denicked, from [Denicker](../hypixel/d
 
 ## Urchin notify
 
-!!! Warning
-
-    **Urchin** is deprecated and will be replaced in the future.
-
 ### Enabled
 
 This sends a message each time someone is alerted for being blacklisted in **Urchin**.

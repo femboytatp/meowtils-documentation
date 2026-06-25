@@ -211,6 +211,7 @@ nav:
           - Send Message: extensions/basic/send-message.md
           - Notification: extensions/basic/notification.md
           - Commands: extensions/basic/commands.md
+          - Prefix: extensions/basic/prefix.md
       - Render:
           - HUD Text: extensions/render/hud-text.md
           - Entity ESP: extensions/render/entity-esp.md
@@ -247,6 +248,8 @@ nav:
           - Session: extensions/utility/session.md
           - Teams: extensions/utility/teams.md
           - Color: extensions/utility/color.md
+          - Util: extensions/utility/util.md
+          - Delayed Task: extensions/utility/delayed-task.md
   - Support:
       - support/index.md
       - Request Help: support/request-help.md

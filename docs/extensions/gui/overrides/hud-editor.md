@@ -70,7 +70,7 @@ The element bounds, for this you should use **getHudBounds** shown below.
     There is really no right or wrong with this, you will just have to test and see what fits the best. This is just for controlling the bounds when hovering & dragging your element, when in HUD Editor.
 
 ``` java
-int[] getHudBounds(String longestText, int lineCount, float scale)
+int[] GuiUtil.getHudBounds(String longestText, int lineCount, float scale)
 ```
 
 ### Longest text
@@ -88,3 +88,12 @@ The number of lines your element might be.
 ### Scale
 
 Current scale of your element.
+
+## Rendering
+
+When you render your element you should also check if you are in the editor, and if so also render your element.
+
+``` java
+// Returns true if you're currently in editor
+GuiUtil.inEditor()
+```
