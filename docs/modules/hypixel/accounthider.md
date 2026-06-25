@@ -39,6 +39,16 @@ Replaces your account skin with the skin you have set, loaded from the skins in 
 
 If your skin should be replaced.
 
+### Arms
+
+#### Default
+
+Uses the default arm thickness.
+
+#### Slim
+
+Uses slimmer arms.
+
 ### Skin
 
 The file name of the skin you want to use, this assumes you already have a skin file named that in the skin folder.
