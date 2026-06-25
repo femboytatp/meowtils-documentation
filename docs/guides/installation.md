@@ -53,10 +53,6 @@ It is recommended that you check out [Basic Usage](../basic-usage) in order to l
 
 ## **Lunar Client**
 
-!!! failure "Outdated version"
-
-    The currently public pre-release (4.1) does not support **Lunar Client**.
-
 ### 1: Install Lunar Client
 
 1. [Download Lunar Client](https://www.lunarclient.com/download).
@@ -122,6 +118,10 @@ It is recommended that you check out [Basic Usage](../basic-usage) in order to l
 !!! Warning
 
     These steps require you to edit multiple things that you may not be familiar with, and if anything is done incorrectly it will fail. It is recommended that you use the **Meowtils Installer** shown above which automates all of this for you, if possible.
+
+### Uninstall.
+
+In order to un-install, you may need to delete the bake cache zip located somewhere in your lunar files. This can usually be found by navigating to the `.lunarclient` folder.
 
 ---
 

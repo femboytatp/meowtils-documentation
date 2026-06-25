@@ -102,11 +102,7 @@ Colors the names for chat stats based on the team they're on, rather than their 
 
 ## Urchin
 
-!!! Warning
-
-    **Urchin** is deprecated and will be replaced in the future. You may still be able to use this feature if you instead add the updated key from their new API.
-
-!!! abstract "Urchin API"
+!!! Indo "Urchin API"
 
     In order to use Urchin you need an API key.
 
@@ -116,7 +112,7 @@ Colors the names for chat stats based on the team they're on, rather than their 
 
     2. Verify with your username, this assumes you have linked your discord to your username on Hypixel.
 
-    3. Run /info then /dashboard to generate your API key with their discord bot.
+    3. Run /info then /dashboard to generate your API key with their coral discord bot.
 
 ### Check Urchin API
 
