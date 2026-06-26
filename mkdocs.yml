@@ -128,6 +128,7 @@ nav:
           - EventTimers: modules/bedwars/eventtimers.md
           - HeightOverlay: modules/bedwars/heightoverlay.md
           - ItemAlerts: modules/bedwars/itemalerts.md
+          - PickupAlerts: modules/bedwars/pickupalerts.md
           - ResourceTracker: modules/bedwars/resourcetracker.md
           - ShopHelper: modules/bedwars/shophelper.md
           - TrapNotifier: modules/bedwars/trapnotifier.md

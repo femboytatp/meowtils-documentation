@@ -86,3 +86,7 @@ There are a few pre-defined sounds you can use for convenience.
     ERROR
     ERROR_DEEP
     CRIT
+
+!!! Note
+
+    The volume should be between `0-100`, for most applications you should just put it at `100`.
