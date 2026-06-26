@@ -1,6 +1,6 @@
 ---
 tags:
-  - Legit
+  - Safe
 ---
 
 # **PickupAlerts**
@@ -9,7 +9,7 @@ tags:
 
 !!! Info
 
-    This is limited by server render distance for entities, by default this is `64 blocks`, however it may be more or less which depends on the server.
+    This is limited by render distance for entities, by default this is `64 blocks`, however it may be more or less which will depend on the server you are currently playing on.
 
 ---
 
