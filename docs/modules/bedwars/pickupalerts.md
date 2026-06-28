@@ -13,6 +13,10 @@ tags:
 
 ---
 
+## Cooldown
+
+This is the cooldown for alerts per player, and it includes all items. That means it will not alert for the same player sooner than what this is set at regardless of what item they pick up.
+
 ## Ping sound
 
 Plays a sound when a player picks up a resource.
