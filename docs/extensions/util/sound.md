@@ -8,6 +8,7 @@ Util.playSound(Util.Sound sound, int volume)
 
 There are a few pre-defined sounds you can use for convenience.
 
+``` title="Sounds"
     PING
     PING_DEEP
     PING_MEDIUM
@@ -19,6 +20,7 @@ There are a few pre-defined sounds you can use for convenience.
     ERROR_DEEP
     CRIT
     CLICK
+```
 
 !!! Note
 

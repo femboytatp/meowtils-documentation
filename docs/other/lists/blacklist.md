@@ -44,7 +44,7 @@ This can be enabled in the [Notifications Module](../../../modules/meowtils/noti
 
 These are the pre-defined reasons provided, and their color will follow the severity as shown above. If you are blacklisting for a reason that is not pre-defined it will instead show up as green.
 
-``` title="Blatant reasons"
+``` title="Blatant Reasons"
 bednuker, 
 fly, 
 keepsprint, 
@@ -63,7 +63,7 @@ sniper,
 sniping
 ```
 
-``` title="Closet reasons"
+``` title="Closet Reasons"
 cheating, 
 aimassist, 
 autoclicker, 
