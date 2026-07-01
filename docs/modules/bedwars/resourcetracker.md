@@ -58,10 +58,15 @@ Hides the default pickup messages for resources.
 
     Normally Hypixel shows a message such as "+3 Iron" after killing someone, this removes it as we already display all changes in chat.
 
-## Include Enderchest
+## Include enderchest
 
 Also counts resources currently stored in your enderchest, for HUD only.
 
 ## Track
 
-Pick which resources to track & show.
+Select which resources to track & show.
+
+- Iron Ingots
+- Gold Ingots
+- Diamonds
+- Emeralds

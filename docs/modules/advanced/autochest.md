@@ -46,9 +46,6 @@ When enabled this will activate for normal chests (team chests).
 Enable which resources this should activate for.
 
 - Iron Ingots
-
 - Gold Ingots
-
 - Diamonds
-
 - Emeralds

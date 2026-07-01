@@ -48,3 +48,11 @@ Displays a box where someone will warp back to if they used a time-warp pearl.
 ## Thrown pearl alert
 
 Alerts in chat if someone throws a pearl, if that pearl type is selected.
+
+## Pearls
+
+The type of pearl this should alert for.
+
+- Ender Pearl
+- Corrupt Pearl
+- Time Warp Pearl

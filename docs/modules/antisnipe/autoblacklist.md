@@ -23,21 +23,12 @@ Will notify you when a player automatically gets added to the blacklist if they 
 
 Will enable auto-blacklisting if a player flags the anticheat.
 
-### When flags AutoBlock
+### When flags
 
-When a player flags the autoblock check they will be auto-blacklisted.
-
-### When flags NoSlow
-
-When a player flags the noslow check they will be auto-blacklisted.
-
-### When flags Killaura
-
-When a player flags the killaura check they will be auto-blacklisted.
-
-### When flags Legit Scaffold
-
-When a player flags the legit scaffold check they will be auto-blacklisted.
+- AutoBlock
+- NoSlow
+- Killaura
+- Legit Scaffold
 
 ## For reports
 
@@ -47,8 +38,16 @@ Will enable auto-blacklisting for reports.
 
 ### When /report
 
-If you report someone, it will also add them to the blacklist with the reasons you provide. If no reasons are provided, it will default to `cheating`.
+If you report someone using a `/report` command, it will add them to the blacklist with selected reasons, if none are selected it defaults to `cheating`.
+
+!!! Info
+
+    Most servers use the `/report` command, it will work on all of these.
 
 ### When /wdr
 
-If you watchdog report someone it will add them to the blacklist with the reasons you provide. If no reasons are provided, it will default to `cheating`.
+If you report someone using `/wdr` or `/watchdogreport` it will add them to the blacklist with selected reasons, if none are selected it defaults to `cheating`.
+
+!!! Info
+
+    These commands are only used on Hypixel.

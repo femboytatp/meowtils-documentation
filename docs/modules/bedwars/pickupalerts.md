@@ -21,18 +21,11 @@ This is the cooldown for alerts per player, and it includes all items. That mean
 
 Plays a sound when a player picks up a resource.
 
-## For Iron Ingots
+## Resources
 
-Will alert if a player picks up iron ingots.
+Select resources that this will alert for.
 
-## For Gold Ingots
-
-Will alert if a player picks up gold ingots.
-
-## For Diamonds
-
-Will alert if a player picks up diamonds.
-
-## For Emeralds
-
-Will alert if a player picks up emeralds.
+- Iron Ingots
+- Gold Ingots
+- Diamonds
+- Emeralds

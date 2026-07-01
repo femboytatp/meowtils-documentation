@@ -26,3 +26,9 @@ Sends chat message & sends toast notification.
 ## Ping sound
 
 Plays a sound for alerts.
+
+## Armor
+
+- Chainmail Armor
+- Iron Armor
+- Diamond Armor

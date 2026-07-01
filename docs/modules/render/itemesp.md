@@ -84,3 +84,55 @@ Colors the text to a similar color of the item that it is representing, rather t
 ## Bedwars only
 
 Only enables this modules if you are currently in a Bedwars game.
+
+## Items
+
+Select what type of items this should render an ESP for.
+
+### Iron Items
+
+**Applies to:**
+
+- Iron Ingot
+- Iron Sword
+- Iron Pickaxe
+- Iron Axe
+- Iron Shovel
+- Iron Helmet
+- Iron Chestplate
+- Iron Leggings
+- Iron Boots
+
+### Gold Items
+
+**Applies to:**
+
+- Gold Ingot
+- Golden Sword
+- Golden Pickaxe
+- Golden Axe
+- Golden Shovel
+- Golden Helmet
+- Golden Chestplate
+- Golden Leggings
+- Golden Boots
+- Golden Apple
+
+### Diamond Items
+
+**Applies to:**
+
+- Diamond
+- Diamond Sword
+- Diamond Pickaxe
+- Diamond Axe
+- Diamond Shovel
+- Diamond Helmet
+- Diamond Chestplate
+- Diamond Leggings
+- Diamond Boots
+
+### Emerald Items
+
+- Emerald
+- Emerald Block

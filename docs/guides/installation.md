@@ -201,13 +201,13 @@ It is recommended that you check out [Basic Usage](../basic-usage) in order to l
 
 ---
 
-# **Uninstallation**
+## **Uninstallation**
 
-## **Forge Uninstall**
+### **Forge Uninstall**
 
 Simply remove the `Meowtils` jar from your mods folder.
 
-## **Lunar Client Uninstall**
+### **Lunar Client Uninstall**
 
 1. **Remove files**
 

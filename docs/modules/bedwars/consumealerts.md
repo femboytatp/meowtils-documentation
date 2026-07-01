@@ -36,3 +36,11 @@ Plays a sound for alerts.
 ## Show distance
 
 Shows the distance to them in the alert.
+
+## Items
+
+- Golden Apple
+- Milk
+- Speed Potion
+- Jump Potion
+- Invis Potion

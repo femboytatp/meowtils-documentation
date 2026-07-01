@@ -7,6 +7,10 @@ tags:
 
 #### Highlights dangerous projectiles.
 
+!!! Success "Legit"
+
+    Expand options only change the visual size of the ESP, not the actual item hitbox size.
+
 ---
 
 ## Mode
@@ -56,7 +60,3 @@ Render for ender pearls.
 ### Pearl expand
 
 Expands the visual ESP size for ender pearls.
-
-!!! Success "Legit"
-
-    Expand options only changes the visual size of the ESP, not the actual item hitbox size.

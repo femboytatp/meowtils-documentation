@@ -35,6 +35,14 @@ Replaces numbers with roman numerals.
 
 Changes color for each event title.
 
+### Timers
+
+- Diamond Timer
+- Emerald Timer
+- Bed Gone Timer
+- Sudden Death Timer
+- Game End Timer
+
 ## Emeralds
 
 ### Enabled

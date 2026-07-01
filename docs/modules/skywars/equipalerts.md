@@ -26,3 +26,12 @@ Alerts are sent in both chat & toast notification.
 ## Ping sound
 
 Plays a sound when someone equips armor.
+
+## Armor
+
+The armor this should alert for.
+
+- Diamond Helmet
+- Diamond Chestplate
+- Diamond Leggings
+- Diamond Boots

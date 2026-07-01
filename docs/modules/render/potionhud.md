@@ -56,3 +56,13 @@ Hides effects that you have infinite duration of from HUD.
 ## Potions
 
 Select which potion effects to display.
+
+- Invisibility
+- Jump Boost
+- Speed
+- Regeneration
+- Strength
+- Fire Resistance
+- Haste
+- Mining Fatigue
+

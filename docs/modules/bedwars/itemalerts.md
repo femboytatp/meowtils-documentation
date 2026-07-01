@@ -33,6 +33,21 @@ Plays a sound for all alerts.
 
 Only plays a sound for important alerts.
 
+**Applies to:**
+
+- Invis Potion
+- Jump Potion
+- Speed Potion
+- Bridge Egg
+- Diamond Sword
+- Iron Golem
+- Bedbug
+- Diamond Pickaxe
+- Enchanted Bow
+- Milk
+- Ender Pearl
+- Charlie the Unicorn
+
 ### None
 
 Plays no sound.
@@ -49,16 +64,13 @@ Only shows distance to player for important items.
 
 **Applies to:**
 
-- Potions
+- Invis Potion
+- Jump Potion
+- Speed Potion
+- Fireball
 - Bridge Egg
-- Diamond Sword
-- Iron Golem
-- Bedbug
-- Charlie The Unicorn
-- Diamond Pickaxe
-- Enchanted Bow
-- Milk
 - Ender Pearl
+- Charlie the Unicorn
 
 ### None
 
@@ -71,3 +83,42 @@ Adjusts the cooldown for alerts per player.
 ## Items
 
 Select which items you want to alert for.
+
+- Iron Sword
+- Diamond Sword
+- Bows
+- Knockback Stick
+- Golden Apple
+- Water Bucket
+- Golden Pickaxe
+- Diamond Pickaxe
+- Fireball
+- TNT
+- Pop-Up Tower
+- Milk
+- Jump Potion
+- Speed Potion
+- Invis Potion
+- Ender Pearl
+- Obsidian
+- Bridge Egg
+- Iron Golem
+- Bedbug
+- Rotation Items
+
+**Rotation Items:**
+
+- Shuriken
+- Ice Bridge
+- Bridge Zapper
+- Charlie the Unicorn
+- Time Warp Pearl
+- Sugar Cookie
+- Cobweb
+- Teleportation Device
+- Mega TNT
+- Mace
+- Wind Charge
+- Enchanted Shears
+- Final Revive Beacon
+- Block Zapper

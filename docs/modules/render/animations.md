@@ -21,19 +21,19 @@ Always block during swing.
 
 ### Rightclick
 
-Only block while also holding down rightclick, this polls clicks outside of Minecraft in order to work with other clients such as Vape.
+Only block while also holding down rightclick, this polls clicks outside of Minecraft in order to be compatible with clients such as Vape.
 
-!!! Failure "Important"
+!!! Bug
 
-    This currently only works on Windows.
+    This will only work on Windows.
 
 ### Killaura
 
 This only blocks if you have not recently pressed right or left click but is still swinging your arm.
 
-!!! Failure "Important"
+!!! Bug
 
-    Similarily to the Rightclick mode, this polls click states outside of Minecraft and currently only works on Windows.
+    This will only work on Windows.
 
 ## Cancel swing animation
 

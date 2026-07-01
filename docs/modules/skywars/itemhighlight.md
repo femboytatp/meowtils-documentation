@@ -49,6 +49,12 @@ Render background slot for items that are considered best.
 
 Select which items to include when considering best items.
 
+- Swords
+- Armor
+- Healing
+- Bows
+- Tools
+
 ## Commands
 
 !!! Note

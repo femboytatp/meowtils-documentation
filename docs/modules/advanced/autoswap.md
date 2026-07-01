@@ -64,4 +64,3 @@ Swaps to first available sword if you attack a player.
 - Shovel
 - Hoe
 - Flint and Steel
-

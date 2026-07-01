@@ -17,5 +17,5 @@ Prefix.setPrefix(String prefix)
 ### Reset
 
 ``` java
-resetPrefix()
+Prefix.resetPrefix()
 ```

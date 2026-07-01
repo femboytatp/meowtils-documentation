@@ -39,7 +39,7 @@ Checks if a player has a blacklisted name, and if so warn them for being a poten
 
 **Applies to:**
 
-``` title="Sniper names"
+``` title="Sniper Names"
 mcalt_,
 mcalts_,
 hassalt_,
@@ -69,12 +69,22 @@ watchdog,
 anticheat
 ```
 
-!!! Bug
+!!! Info
 
-    This may not be 100% accurate, it only checks if a name contains typical phrases that indicate a cheater or sniper.
+    This may not be 100% accurate, as it only checks if a name contains typical phrases that indicate a cheater or sniper.
 
 ## Check stats
 
-This checks stats of players to detect potentially suspicious accounts. First it checks their clutch ratio, then it checks their balance between final kills and final-kill-death ratio.
+!!! Note
 
-A low final kill count while also having a high FKDR may indicate a suspicious account.
+    This requires you to use a valid API for [Stats](../hypixel/stats.md).
+
+This checks stats of players to detect potentially suspicious accounts.
+
+**Applies to:**
+
+- Clutch Ratio
+
+- Final kill & FKDR balance
+
+_A low final kill count while also having a high FKDR may indicate a suspicious account._
