@@ -1,6 +1,8 @@
-# **Bot Check**
+# **Team Utility**
 
 ---
+
+## **Bot Check**
 
 ```java
 // Returns true if they are a bot
@@ -27,7 +29,7 @@ This attempts to determine if a player is a bot based on if they show up in the 
 
 This just changes between **Hypixel** & **Universal** modes depending on where they are known to work.
 
-# **Team Check**
+## **Team Check**
 
 ---
 
@@ -44,7 +46,7 @@ This is used to determine if a player is on the same team as you or not.
 
     If this is the case you should implement your own team check designed for that specific scenario.
 
-# **Ignore Friends**
+## **Ignore Friends**
 
 ---
 

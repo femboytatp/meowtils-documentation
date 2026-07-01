@@ -245,12 +245,14 @@ nav:
           - Saving Values: extensions/config/saving-values.md
           - Reading Values: extensions/config/reading-values.md
           - Modifying Values: extensions/config/modifying-values.md
-      - Utility:
-          - Session: extensions/utility/session.md
-          - Teams: extensions/utility/teams.md
-          - Color: extensions/utility/color.md
-          - Util: extensions/utility/util.md
-          - Delayed Task: extensions/utility/delayed-task.md
+      - Util:
+          - Session: extensions/util/session.md
+          - Team: extensions/util/team.md
+          - Color: extensions/util/color.md
+          - Delayed Task: extensions/util/delayed-task.md
+          - Click: extensions/util/click.md
+          - Sound: extensions/util/sound.md
+          - Extra: extensions/util/extra.md
   - Support:
       - support/index.md
       - Request Help: support/request-help.md

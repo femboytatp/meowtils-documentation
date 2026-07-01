@@ -1,4 +1,4 @@
-# **Game Sessions**
+# **Session Utility**
 
 There are a few existing ways to check if the player is currently on a specific server or in a specific game.
 
@@ -52,13 +52,13 @@ ALL
 
 ---
 
-# Server
+## **Server**
 
 Checks which server you are currently on, or server-specific areas such as Hypixel replay.
 
 ---
 
-## _Universal_
+### _Universal_
 
 ``` java
 // Returns true if active
@@ -72,7 +72,7 @@ This is meant to be limited to minigame servers that are similar to Hypixel.
 
 _Currently this only applies to `BlocksMC` & `Fakepixel`._
 
-## _Hypixel_
+### _Hypixel_
 
 ``` java
 // Returns true if active
@@ -84,7 +84,7 @@ Server.HYPIXEL.isNotActive();
 
 Limited to Hypixel server.
 
-## _Hypixel Replay_
+### _Hypixel Replay_
 
 ``` java
 // Returns true if active
@@ -96,7 +96,7 @@ Server.HYPIXEL_REPLAY.isNotActive();
 
 Limited to Hypixel replay.
 
-## _Mineplex_
+### _Mineplex_
 
 ``` java
 // Returns true if active
@@ -110,7 +110,7 @@ Limited to Mineplex server.
 
 ---
 
-# Bedwars
+## **Bedwars**
 
 Checks if you are currently in Bedwars and which mode.
 
@@ -120,7 +120,7 @@ Checks if you are currently in Bedwars and which mode.
 
 ---
 
-## _All_
+### _All_
 
 ``` java
 // Returns true if active
@@ -136,7 +136,7 @@ Limited to all types of Bedwars modes, both lobby and in-game.
 
     It is recommended that you use this one if you want multi-server support, as it only requires the scoreboard title to contain `bedwars` or `bed wars`.
 
-## _Lobby_
+### _Lobby_
 
 ``` java
 // Returns true if active
@@ -148,7 +148,7 @@ Bedwars.LOBBY.isNotActive();
 
 Limited to Bedwars lobby.
 
-## _Pre Game_
+### _Pre Game_
 
 ``` java
 // Returns true if active
@@ -160,7 +160,7 @@ Bedwars.PRE_GAME.isNotActive();
 
 Limited to Bedwars pre-game.
 
-## _Practice_
+### _Practice_
 
 ``` java
 // Returns true if active
@@ -172,7 +172,7 @@ Bedwars.PRACTICE.isNotActive();
 
 Limited to Bedwars practice.
 
-## _Game_
+### _Game_
 
 ``` java
 // Returns true if active
@@ -184,7 +184,7 @@ Bedwars.GAME.isNotActive();
 
 Limited to Bedwars in-game only, any mode.
 
-## _Solos_
+### _Solos_
 
 ``` java
 // Returns true if active
@@ -196,7 +196,7 @@ Bedwars.SOLOS.isNotActive();
 
 Limited to Bedwars solos (1v1 x 4).
 
-## _Doubles_
+### _Doubles_
 
 ``` java
 // Returns true if active
@@ -208,7 +208,7 @@ Bedwars.DOUBLES.isNotActive();
 
 Limited to Bedwars doubles (2v2 x 4).
 
-## _Threes_
+### _Threes_
 
 ``` java
 // Returns true if active
@@ -220,7 +220,7 @@ Bedwars.THREES.isNotActive();
 
 Limited to Bedwars threes (3v3v3).
 
-## _Fours_
+### _Fours_
 
 ``` java
 // Returns true if active
@@ -232,7 +232,7 @@ Bedwars.FOURS.isNotActive();
 
 Limited to Bedwars fours (4v4v4v4).
 
-## _Four vs Four_
+### _Four vs Four_
 
 ``` java
 // Returns true if active
@@ -244,7 +244,7 @@ Bedwars.FOUR_FOUR.isNotActive();
 
 Limited to Bedwars four vs four (4v4).
 
-## _One Block_
+### _One Block_
 
 ``` java
 // Returns true if active
@@ -258,7 +258,7 @@ Limited to Bedwars one-block.
 
 ---
 
-# Skywars
+## **Skywars**
 
 Checks if you are currently in Skywars and which mode.
 
@@ -268,7 +268,7 @@ Checks if you are currently in Skywars and which mode.
 
 --- 
 
-## _All_
+### _All_
 
 ``` java
 // Returns true if active
@@ -284,7 +284,7 @@ Limited to all types of Skywars modes, both lobby and in-game.
 
     It is recommended that you use this one if you want multi-server support, as it only requires the scoreboard title to contain `skywars` or `sky wars`.
 
-## _Lobby_
+### _Lobby_
 
 ``` java
 // Returns true if active
@@ -296,7 +296,7 @@ Skywars.LOBBY.isNotActive();
 
 Limited to Skywars lobby.
 
-## _Game_
+### _Game_
 
 ``` java
 // Returns true if active
@@ -308,7 +308,7 @@ Skywars.GAME.isNotActive();
 
 Limited to Skywars in-game only, any mode.
 
-## _Mini_
+### _Mini_
 
 ``` java
 // Returns true if active
@@ -322,7 +322,7 @@ Limited to Skywars mini mode.
 
 ---
 
-# Duels
+## **Duels**
 
 Checks if you are currently in Duels and which mode.
 
@@ -332,7 +332,7 @@ Checks if you are currently in Duels and which mode.
 
 ---
 
-## _All_
+### _All_
 
 ``` java
 // Returns true if active
@@ -348,7 +348,7 @@ Limited to all types of Duels modes, both lobby and in-game.
 
     It is recommended that you use this one if you want multi-server support, as it only requires the scoreboard title to contain `duels`.
 
-## _Lobby_
+### _Lobby_
 
 ``` java
 // Returns true if active
@@ -360,7 +360,7 @@ Duels.LOBBY.isNotActive();
 
 Limited to Duels lobby.
 
-## _Bedwars_
+### _Bedwars_
 
 ``` java
 // Returns true if active
@@ -374,7 +374,7 @@ Limited to Duels bedwars mode.
 
 ---
 
-# Mega Walls
+## **Mega Walls**
 
 Checks if you are currently in Mega Walls and which mode.
 
@@ -384,7 +384,7 @@ Checks if you are currently in Mega Walls and which mode.
 
 --- 
 
-## _All_
+### _All_
 
 ``` java
 // Returns true if active
@@ -400,7 +400,7 @@ Limited to all types of Mega Walls modes, both lobby and in-game.
 
     It is recommended that you use this one if you want multi-server support, as it only requires the scoreboard title to contain `mega walls`.
 
-## _Lobby_
+### _Lobby_
 
 ``` java
 // Returns true if active
@@ -412,7 +412,7 @@ MegaWalls.LOBBY.isNotActive();
 
 Limited to Mega Walls lobby.
 
-## _Game_
+### _Game_
 
 ``` java
 // Returns true if active
@@ -426,7 +426,7 @@ Limited to Mega Walls in-game only, any mode.
 
 ---
 
-# Murder Mystery
+## **Murder Mystery**
 
 Checks if you are currently in Murder Mystery.
 
@@ -436,7 +436,7 @@ Checks if you are currently in Murder Mystery.
 
 ---
 
-## _All_
+### _All_
 
 ``` java
 // Returns true if active

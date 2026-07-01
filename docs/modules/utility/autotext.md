@@ -11,7 +11,7 @@ tags:
 
 ## Repeat while held
 
-Keeps sending the message as long as bind is held down.
+Keeps sending the message as long as bind is held.
 
 ## Text
 

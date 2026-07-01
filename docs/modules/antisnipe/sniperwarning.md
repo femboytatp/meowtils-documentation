@@ -7,10 +7,6 @@ tags:
 
 #### Warns you of certain players that may be snipers.
 
-!!! Failure
-
-    Features related to stats require you to have a valid API mode selected in the Stats module.
-
 ---
 
 ## Fetch stats
