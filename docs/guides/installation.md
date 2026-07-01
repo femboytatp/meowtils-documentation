@@ -117,15 +117,15 @@ It is recommended that you check out [Basic Usage](../basic-usage) in order to l
 
     If installation didn't work for you, follow the manual installation guide below.
 
-## Lunar Client Manual-Install
+---
+
+## **Lunar Client Manual**
 
 !!! Warning
 
-    These steps require you to edit multiple files that you may not be familiar with, and if anything is done incorrectly it will fail. It is recommended that you use the **Meowtils Installer** shown above which automates all of this for you, if possible.
+    These steps require you to edit multiple files that you may not be familiar with, and if **anything** is done incorrectly it will fail. It is recommended that you use the **Meowtils Installer** shown above which automates all of this for you, if possible.
 
     **This is just a fall-back if the installer fails.**
-
----
 
 ### 1: Download files
 
@@ -135,9 +135,9 @@ It is recommended that you check out [Basic Usage](../basic-usage) in order to l
 
 ### 2: Extract and rename
 
-1. Extract the downloaded "Manual-Install" archive.
+1. Extract the downloaded `Manual-Install` archive.
 
-2. Rename the jar to `Meowtils.jar`, this is just for convenience. Then put this jar in the extracted "Manual-Install" folder.
+2. Rename the jar to `Meowtils.jar`, this is just for convenience. Then put this jar in the extracted `Manual-Install folder.
 
 ### 3: Open **agent-mods.json**
 
@@ -199,23 +199,25 @@ Now launch Minecraft, **Meowtils** should be loaded.
 
 It is recommended that you check out [Basic Usage](../basic-usage) in order to learn how to use **Meowtils**.
 
+---
+
 # **Uninstallation**
 
-## Forge
+## **Forge Uninstall**
 
 Simply remove the `Meowtils` jar from your mods folder.
 
-## Lunar Client
+## **Lunar Client Uninstall**
 
 1. **Remove files**
 
-    Delete the folder where files are located, where the `Meowtils` jar is located.
+    Delete the folder where the relevant files are located, which is where the `Meowtils` jar is located.
 
 2. **Clear JVM Arguments**
 
-    Go into the Lunar Launcher and clear out the **JVM Arguments** you put for **Meowtils**, which is where you put them during installation.
+    Go into the Lunar Launcher and clear out the **JVM Arguments**, which is where you put them during installation.
 
-!!! Warning
+!!! Failure
 
     If you are crashing after this, you need to delete the bake cache.
 
@@ -225,4 +227,4 @@ Simply remove the `Meowtils` jar from your mods folder.
 
     2. Go to `offline` → `multiver` → `cache`.
 
-    3. Delete `bake.zip`, it will be located in one of the folders located in `cache`.
+    3. Delete `bake.zip`, it will be located in one of the folders that are located in `cache`.
