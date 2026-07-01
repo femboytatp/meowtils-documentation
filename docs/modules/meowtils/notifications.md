@@ -27,6 +27,10 @@ Sends both a toast notification and chat message for notifications.
 
 Will send a notification when toggling a module.
 
+## Toggle sound
+
+Plays a sound when toggling a module, regardless if you toggle it with a key or in the GUI.
+
 ## Start notifications
 
 Sends a chat message the first time you're in a world, each instance. Contains general information or update news.

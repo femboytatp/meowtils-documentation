@@ -53,6 +53,10 @@ It is recommended that you check out [Basic Usage](../basic-usage) in order to l
 
 ## **Lunar Client**
 
+!!! Info
+
+    If you have issues after uninstalling go to the section further down on this page.
+
 ### 1: Install Lunar Client
 
 1. [Download Lunar Client](https://www.lunarclient.com/download).
@@ -113,27 +117,27 @@ It is recommended that you check out [Basic Usage](../basic-usage) in order to l
 
     If installation didn't work for you, follow the manual installation guide below.
 
-### Manual Installation
+## Lunar Client Manual-Install
 
 !!! Warning
 
-    These steps require you to edit multiple things that you may not be familiar with, and if anything is done incorrectly it will fail. It is recommended that you use the **Meowtils Installer** shown above which automates all of this for you, if possible.
+    These steps require you to edit multiple files that you may not be familiar with, and if anything is done incorrectly it will fail. It is recommended that you use the **Meowtils Installer** shown above which automates all of this for you, if possible.
 
-### Uninstall.
-
-In order to un-install, you may need to delete the bake cache zip located somewhere in your lunar files. This can usually be found by navigating to the `.lunarclient` folder.
+    **This is just a fall-back if the installer fails.**
 
 ---
 
-### 1: Download Meowtils
+### 1: Download files
 
-[Meowtils-Lunar.zip](https://github.com/femboytatp/meowtils/releases/latest/download/Meowtils-Lunar.zip).
+1. [Meowtils Jar](https://tatp.wtf/download/).
 
-### 2: Extract the downloaded archive
+2. [Manual-Install Folder](https://github.com/femboytatp/meowtils-documentation/releases/download/Manual-Install/Manual-Install.zip).
 
-Your operating system likely has a tool to extract .zip files already, if not you will have to download one.
+### 2: Extract and rename
 
-[7-Zip](https://www.7-zip.org/)
+1. Extract the downloaded "Manual-Install" archive.
+
+2. Rename the jar to `Meowtils.jar`, this is just for convenience. Then put this jar in the extracted "Manual-Install" folder.
 
 ### 3: Open **agent-mods.json**
 
@@ -194,3 +198,31 @@ Insert the correct path to each file, and then combine them.
 Now launch Minecraft, **Meowtils** should be loaded.
 
 It is recommended that you check out [Basic Usage](../basic-usage) in order to learn how to use **Meowtils**.
+
+# **Uninstallation**
+
+## Forge
+
+Simply remove the `Meowtils` jar from your mods folder.
+
+## Lunar Client
+
+1. **Remove files**
+
+    Delete the folder where files are located, where the `Meowtils` jar is located.
+
+2. **Clear JVM Arguments**
+
+    Go into the Lunar Launcher and clear out the **JVM Arguments** you put for **Meowtils**, which is where you put them during installation.
+
+!!! Warning
+
+    If you are crashing after this, you need to delete the bake cache.
+
+    **Steps:**
+
+    1. Navigate to `.lunarclient`, usually located in your user directory.
+
+    2. Go to `offline` → `multiver` → `cache`.
+
+    3. Delete `bake.zip`, it will be located in one of the folders located in `cache`.
