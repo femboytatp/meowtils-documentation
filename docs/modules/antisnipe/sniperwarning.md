@@ -28,6 +28,7 @@ Checks gear for snipers.
 **Applies to:**
 
 - Chainmail Armor + Iron Sword
+- Golden Pickaxe + Milk
 
 ## Check name
 
