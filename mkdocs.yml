@@ -153,6 +153,7 @@ nav:
           - PotionHUD: modules/render/potionhud.md
           - ShinyPots: modules/render/shinypots.md
           - TimeChanger: modules/render/timechanger.md
+          - Trajectories: modules/render/trajectories.md
       - Antisnipe:
           - AntiCheat: modules/antisnipe/anticheat.md
           - AutoBlacklist: modules/antisnipe/autoblacklist.md
