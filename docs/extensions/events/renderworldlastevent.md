@@ -17,10 +17,10 @@ Fires after world has been rendered, each frame.
 ### Partial ticks
 
 ``` java
-getPartialTicks()
+float getPartialTicks()
 ```
 
-Progress float between last and current tick, usually used for interpolation.
+Progress between last and current tick, usually used for interpolation.
 
 ## Example
 

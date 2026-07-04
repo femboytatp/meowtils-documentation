@@ -2,7 +2,7 @@
 
 ---
 
-This event fires each time the player opens a **GuiScreen**.
+This event fires each time the player opens a gui.
 
 ## Parameter
 
@@ -13,10 +13,10 @@ This event fires each time the player opens a **GuiScreen**.
 ### Gui
 
 ``` java
-getGui()
+GuiScreen getGui()
 ```
 
-Returns current **GuiScreen**.
+Returns current `GuiScreen`.
 
 ## Example
 

@@ -21,7 +21,7 @@ Fires when players are rendered.
 ### Stage
 
 ``` java
-getStage()
+Stage getStage()
 ```
 
 Returns the stage as shown above.
@@ -29,60 +29,60 @@ Returns the stage as shown above.
 ### Partial ticks
 
 ``` java
-getPartialTicks()
+float getPartialTicks()
 ```
 
-Progress float between last and current tick, usually used for interpolation.
+Progress between last and current tick, usually used for interpolation.
 
 ### Renderer
 
 ``` java
-getRenderer()
+RenderPlayer getRenderer()
 ```
 
-Returns **RenderPlayer**.
+Returns `RenderPlayer`.
 
 ### Player
 
 ``` java
-getPlayer()
+AbstractClientPlayer getPlayer()
 ```
 
-Returns **AbstractClientPlayer**.
+Returns `AbstractClientPlayer`.
 
 ### Position
 
 #### X
 
 ``` java
-getX()
+double getX()
 ```
 
-Returns X double.
+Returns X pos.
 
 #### Y
 
 ``` java
-getY()
+double getY()
 ```
 
-Returns Y double.
+Returns Y pos.
 
 #### Z
 
 ``` java
-getZ()
+double getZ()
 ```
 
-Returns Z double.
+Returns Z pos.
 
 ### Yaw
 
 ``` java
-getYaw()
+float getYaw()
 ```
 
-Returns yaw float.
+Returns yaw.
 
 ## Example
 

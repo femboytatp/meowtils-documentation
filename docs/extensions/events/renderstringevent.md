@@ -15,7 +15,7 @@ Fires each time a string is rendered.
 #### Get
 
 ``` java
-getString()
+String getString()
 ```
 
 Returns the current string.
@@ -23,7 +23,7 @@ Returns the current string.
 #### Set
 
 ``` java
-setString(String string)
+void setString(String string)
 ```
 
 Sets the current string.

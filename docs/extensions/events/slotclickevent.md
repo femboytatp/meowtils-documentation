@@ -45,41 +45,45 @@ _This is the mouse button type when clicking a slot._
 ### Gui container
 
 ``` java
-getGuiContainer()
+GuiContainer getGuiContainer()
 ```
 
-Returns current **GuiContainer**.
+Returns current `GuiContainer`.
 
 ### Slot
 
 ``` java
-getSlot()
+Slot getSlot()
 ```
 
-Returns current **Slot**.
+Returns current `Slot`.
 
 ### Slot id
 
 ``` java
-getSlotId()
+int getSlotId()
 ```
 
-Returns current slot ID int.
+Returns current slot id.
 
 ### Click type
 
 #### Get
 
 ``` java
-getClickType()
+int getClickType()
 ```
 
-Returns click type int.
+Returns click type.
+
+!!! Tip
+
+    It is recommended that you use the click type enums shown above for clarity.
 
 #### Set
 
 ``` java
-setClickType(int clickType)
+void setClickType(int clickType)
 ```
 
 Sets the current click type.
@@ -90,22 +94,26 @@ Sets the current click type.
 
 !!! Tip
 
-    It is recommended that you use the click type enums shown above instead of a raw number.
+    It is recommended that you use the click type enums shown above for clarity.
 
 ### Clicked button
 
 #### Get
 
 ``` java
-getClickedButton()
+int getClickedButton()
 ```
 
-Returns clicked button int.
+Returns clicked button.
+
+!!! Tip
+
+    It is recommended that you use the button type enums shown above for clarity.
 
 #### Set
 
 ``` java
-setClickedButton(int clickedButton)
+void setClickedButton(int clickedButton)
 ```
 
 Sets the current clicked button.
@@ -116,14 +124,14 @@ Sets the current clicked button.
 
 !!! Tip
 
-    It is recommended that you use the button type enums shown above instead of a raw number.
+    It is recommended that you use the button type enums shown above for clarity.
 
 ### Replace click
 
 #### Get
 
 ``` java
-getReplaceClick()
+boolean getReplaceClick()
 ```
 
 Returns true if click is set to be replaced.
@@ -131,7 +139,7 @@ Returns true if click is set to be replaced.
 #### Set
 
 ``` java
-setReplaceClick()
+ setReplaceClick()
 ```
 
 Replaces all clicks with middle clicks.

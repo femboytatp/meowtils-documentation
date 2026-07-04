@@ -17,10 +17,10 @@ This fires each time your client receives a packet from the server.
 ### Packet
 
 ``` java
-getPacket()
+Packet<?> getPacket()
 ```
 
-Returns current **Packet**.
+Returns current `Packet`.
 
 ## Example
 

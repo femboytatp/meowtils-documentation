@@ -13,18 +13,18 @@ This event fires each time an entity joins your world.
 ### Entity
 
 ``` java
-getEntity()
+Entity getEntity()
 ```
 
-Returns the **Entity**.
+Returns the `Entity`.
 
 ### World
 
 ``` java
-getWorld()
+World getWorld()
 ```
 
-Returns the **World**.
+Returns the `World`.
 
 ## Example
 

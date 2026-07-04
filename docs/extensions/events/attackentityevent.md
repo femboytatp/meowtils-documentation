@@ -13,18 +13,18 @@ This event fires each time you attempt to attack any entity.
 ### Player
 
 ``` java
-getPlayer()
+EntityPlayer getPlayer()
 ```
 
-Returns **EntityPlayer**.
+Returns `EntityPlayer`.
 
 ### Target
 
 ``` java
-getTarget()
+Entity getTarget()
 ```
 
-Returns the target **Entity**.
+Returns the target `Entity`.
 
 ## Example
 

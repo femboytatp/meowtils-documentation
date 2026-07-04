@@ -29,7 +29,7 @@ This event fires each render tick, which is once per frame.
 ### Phase
 
 ``` java
-getPhase()
+Phase getPhase()
 ```
 
 Returns the current render tick phase.
@@ -37,10 +37,10 @@ Returns the current render tick phase.
 ### Partial ticks
 
 ``` java
-getPartialTicks()
+float getPartialTicks()
 ```
 
-Progress float between last and current tick, usually used for interpolation.
+Progress between last and current tick, usually used for interpolation.
 
 ## Example
 

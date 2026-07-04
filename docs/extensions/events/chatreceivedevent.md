@@ -27,22 +27,22 @@ This event fires each time a message appears in your chat.
 ### Component
 
 ``` java
-getComponent()
+IChatComponent getComponent()
 ```
 
-Returns the **IChatComponent** of the message.
+Returns the `IChatComponent` of the message.
 
 ### Type
 
 ``` java
-getType()
+byte getType()
 ```
 
-Returns byte corresponding to current message type.
+Corresponding to current message type.
 
 !!! Tip
 
-    It is recommended to use the type enums shown above instead of a raw number.
+    It is recommended to use the type enums shown above instead of a byte.
 
 ## Example
 

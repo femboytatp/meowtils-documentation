@@ -25,7 +25,7 @@ This event fires each client tick, which would normally be 20 times per second.
 ### Phase
 
 ``` java
-getPhase()
+Phase getPhase()
 ```
 
 Returns the current tick phase.

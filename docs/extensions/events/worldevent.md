@@ -21,7 +21,7 @@ This event fires each time a world loads or unloads for you.
 ### Type
 
 ``` java
-getType()
+Type getType()
 ```
 
 Returns the type shown above.
@@ -29,10 +29,10 @@ Returns the type shown above.
 ### World
 
 ``` java
-getWorld()
+WorldClient getWorld()
 ```
 
-Returns **WorldClient**.
+Returns `WorldClient`.
 
 ## Example
 

@@ -6,7 +6,7 @@ This event fires each time you press a key.
 
 !!! Note
 
-    This only applies to keybinds that are set in Minecraft settings.
+    This only applies to keybinds that are set in **Minecraft settings**.
 
 ## Parameter
 
@@ -17,10 +17,10 @@ This event fires each time you press a key.
 ### Key
 
 ``` java
-getKey()
+KeyBinding getKey()
 ```
 
-Returns the pressed **KeyBinding**.
+Returns the pressed `KeyBinding`.
 
 ## Example
 

@@ -21,7 +21,7 @@ Fires each time the player interacts with a block in the world.
 ### Action
 
 ``` java
-getAction()
+Action getAction()
 ```
 
 Returns current action as shown above.
@@ -29,34 +29,34 @@ Returns current action as shown above.
 ### Player
 
 ``` java
-getPlayer()
+EntityPlayerSP getPlayer()
 ```
 
-Returns **EntityPlayerSP**.
+Returns `EntityPlayerSP`.
 
 ### World
 
 ``` java
-getWorld()
+WorldClient getWorld()
 ```
 
-Returns **WorldClient**.
+Returns `WorldClient`.
 
 ### Block position
 
 ``` java
-getPos()
+BlockPos getPos()
 ```
 
-Returns **BlockPos**.
+Returns `BlockPos`.
 
 ### Facing
 
 ``` java
-getFacing()
+EnumFacing getFacing()
 ```
 
-Returns **EnumFacing**.
+Returns `EnumFacing`.
 
 ## Example
 
