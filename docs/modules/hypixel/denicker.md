@@ -9,6 +9,10 @@ tags:
 
 ---
 
+## Use team color
+
+Shows their name as seen in tab instead, for alert messages.
+
 ## Ignore teammates
 
 Will skip sending alerts for nicked players that are on the same team as you.

@@ -253,6 +253,7 @@ nav:
           - Delayed Task: extensions/util/delayed-task.md
           - Click: extensions/util/click.md
           - Sound: extensions/util/sound.md
+          - Scoreboard: extensions/util/scoreboard.md
           - Extra: extensions/util/extra.md
   - Support:
       - support/index.md
