@@ -2,7 +2,9 @@
 
 ---
 
-This event fires each time a world loads or unloads for you.
+This fires each time a world loads or unloads for you.
+
+**Cancellable =** `false`
 
 ## Parameter
 

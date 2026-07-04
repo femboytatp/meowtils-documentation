@@ -2,7 +2,9 @@
 
 ---
 
-Fires each time the player interacts with a block in the world.
+This fires each time you interact with a block in the world.
+
+**Cancellable =** `false`
 
 ## Parameter
 

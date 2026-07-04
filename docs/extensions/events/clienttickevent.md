@@ -2,7 +2,9 @@
 
 ---
 
-This event fires each client tick, which would normally be 20 times per second.
+This fires each client tick, which would normally be 20 times per second.
+
+**Cancellable =** `false`
 
 ## Parameter
 

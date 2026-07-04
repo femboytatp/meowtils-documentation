@@ -2,7 +2,9 @@
 
 ---
 
-Fires when players are rendered.
+This fires for players that are rendered.
+
+**Cancellable =** `false`
 
 ## Parameter
 

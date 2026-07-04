@@ -2,7 +2,9 @@
 
 ---
 
-This event fires each time a message appears in your chat.
+This fires each time a message appears in your chat.
+
+**Cancellable =** `true`
 
 ## Parameter
 

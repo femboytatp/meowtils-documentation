@@ -2,7 +2,9 @@
 
 ---
 
-This event fires each time you attempt to attack any entity.
+This fires each time you attempt to attack any entity.
+
+**Cancellable =** `false`
 
 ## Parameter
 

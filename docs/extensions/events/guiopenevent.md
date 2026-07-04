@@ -2,7 +2,9 @@
 
 ---
 
-This event fires each time the player opens a gui.
+This fires each time the player opens a gui.
+
+**Cancellable =** `false`
 
 ## Parameter
 

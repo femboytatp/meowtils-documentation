@@ -2,7 +2,9 @@
 
 ---
 
-This event fires each time an entity joins your world.
+This fires each time an entity joins your world.
+
+**Cancellable =** `false`
 
 ## Parameter
 

@@ -2,7 +2,9 @@
 
 ---
 
-Fires after world has been rendered, each frame.
+This fires after world has been rendered, which is each frame.
+
+**Cancellable =** `false`
 
 !!! Tip
 

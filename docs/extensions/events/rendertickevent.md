@@ -2,7 +2,9 @@
 
 ---
 
-This event fires each render tick, which is once per frame.
+This fires each render tick, which is once per frame.
+
+**Cancellable =** `false`
 
 !!! Note
 

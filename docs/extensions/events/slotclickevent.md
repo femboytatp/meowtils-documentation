@@ -2,7 +2,9 @@
 
 ---
 
-This event fires each time you click a slot in an inventory.
+This fires each time you click a slot in an inventory.
+
+**Cancellable =** `true`
 
 ## Parameter
 

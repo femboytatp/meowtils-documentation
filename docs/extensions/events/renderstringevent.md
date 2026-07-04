@@ -2,7 +2,9 @@
 
 ---
 
-Fires each time a string is rendered.
+This fires when a string is rendered.
+
+**Cancellable =** `false`
 
 ## Parameter
 

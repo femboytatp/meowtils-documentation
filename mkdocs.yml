@@ -197,6 +197,7 @@ nav:
           - Render Tick: extensions/events/rendertickevent.md
           - Chat Received: extensions/events/chatreceivedevent.md
           - Key Input: extensions/events/keyinputevent.md
+          - Moude Input: extensions/events/mouseinputevent.md
           - Gui Open: extensions/events/guiopenevent.md
           - Slot Click: extensions/events/slotclickevent.md
           - World Load: extensions/events/worldevent.md
@@ -209,6 +210,7 @@ nav:
           - Render World Last: extensions/events/renderworldlastevent.md
           - Render String: extensions/events/renderstringevent.md
           - Render Player: extensions/events/renderplayerevent.md
+          - Movement Input Update: extensions/events/movementinputupdateevent.md
       - Basic:
           - Send Message: extensions/basic/send-message.md
           - Notification: extensions/basic/notification.md

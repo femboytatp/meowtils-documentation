@@ -103,13 +103,13 @@ Events will usually have their own methods, in the example below we will use `ge
 
 ## Cancelling
 
-You can cancel events, which would prevent actions from being performed.
+You can cancel some events, which would prevent actions from being performed.
 
 ``` java
 event.setCancelled(true);
 ```
 
-!!! bug "Important"
+!!! Bug "Important"
 
     You should only cancel events when you know what you are doing and what it would lead to.
 

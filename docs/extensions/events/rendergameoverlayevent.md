@@ -2,7 +2,9 @@
 
 ---
 
-Fires each frame.
+This fires each frame.
+
+**Cancellable =** `false`
 
 !!! Tip
 

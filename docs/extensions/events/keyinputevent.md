@@ -2,7 +2,9 @@
 
 ---
 
-This event fires each time you press a key.
+This fires each time you press a key.
+
+**Cancellable =** `true`
 
 !!! Note
 
