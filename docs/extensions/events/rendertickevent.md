@@ -36,14 +36,6 @@ Phase getPhase()
 
 Returns the current render tick phase.
 
-### Partial ticks
-
-``` java
-float getPartialTicks()
-```
-
-Progress between last and current tick, usually used for interpolation.
-
 ## Example
 
 ``` java
