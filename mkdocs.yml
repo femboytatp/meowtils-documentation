@@ -40,6 +40,9 @@ theme:
     - navigation.indexes
     - navigation.path
     - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
 
   palette:
     - scheme: slate
@@ -76,6 +79,7 @@ markdown_extensions:
 plugins:
   - tags
   - glightbox
+  - search
 
 extra:
   tags:
