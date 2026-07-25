@@ -12,6 +12,7 @@ theme:
   favicon: assets/meowtils.png
   features:
     - content.code.copy
+    - navigation.footer
   
   icon:
     admonition:
@@ -82,11 +83,16 @@ plugins:
   - search
 
 extra:
+  generator: false
   tags:
     Blatant: blatant
     Legit: legit
     Safe: safe
   og_image: assets/meowtils.png
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/femboytatp/meowtils
+      name: Meowtils Repository
 
 nav:
   - Introduction: index.md
