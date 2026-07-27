@@ -17,7 +17,7 @@ Will notify you when a player automatically gets added to the blacklist if they 
 
 !!! Note
 
-    This requires you to also use the [AntiCheat Module](../antisnipe/anticheat.md).
+    This requires you to also use the [AntiCheat Module](../antisnipe/anticheat.md) & [SniperWarning Module](../antisnipe/sniperwarning.md).
 
 ### Enabled
 
@@ -51,3 +51,21 @@ If you report someone using `/wdr` or `/watchdogreport` it will add them to the 
 !!! Info
 
     These commands are only used on Hypixel.
+
+## For snipers
+
+### Enabled
+
+Will enable auto-blacklisting for players that trigger the **SniperWarning** module.
+
+### For Name
+
+Will blacklist when someone is determined to have a potential sniper name.
+
+### For Gear
+
+Will blacklist when someone has known sniper gear.
+
+### For Stats
+
+Will blacklist when someone has suspicious stats.
