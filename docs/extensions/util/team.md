@@ -31,8 +31,6 @@ This just changes between **Hypixel** & **Universal** modes depending on where t
 
 ## **Team Check**
 
----
-
 ``` java
 // Returns true if they are on your team
 TeamUtil.isTeam(EntityPlayer player)
@@ -47,8 +45,6 @@ This is used to determine if a player is on the same team as you or not.
     If this is the case you should implement your own team check designed for that specific scenario.
 
 ## **Ignore Friends**
-
----
 
 ``` java
 // Returns true if a player is friended & ignore friends is enabled in Teams module

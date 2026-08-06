@@ -15,48 +15,88 @@ tags:
 
 ## Mode
 
-### 3D
+### Both
 
-Renders a 3D ESP box.
+This combines the functionality of the **Incoming** & **ESP** modes, which renders incoming projectiles on screen, and renders an ESP for them.
 
-### 2D
+### Incoming
 
-Renders a 2D ESP box.
+Renders incoming projectiles on screen, with an arrow of where they come from. The arrow will turn more red depending on distance.
+
+### ESP
+
+Renders an ESP for projectiles.
 
 ## Render
 
-### Full
+Controls how the ESP renders.
 
-Renders a filled ESP box.
+### 3D Full
 
-### Outline
+Renders a filled 3D box.
 
-Renders an outlined ESP box.
+### 3D Outline
+
+Renders an outlined 3D box.
+
+### 2D Full
+
+Renders a filled 2D box.
+
+### 2D Outline
+
+Renders an outlined 2D box.
 
 ## Opacity
 
 Changes the opacity of the ESP.
 
+## Snowballs
+
+### Show
+
+Will render indicators for snowballs.
+
+### Expand
+
+Expands the visual ESP box for snowballs.
+
+## Eggs
+
+### Show
+
+Will render indicators for eggs.
+
+### Expand
+
+Expands the visual ESP box for eggs.
+
 ## Arrows
 
-Render for arrows.
+### Show
 
-### Arrow expand
+Will render indicators for arrows.
 
-Expands the visual ESP size for arrows.
+### Expand
+
+Expands the visual ESP box for arrows.
 
 ## Fireballs
 
-Render for fireballs.
+### Show
 
-### Fireball expand
+Will render indicators for fireballs.
 
-Expands the visual ESP size for fireballs.
+### Expand
+
+Expands the visual ESP box for fireballs.
 
 ## Ender Pearls
 
-Render for ender pearls.
+### Show
 
-### Pearl expand
+Will render indicators for ender pearls.
 
-Expands the visual ESP size for ender pearls.
+### Expand
+
+Expands the visual ESP box for ender pearls.

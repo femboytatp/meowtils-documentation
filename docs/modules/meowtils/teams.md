@@ -13,6 +13,10 @@ tags:
 
 Attempts to ignore players that might be bots, also known as AntiBot.
 
+!!! Question "Bots"
+
+    This is usually used for modules that check players, such as alerts and stats. This will exclude potential anticheat bots and NPC's from real players.
+
 ### Hypixel
 
 Made for Hypixel, which ignores players based on UUID version. May not work reliably on other servers.
@@ -33,10 +37,14 @@ Will not ignore any players even if they are bots.
 
 Will attempt to ignore players that are on the same team as you.
 
-!!! Bug
+!!! Question "Team"
 
-    This checks information provided by the server such as teams information, nametag colors, and armor colors. It may not be 100% accurate as the server may attempt to hide this or send incomplete data.
+    This is usually used for modules where you don't want them to trigger for your own teammates, this checks a variety of information available to determine if they are a teammate or not. It may not be 100% accurate.
 
 ## Ignore friends
 
 Ignores players that are in your **Meowtils** friends list.
+
+!!! Question "Friends"
+
+    This is usually used by modules where you may not want specific players to trigger, similar to the team check except you can manually exclude which players that should be ignored by adding them to your friends list.

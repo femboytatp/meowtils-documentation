@@ -17,6 +17,10 @@ tags:
 
 Will send a message with relevant information related to the module.
 
+## Hide locraw
+
+Hides the chat message that appears when running the `/locraw` command on Hypixel.
+
 ## Auto requeue
 
 Automatically requeues after game end.
