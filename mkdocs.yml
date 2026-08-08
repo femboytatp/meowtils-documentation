@@ -175,6 +175,7 @@ nav:
           - AntiObfuscate: modules/utility/antiobfuscate.md
           - AutoText: modules/utility/autotext.md
           - ChatFilter: modules/utility/chatfilter.md
+          - FlagDetector: modules/utility/flagdetector.md
           - Freelook: modules/utility/freelook.md
           - HotbarLock: modules/utility/hotbarlock.md
           - LatencyAlerts: modules/utility/latencyalerts.md
