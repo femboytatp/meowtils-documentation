@@ -39,7 +39,7 @@ _The **Auto-Updater** can still be disabled if you want to update manually._
 
 ### 2: Add Meowtils
 
-1. [Download Meowtils](https://tatp.wtf/download/).
+1. [Download Meowtils](https://meowtils.dev/download).
 
 2. Add the **Meowtils** jar to your `mods` folder.
 
@@ -65,7 +65,7 @@ It is recommended that you check out [Basic Usage](../basic-usage) in order to l
 
 ### 2: Download Meowtils
 
-[Meowtils](https://tatp.wtf/download/).
+[Meowtils](https://meowtils.dev/download).
 
 ### 3: Follow Meowtils installation steps
 
@@ -129,7 +129,7 @@ It is recommended that you check out [Basic Usage](../basic-usage) in order to l
 
 ### 1: Download files
 
-1. [Meowtils Jar](https://tatp.wtf/download/).
+1. [Meowtils Jar](https://meowtils.dev/download).
 
 2. [Manual-Install Folder](https://github.com/femboytatp/meowtils-documentation/releases/download/Manual-Install/Manual-Install.zip).
 

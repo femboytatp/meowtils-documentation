@@ -24,7 +24,7 @@ Your operating system likely has a tool to extract .zip files already, if not yo
 
 ### 4: Add Meowtils as a library
 
-1. [Download Meowtils](https://tatp.wtf/download/).
+1. [Download Meowtils](https://meowtils.dev/download).
 
 2. Add the Meowtils.jar to the **libs** folder at root in your project.
 

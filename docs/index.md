@@ -4,6 +4,17 @@
 
 ![Meowtils GUI](assets/meowtils-gui.png)
 
+## Information
+
+<img src="https://img.shields.io/github/downloads/femboytatp/meowtils/total?style=for-the-badge" alt="GitHub Downloads">   
+
+!!! Warning "Caution"
+
+    - The only official places to download **Meowtils**:
+    - The official **Meowtils** website: [meowtils.dev](https://meowtils.dev/)
+    - This repository: [github.com/femboytatp/meowtils](https://github.com/femboytatp/meowtils)
+    - My projects website: [tatp.wtf](https://tatp.wtf/)
+
 ## Supported Versions
 
 - [x] **Forge 1.8.9**
