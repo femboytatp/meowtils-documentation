@@ -11,8 +11,11 @@
 !!! Warning "Caution"
 
     The only official places to download **Meowtils**:   
-    - The official **Meowtils** website: [meowtils.dev](https://meowtils.dev/)
-    - This repository: [github.com/femboytatp/meowtils](https://github.com/femboytatp/meowtils)
+
+    - The official **Meowtils** website: [meowtils.dev](https://meowtils.dev/)   
+
+    - The repository: [github.com/femboytatp/meowtils](https://github.com/femboytatp/meowtils)   
+
     - My projects website: [tatp.wtf](https://tatp.wtf/)
 
 ## Supported Versions
