@@ -18,7 +18,7 @@ import wtf.tatp.meowtils.manager.icons.IconProvider;
 
 !!! Info
 
-    These methods will return no text by default, that means you can skip overriding if you have no intentions of modifying it.
+    You can skip overriding these if you have no intentions of modifying the prefix/suffix. Additionally, tablist or nametag booleans will only return true if they are for the tablist/nametag. Check the example below.
 
 ``` java
 getPrefix(GameProfile profile, boolean tablist, boolean nametag)

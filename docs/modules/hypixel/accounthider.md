@@ -27,7 +27,9 @@ The name it should be replaced with, supports color codes.
 
 You can also use the `/customname <name>` command.
 
-To check what colors exist you can use `/meowcolor`.
+!!! Tip
+
+    You can check all existing color codes and their respective color with `/meowcolor`.
 
 ## Custom skin
 

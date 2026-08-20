@@ -57,6 +57,8 @@ It is recommended that you check out [Basic Usage](../basic-usage) in order to l
 
     If you have issues after uninstalling go to the section further down on this page.
 
+**[Full video guide by Mega.](https://www.youtube.com/watch?v=nYrNknNR8Qo)**
+
 ### 1: Install Lunar Client
 
 1. [Download Lunar Client](https://www.lunarclient.com/download).

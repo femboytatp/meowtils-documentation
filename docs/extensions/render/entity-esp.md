@@ -44,7 +44,7 @@ The outline color.
 
 ### expandX
 
-Visualls expands the box in X direction.
+Visually expands the box in X direction.
 
 ### expandY
 

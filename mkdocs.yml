@@ -211,7 +211,7 @@ nav:
           - Mouse Input: extensions/events/mouseinputevent.md
           - Gui Open: extensions/events/guiopenevent.md
           - Slot Click: extensions/events/slotclickevent.md
-          - World Load: extensions/events/worldevent.md
+          - World Event: extensions/events/worldevent.md
           - Player Interact: extensions/events/playerinteractevent.md
           - Attack Entity: extensions/events/attackentityevent.md
           - Entity Join World: extensions/events/entityjoinworldevent.md

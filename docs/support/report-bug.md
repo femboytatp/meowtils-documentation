@@ -12,7 +12,7 @@
 
     !!! Info "Mod Conflicts"
 
-        In some cases issues appear due to a mod conflict, if so you should still report this as a bug so we can investigate, as can sometimes fix this conflict on our end. 
+        In some cases issues appear due to a mod conflict, if so you should still report this as a bug so we can investigate, as we can sometimes fix this conflict on our end. 
         
         **Make sure to specify that its due to a conflict and what mod was causing it in your bug report.**
 

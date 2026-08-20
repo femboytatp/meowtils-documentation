@@ -19,7 +19,7 @@ expand(String name, Consumer<ExpandValue> builder)
 
 // Example
 expand("Items", e -> {
-    toggle("Example item", "exampleItem");
+    e.toggle("Example item", "exampleItem");
 });
 ```
 
