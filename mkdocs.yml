@@ -276,3 +276,4 @@ nav:
       - Extra:
           #- Credits: support/extra/credits.md
           - License: support/extra/license.md
+      - Safety: support/safety.md
