@@ -51,7 +51,7 @@ Lets you customize the prefix for chat messages.
 
 Will make all prefix letters lowercase.
 
-## Preview
+### Preview
 
 Sends a message in chat to preview currently selected prefix theme.
 

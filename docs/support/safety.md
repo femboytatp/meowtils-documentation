@@ -42,7 +42,7 @@ You may be required to add an exclusion for **Meowtils** specifically, especiall
 
 6. Navigate to your Downloads folder and select the **Meowtils** exe.
 
-## Other Anti-Virus programs:
+### Other Anti-Virus programs:
 
 [Exclude in Norton](https://support.norton.com/sp/en/us/home/current/solutions/v3672136)
 
