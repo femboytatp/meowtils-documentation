@@ -44,18 +44,18 @@ You may be required to add an exclusion for **Meowtils** specifically, especiall
 
 ### Other Anti-Virus programs:
 
-[Exclude in Norton](https://support.norton.com/sp/en/us/home/current/solutions/v3672136)
+- [Exclude in Norton](https://support.norton.com/sp/en/us/home/current/solutions/v3672136)
 
-[Exclude in McAfee](https://www.mcafee.com/support/?page=shell&shell=article-view&articleId=TS102056)
+- [Exclude in McAfee](https://www.mcafee.com/support/?page=shell&shell=article-view&articleId=TS102056)
 
-[Exclude in Avast](https://support.avast.com/en-us/article/antivirus-scan-exclusions/)
+- [Exclude in Avast](https://support.avast.com/en-us/article/antivirus-scan-exclusions/)
 
-[Exclude in AVG](https://support.avg.com/SupportArticleView?l=en&urlName=avg-antivirus-scan-exclusions)
+- [Exclude in AVG](https://support.avg.com/SupportArticleView?l=en&urlName=avg-antivirus-scan-exclusions)
 
-[Exclude in Bitdefender](https://www.bitdefender.com/consumer/support/answer/13427/)
+- [Exclude in Bitdefender](https://www.bitdefender.com/consumer/support/answer/13427/)
 
-[Exclude in Kaspersky](https://support.kaspersky.com/common/windows/12978)
+- [Exclude in Kaspersky](https://support.kaspersky.com/common/windows/12978)
 
-[Exclude in ESET](https://support.eset.com/en/kb2903-exclude-files-or-folders-from-scanning-in-eset-windows-home-products)
+- [Exclude in ESET](https://support.eset.com/en/kb2903-exclude-files-or-folders-from-scanning-in-eset-windows-home-products)
 
-[Exclude in Malwarebytes](https://support.malwarebytes.com/hc/en-us/articles/360038479234-Add-exclusions-in-Malwarebytes-for-Windows)
+- [Exclude in Malwarebytes](https://support.malwarebytes.com/hc/en-us/articles/360038479234-Add-exclusions-in-Malwarebytes-for-Windows)
