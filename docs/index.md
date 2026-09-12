@@ -24,6 +24,8 @@
 
 - [x] **Lunar Client 1.8.9**
 
+_Upcoming support for: Badlion Client & Vanilla 1.8.9_
+
 [**Installation Guide**](guides/installation.md)
 
 ## Supported Platforms

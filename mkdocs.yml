@@ -270,10 +270,10 @@ nav:
           - Extra: extensions/util/extra.md
   - Support:
       - support/index.md
+      - Safety: support/safety.md
       - Request Help: support/request-help.md
       - Report Bug: support/report-bug.md
       - Suggest Feature: support/suggest-feature.md
       - Extra:
           #- Credits: support/extra/credits.md
           - License: support/extra/license.md
-      - Safety: support/safety.md

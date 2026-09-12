@@ -15,22 +15,9 @@ tags:
 
 Uses the Hypixel API to fetch stats.
 
-!!! info "Hypixel API"
+!!! Note
 
-    In order to use the Hypixel API you need a key.
-
-    **How to obtain an API key:**
-
-    1. Go to [Hypixel Developer Dashboard](https://developer.hypixel.net/).
-
-    2. Sign in with your Hypixel forums account.
-
-    3. Click `CREATE API KEY`
-
-    4. In-game, add your key with `/meowapi <key>`
-
-    _Normal keys don't last forever and will have to be regenerated. You may also need a forums account that is older than a day._
-
+    This requires you to set a Hypixel API key in the [Settings Module](../meowtils/settings.md).
 
 ### Abyss
 
@@ -102,17 +89,9 @@ Colors the names for chat stats based on the team they're on, rather than their 
 
 ## Urchin
 
-!!! Info "Urchin API"
+!!! Note
 
-    In order to use Urchin you need an API key.
-
-    **How to obtain an API key:**
-
-    1. Join [Urchin Discord](https://discord.gg/urchin)
-
-    2. Verify with your username, this assumes you have linked your discord to your username on Hypixel.
-
-    3. Run /info then /dashboard to generate your API key with their coral discord bot.
+    This requires you to set a Coral API key in the [Settings Module](../meowtils/settings.md).
 
 ### Check Urchin API
 

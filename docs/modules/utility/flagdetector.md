@@ -20,3 +20,7 @@ Controls how often this will alert when continously flagging.
 ## Ping sound
 
 Plays a firework explosion sound each alert.
+
+## Disable on join
+
+Temporarily disables alerts after you just joined a new world, as this can sometimes cause it to alert.

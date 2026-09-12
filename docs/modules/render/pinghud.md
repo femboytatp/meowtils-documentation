@@ -15,6 +15,10 @@ tags:
 
 ---
 
+## Scale
+
+Size of the text.
+
 ## Dynamic color
 
 Colors the ping text depending on how high it is.
