@@ -24,3 +24,7 @@ Plays a firework explosion sound each alert.
 ## Disable on join
 
 Temporarily disables alerts after you just joined a new world, as this can sometimes cause it to alert.
+
+## Ignore teleports
+
+Will not alert if you teleported in a way that is legit, such as with ender pearls.

@@ -51,6 +51,14 @@ Renders an outlined 2D box.
 
 Changes the opacity of the ESP.
 
+## Scale
+
+Changes the scale of indicators, for incoming projectiles.
+
+## Radius
+
+Controls how close to your crosshair that indicators will render, lower radius would mean closer to your crosshair.
+
 ## Snowballs
 
 ### Show
