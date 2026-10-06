@@ -21,3 +21,15 @@
 .md-tag--safe::before {
     background-color: #00b0ff !important;
 }
+
+.yes {
+    color:mediumspringgreen;
+}
+
+.no {
+    color: var(--md-default-fg-color--lighter);
+}
+
+.soon {
+    color:goldenrod;
+}
