@@ -18,7 +18,7 @@ Modules from extensions will show up in a new category called `Extensions`.
 
 ## Why use **Extensions**?
 
-**Extensions** provide a way to modify Minecraft in many ways without having to load a traditional Forge mod. Additionally they are supported on **Lunar Client**.
+**Extensions** provide a way to modify Minecraft in many ways without having to load a traditional Forge mod. Additionally they are supported on **several clients**.
 
 - Runtime loading.
 
@@ -34,7 +34,7 @@ Modules from extensions will show up in a new category called `Extensions`.
 
 - Multi-Client Events.
 
-    _**Meowtils** events are both supported on **Lunar Client** and **Forge**, simultaneously. Your features will work on both._
+    _**Meowtils** events are supported on **several clients**, simultaneously. Your features will work on every client that **Meowtils** supports._
 
 ## Usage
 

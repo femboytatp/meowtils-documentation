@@ -28,7 +28,7 @@ Since **Extensions** load at runtime by **Meowtils** you are unable to use certa
 
 !!! bug "Important"
 
-    In order to ensure compatibility with both **Lunar Client** and **Forge** you will need to include several mappings for fields.
+    In order to ensure compatibility with several clients, you will need to include several different mappings for the environments that you want to support.
 
 !!! Tip
 

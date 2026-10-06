@@ -8,7 +8,7 @@ Meowtils events are very similar to Forge events, however there are a few notabl
 
 !!! Warning
 
-    In order for your Extension to be compatible with Lunar Client, you must only use Meowtils events. Any Forge events (@SubscribeEvent annotated) will only work on Forge or if you specifically inject Meowtils into "Lunar + Forge".
+    In order for your Extension to be compatible with different clients, you must only use **Meowtils** events. Any Forge events (@SubscribeEvent annotated) will only work on Forge, or when they are supported by the client itself".
 
 # Usage
 

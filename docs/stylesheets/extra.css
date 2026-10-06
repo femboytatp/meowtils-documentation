@@ -52,6 +52,7 @@
 .md-typeset table:not([class]) th { 
     border-bottom: .05rem solid var(--md-typeset-table-color);
     font-size: .9rem;
+    font-weight: 400;
     position: relative;
 }
 

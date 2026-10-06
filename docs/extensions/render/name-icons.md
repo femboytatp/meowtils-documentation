@@ -2,10 +2,6 @@
 
 This lets you add icons or text to player nametags, which will show up in both tablist & nametags depending on how you limit it.
 
-!!! Bug
-
-    If you are using Lunar Client nametag icons will only be displayed in tablist.
-
 ---
 
 ## Interface
