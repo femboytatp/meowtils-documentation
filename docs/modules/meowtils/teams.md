@@ -1,8 +1,3 @@
----
-tags:
-  - Legit
----
-
 # **Teams**
 
 #### Makes modules ignore teammates and bots.

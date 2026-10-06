@@ -40,7 +40,7 @@ You are able to bind modules to a specified key, if so they will toggle when pre
 
 ### Scrolling
 
-In case a category is too long you can hover over it and use your scroll wheel to access settings or modules that are located lower down.
+When a category becomes too long, a scroll bar will appear which allows you to scroll further down by using your mouse scroll wheel, as long as you are still hovering over the selected category.
 
 ## HUD Editor
 

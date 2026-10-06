@@ -104,10 +104,10 @@ nav:
   - Modules:
       - Meowtils:
           - GUI: modules/meowtils/gui.md
-          - Icons: modules/meowtils/icons.md
-          - Notifications: modules/meowtils/notifications.md
           - Settings: modules/meowtils/settings.md
+          - Config: modules/meowtils/config.md
           - Teams: modules/meowtils/teams.md
+          - Icons: modules/meowtils/icons.md
       - Hypixel:
           - AccountHider: modules/hypixel/accounthider.md
           - AutoChannel: modules/hypixel/autochannel.md

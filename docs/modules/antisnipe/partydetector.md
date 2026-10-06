@@ -9,13 +9,25 @@ tags:
 
 ---
 
+## Scale
+
+Changes the size of HUD text.
+
 ## Ping sound
 
 Plays a sound for alerts.
 
-## Show missed players
+## Alert missed
 
-Counts and displays how many players this missed to count, which would be all players that were in the lobby before you joined.
+Counts and alerts how many players that were missed/couldn't be counted. This would include all players that joined before you did.
+
+## Show HUD
+
+Displays missed players & missed parties on your HUD.
+
+!!! Note
+
+    This cannot be 100% accurate as missed parties are only estimated depending on players that joined before you, and the max size of teams in your currently selected Bedwars mode.
 
 ## Bedwars 2s
 

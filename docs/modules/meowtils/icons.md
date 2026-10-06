@@ -1,8 +1,3 @@
----
-tags:
-  - Legit
----
-
 # **Icons**
 
 #### Adjust settings for various nametag icons that are shown for players.
