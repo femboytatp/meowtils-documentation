@@ -45,6 +45,10 @@
 }
 
 .md-typeset table .twemoji {
-    font-size: 1.8em;
+    font-size: 1.4em;
     vertical-align: middle;
+}
+
+.md-typeset table:not([class]) th { 
+    border-bottom: .05rem solid var(--md-typeset-table-color);
 }
