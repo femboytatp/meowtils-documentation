@@ -51,4 +51,13 @@
 
 .md-typeset table:not([class]) th { 
     border-bottom: .05rem solid var(--md-typeset-table-color);
+    font-size: 1.6em;
+    position: relative;
+}
+
+.md-typeset table:not([class]) th:nth-child(n+2):not(:last-child)::after {
+    content: "•";
+    position: absolute;
+    right: 0;
+    transform: translateX(50%);
 }
