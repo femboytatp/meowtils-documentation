@@ -22,13 +22,13 @@
 
 | Client | Windows | Linux | Mac |
 | ------ | :-----: | :---: | :-: |
-| **Vanilla 1.8.9** | :material-check-circle-outline:{ .soon } | :material-check-circle-outline:{ .soon } | :material-check-circle-outline:{ .soon } |
-| **Forge 1.8.9** | :material-check-circle:{ .yes } | :material-check-circle:{ .yes } | :material-check-circle:{ .yes } |
-| **Lunar Client 1.8.9** | :material-check-circle:{ .yes } | :material-check-circle:{ .yes } | :material-check-circle:{ .yes } |
-| **Badlion Client 1.8.9** | :material-check-circle-outline:{ .soon } | :material-check-circle-outline:{ .soon } | :material-circle-outline:{ .no } |
+| Vanilla 1.8.9 | :material-check-circle-outline:{ .soon } | :material-check-circle-outline:{ .soon } | :material-check-circle-outline:{ .soon } |
+| Forge 1.8.9 | :material-check-circle:{ .yes } | :material-check-circle:{ .yes } | :material-check-circle:{ .yes } |
+| Lunar Client 1.8.9 | :material-check-circle:{ .yes } | :material-check-circle:{ .yes } | :material-check-circle:{ .yes } |
+| Badlion Client 1.8.9 | :material-check-circle-outline:{ .soon } | :material-check-circle-outline:{ .soon } | :material-circle-outline:{ .no } |
 
-:material-check-circle:{ .yes } Supported
-:material-check-circle-outline:{ .soon } Coming Soon
+:material-check-circle:{ .yes } Supported   
+:material-check-circle-outline:{ .soon } Coming Soon   
 :material-circle-outline:{ .no } Not Supported
 
 [**Installation Guide**](guides/installation.md)

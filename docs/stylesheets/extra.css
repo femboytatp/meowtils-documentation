@@ -33,3 +33,18 @@
 .soon {
     color:goldenrod;
 }
+
+.md-typeset table:not([class]) {
+    border: 0;
+    box-shadow: none;
+}
+
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+    border:0;
+}
+
+.md-typeset table .twemoji {
+    font-size: 1.8em;
+    vertical-align: middle;
+}
