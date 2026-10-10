@@ -11,7 +11,7 @@ Like everything else, you should always be careful when running unknown files. I
 
 ## Obfuscation
 
-**Many mods & clients are obfuscated**, while this is usually a protective measure for auth & protecting their own code from being re-used/copied, it also means the real functionality of the code is being hidden and it may perform harmful actions - without your knowledge. This is not a warning sign in itself, especially if the service you use is paid, however it is something to note and you should never run anything you don't trust completely.
+**Some mods & clients are obfuscated**, while this is usually a protective measure for auth & protecting their own code from being re-used/copied, it also means the real functionality of the code is being hidden and it may perform harmful actions - without your knowledge. This is not a warning sign in itself, especially if the service you use is paid, however it is something to note and you should never run anything you don't trust completely.
 
 ### Meowtils
 
@@ -27,7 +27,7 @@ We provide an **.exe** file for full runtime-injection. Internally this does not
 
 ## Exclude in Anti-Virus
 
-You may be required to add an exclusion for **Meowtils** specifically, especially if you want to use the **.exe** version of it.
+You may be required to add an exclusion for **Meowtils** specifically, if you want to use the **.exe** version of it.
 
 ### Windows Defender
 1. Open Windows Security
